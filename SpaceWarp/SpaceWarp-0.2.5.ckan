@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "SpaceWarp",
+    "name": "BepInEx Space Warp Plugin",
+    "abstract": "A plugin to load Space Warp mods with BepInEx maintained by the Space Warp developers",
+    "author": "cheese3660",
+    "version": "0.2.5",
+    "ksp_version": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/213036-space-warp/",
+        "spacedock": "https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin",
+        "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
+        "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "SpaceWarp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin/download/0.2.5",
+    "download_size": 57461,
+    "download_hash": {
+        "sha1": "39E0280C1785CEB9D7C937B08111346EC21D6501",
+        "sha256": "6527C9452F9DBD3CB315D5AE68B07790C4E8AD1F4E819DDCBDE6FC8203B9B584"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 218624,
+    "release_date": "2023-02-28T14:20:04.238451+00:00",
+    "x_generated_by": "netkan"
+}

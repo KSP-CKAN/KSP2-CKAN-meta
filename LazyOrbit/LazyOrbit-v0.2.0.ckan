@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "LazyOrbit",
+    "name": "Lazy Orbit",
+    "abstract": "Set a vessel's orbit, rendezvous and land using a simple menu opened with ALT+H.",
+    "author": "Halban",
+    "version": "v0.2.0",
+    "ksp_version": "0.1.0",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://discord.gg/USpqvrUH",
+        "spacedock": "https://spacedock.info/mod/3258/Lazy%20Orbit",
+        "repository": "https://github.com/Halbann/LazyOrbit",
+        "bugtracker": "https://github.com/Halbann/LazyOrbit/issues",
+        "x_screenshot": "https://spacedock.info/content/Halban_103632/Lazy_Orbit/Lazy_Orbit-1677450606.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "LazyOrbit",
+            "install_to": "SpaceWarp/Mods"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3258/Lazy%20Orbit/download/v0.2.0",
+    "download_size": 13750,
+    "download_hash": {
+        "sha1": "5FE0D353913052A61DBDA1256D3F4C467203E62C",
+        "sha256": "A8DD4176C18D7B45F39F55B62A5C45A5EDB0FE86BDAC338001CAA3620729B038"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 35695,
+    "release_date": "2023-02-26T21:19:51.723432+00:00",
+    "x_generated_by": "netkan"
+}

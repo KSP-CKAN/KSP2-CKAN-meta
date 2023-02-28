@@ -1,0 +1,10 @@
+{
+    "repositories": [
+        {
+            "name":      "default",
+            "uri":       "https://github.com/KSP-CKAN/KSP2-CKAN-meta/archive/main.tar.gz",
+            "x_mirror":  true,
+            "x_comment": "The well-known default KSP2 CKAN metadata repository"
+        }
+    ]
+}
