@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "SpaceWarp",
+    "name": "Space Warp",
+    "abstract": "A C# Modding API for KSP2",
+    "author": [
+        "cheese3660",
+        "X606"
+    ],
+    "version": "0.4.0",
+    "ksp_version_min": "0",
+    "ksp_version_max": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/213036-space-warp/",
+        "spacedock": "https://spacedock.info/mod/3257/Space%20Warp",
+        "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
+        "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues",
+        "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Space_Warp/Space_Warp-1677349287.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "ConfigurationManager",
+            "install_to": "BepInEx/plugins"
+        },
+        {
+            "find": "SpaceWarp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3257/Space%20Warp/download/0.4.0",
+    "download_size": 3241732,
+    "download_hash": {
+        "sha1": "C5D86C06165863BC7673357AFBE1676FAF405DE3",
+        "sha256": "12A8D80C125E2CCEE570B6F0D832C302BEAD91B872E6D5E75E03D85D5C80EFA6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3312594,
+    "release_date": "2023-03-05T15:51:36.369408+00:00",
+    "x_generated_by": "netkan"
+}
