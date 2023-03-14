@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "BepInEx",
+    "name": "BepInEx for KSP 2",
+    "abstract": "Modloader for Unity games",
+    "author": "bbepis",
+    "version": "5.4.21",
+    "ksp_version": "0.1.0",
+    "license": "LGPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/212355-bepinex-for-ksp-2-adding-modding-support-to-the-game/",
+        "spacedock": "https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202",
+        "repository": "https://github.com/BepInEx/BepInEx",
+        "bugtracker": "https://github.com/BepInEx/BepInEx/issues",
+        "x_screenshot": "https://spacedock.info/content/bbepis_103678/BepInEx_for_KSP_2/BepInEx_for_KSP_2-1677289683.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "doorstop_config.ini",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "winhttp.dll",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202/download/5.4.21",
+    "download_size": 635038,
+    "download_hash": {
+        "sha1": "646CC384E41D922C190ED01DA8EA9168B763CAD7",
+        "sha256": "2AF69FE0AAF821E95C4CD3E4D53860E667C54648F97DCA6F971A5BCD3C22AA34"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1786972,
+    "release_date": "2023-02-25T01:36:39.134009+00:00",
+    "x_generated_by": "netkan"
+}
