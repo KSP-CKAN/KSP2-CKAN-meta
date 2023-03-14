@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "kRPC2",
+    "name": "kRPC2",
+    "abstract": "Control the game using Python, C#, C++, Lua, Java...",
+    "author": "djungelorm",
+    "version": "0.1.0",
+    "ksp_version": "0.1.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214999-krpc2-control-the-game-using-python-c-c-java-lua/",
+        "spacedock": "https://spacedock.info/mod/3322/kRPC2",
+        "repository": "https://github.com/krpc/krpc2",
+        "bugtracker": "https://github.com/krpc/krpc2/issues"
+    },
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kRPC2",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3322/kRPC2/download/0.1.0",
+    "download_size": 265919,
+    "download_hash": {
+        "sha1": "5F498658FC499A8F945E385B8232137C9D04FAFE",
+        "sha256": "BD40F6D744F3A4C93F20FE9E17D0B0FB424FA2053BE273B7BBC7BFFC8CBB2716"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 676661,
+    "release_date": "2023-03-13T21:03:31.121362+00:00",
+    "x_generated_by": "netkan"
+}

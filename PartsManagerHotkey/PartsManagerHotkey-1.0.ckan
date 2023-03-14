@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PartsManagerHotkey",
+    "name": "Parts Manager Hotkey",
+    "abstract": "Prevents accidentally opening Parts Manager by requiring a hotkey to be held when clicking.",
+    "author": "shdwp",
+    "version": "1.0",
+    "ksp_version": "0.1.0",
+    "license": "LGPL-3.0",
+    "resources": {
+        "homepage": "https://github.com/shdwp/ksp2PartsManagerHotkey/issues",
+        "spacedock": "https://spacedock.info/mod/3314/Parts%20Manager%20Hotkey",
+        "repository": "https://github.com/shdwp/ksp2PartsManagerHotkey",
+        "bugtracker": "https://github.com/shdwp/ksp2PartsManagerHotkey/issues"
+    },
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "PartsManagerHotkey",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3314/Parts%20Manager%20Hotkey/download/1.0",
+    "download_size": 3207,
+    "download_hash": {
+        "sha1": "6881F82E02463D9B62019B2715107C77766117DA",
+        "sha256": "2E089919F129BC8A2AC778C09690217BEA1F22F7D1360C09E2E3DA50FC7CABDF"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 6719,
+    "release_date": "2023-03-09T19:41:21.439562+00:00",
+    "x_generated_by": "netkan"
+}

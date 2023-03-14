@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "PaigeBGone",
+    "name": "P.A.I.G.E B Gone",
+    "abstract": "Removes P.A.I.G.E popups and mutes her voice in KSP 2",
+    "author": "amahlaka",
+    "version": "1.0.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/amahlaka/P.A.I.G.E-B-Gone",
+        "bugtracker": "https://github.com/amahlaka/P.A.I.G.E-B-Gone/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "paige_b_gone",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/amahlaka/P.A.I.G.E-B-Gone/releases/download/1.0.0/paige_b_gone.zip",
+    "download_size": 4157,
+    "download_hash": {
+        "sha1": "834FCD12CFC5C66A943C4479003E894DA567C482",
+        "sha256": "1A6AB326DF4D54D1C0550D20B3A40191208373137D8A40D1F592F39F077C8BA0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 7009,
+    "release_date": "2023-03-07T17:43:16Z",
+    "x_generated_by": "netkan"
+}

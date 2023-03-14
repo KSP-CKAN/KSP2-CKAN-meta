@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "StageInfo",
+    "name": "Stage Info",
+    "abstract": "Displays thrust-to-weight ratio per stage with customizable situations",
+    "author": "natalia_simonova",
+    "version": "0.7",
+    "ksp_version": "0.1.0",
+    "license": "restricted",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3272/Stage%20Info",
+        "x_screenshot": "https://spacedock.info/content/natalia_simonova_99724/Stage_Info/Stage_Info-1678509699.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "StageInfo",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3272/Stage%20Info/download/0.7",
+    "download_size": 322082,
+    "download_hash": {
+        "sha1": "A4058A859E839E6D31A55217FB9524225D26F5A1",
+        "sha256": "90B73AF8830ECB4573DCCEA5E3F71DF1D281F833EBEF4337D173B20DEB22EF76"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 332504,
+    "release_date": "2023-03-10T04:37:27.931878+00:00",
+    "x_generated_by": "netkan"
+}

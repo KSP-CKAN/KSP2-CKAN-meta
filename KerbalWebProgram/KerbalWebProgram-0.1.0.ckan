@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalWebProgram",
+    "name": "Kerbal Web Program",
+    "abstract": "Control your game with Any Language [C#, JS, Java, Python]",
+    "author": "ShadowDev",
+    "version": "0.1.0",
+    "ksp_version": "0.1.0",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://github.com/Bit-Studios/KerbalWebProgram/wiki",
+        "spacedock": "https://spacedock.info/mod/3275/Kerbal%20Web%20Program",
+        "repository": "https://github.com/Bit-Studios/KerbalWebProgram",
+        "bugtracker": "https://github.com/Bit-Studios/KerbalWebProgram/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbal_Web_Program/Kerbal_Web_Program-1677593780.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kerbal_web_program",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3275/Kerbal%20Web%20Program/download/0.1.0",
+    "download_size": 28131,
+    "download_hash": {
+        "sha1": "6168D8F3D100DCC39CEFDABD13D8E3D660DE7E38",
+        "sha256": "84C2D7CDEA27777527655008D9BD30FEEA3CF0B343A8519A843E70F214C31638"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 64718,
+    "release_date": "2023-03-11T18:33:42.594025+00:00",
+    "x_generated_by": "netkan"
+}
