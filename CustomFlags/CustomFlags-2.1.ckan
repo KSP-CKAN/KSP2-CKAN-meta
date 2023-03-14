@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.31",
+    "identifier": "CustomFlags",
+    "name": "Custom Flags",
+    "abstract": "Adds the ability to add custom flags",
+    "author": "adamsogm",
+    "version": "2.1",
+    "ksp_version": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3262/Custom%20Flags",
+        "repository": "https://github.com/adamsong/custom-flags",
+        "bugtracker": "https://github.com/adamsong/custom-flags/issues"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "custom-flags",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3262/Custom%20Flags/download/2.1",
+    "download_size": 11664,
+    "download_hash": {
+        "sha1": "A6701C7D4D6BBCD04222FEA6FA77F22D69D69EE8",
+        "sha256": "DB20908E66C6E7803F1C3FAA0725CB696F6CA000A9D34A0FABF89E74C34D3209"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 21917,
+    "release_date": "2023-03-07T00:33:58.512551+00:00",
+    "x_generated_by": "netkan"
+}

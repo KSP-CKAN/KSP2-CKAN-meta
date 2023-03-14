@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MoreResolutions",
+    "name": "More Resolutions",
+    "abstract": "Allows selecting non-16:9 resolutions in KSP2",
+    "author": "arthomnix",
+    "version": "0.2.0",
+    "ksp_version": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://spacedock.info/mod/3320/More%2520Resolutions",
+        "spacedock": "https://spacedock.info/mod/3320/More%20Resolutions",
+        "repository": "https://github.com/arthomnix/MoreResolutions",
+        "bugtracker": "https://github.com/arthomnix/MoreResolutions/issues",
+        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/More_Resolutions/More_Resolutions-1678710105.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "MoreResolutions",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3320/More%20Resolutions/download/0.2.0",
+    "download_size": 6612,
+    "download_hash": {
+        "sha1": "8196BB2F2243E91A28E6C55A1AD992F88B7C4874",
+        "sha256": "6F783CF0A5EF61D70ED6759CF76D64E23929C3796677F5AA6B2885A3E2CBC88A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 13019,
+    "release_date": "2023-03-13T17:47:40.437431+00:00",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "CommunityFixes",
+    "name": "Community Fixes",
+    "abstract": "Community project that aims to bring together bug fixes for KSP 2",
+    "author": [
+        "ShadowDev",
+        "munix"
+    ],
+    "version": "0.3.1",
+    "ksp_version": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214521-community-fixes/",
+        "spacedock": "https://spacedock.info/mod/3301/Community%20Fixes",
+        "repository": "https://github.com/Bit-Studios/CommunityFixes",
+        "bugtracker": "https://github.com/Bit-Studios/CommunityFixes/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Community_Fixes/Community_Fixes-1678066194.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "community_fixes",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3301/Community%20Fixes/download/0.3.1",
+    "download_size": 9113,
+    "download_hash": {
+        "sha1": "96D894EE097D65A392C8181F1C51D7E12B755994",
+        "sha256": "A315E0933C0E8577A221070AAE4C85E4D0E1448B35F5FE8EFCD66044CDE21ED1"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 16467,
+    "release_date": "2023-03-13T22:03:40.197928+00:00",
+    "x_generated_by": "netkan"
+}
