@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "BetterPartsManager",
+    "name": "Better Parts Manager",
+    "abstract": "Do you hate the ingame parts manager and want a ksp 1 style parts manager? this is for you",
+    "author": "ShadowDev",
+    "version": "1.2.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214227-better-part-manager/",
+        "spacedock": "https://spacedock.info/mod/3292/Better%20Parts%20Manager",
+        "repository": "https://github.com/Bit-Studios/KerbalPartManager",
+        "bugtracker": "https://github.com/Bit-Studios/KerbalPartManager/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Better_Parts_Manager/Better_Parts_Manager-1677728820.png"
+    },
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kerbal_part_manager",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3292/Better%20Parts%20Manager/download/1.2.0",
+    "download_size": 10706,
+    "download_hash": {
+        "sha1": "42E51FEFD4BBB12F38CED990A7B0BC9B4420F888",
+        "sha256": "E40EA6FBB0C55F0829FDA7B856A2553E720C3D5348A7C779C6AEE712C8BC5570"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 22066,
+    "release_date": "2023-03-15T23:40:48.641175+00:00",
+    "x_generated_by": "netkan"
+}
