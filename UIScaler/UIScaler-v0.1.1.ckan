@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "UIScaler",
+    "name": "UI Scaler",
+    "abstract": "Change the size of the game's user interface via a slider in the settings menu.",
+    "author": "Halban",
+    "version": "v0.1.1",
+    "ksp_version_min": "0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214573-ui-scaler-v011-change-the-size-of-the-games-user-interface/#comment-4253305",
+        "spacedock": "https://spacedock.info/mod/3291/UI%20Scaler",
+        "repository": "https://github.com/Halbann/UIScaler",
+        "bugtracker": "https://github.com/Halbann/UIScaler/issues",
+        "x_screenshot": "https://spacedock.info/content/Halban_103632/UI_Scaler/UI_Scaler-1677724741.jpg"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3291/UI%20Scaler/download/v0.1.1",
+    "download_size": 12048,
+    "download_hash": {
+        "sha1": "F92AD20522A6EC6574EE9D288258DDF143E5D5B9",
+        "sha256": "B0E656A2DF33979B51D4C51E79BC2FDF1C678B5673ED524C40FE61E2D29751EC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 30811,
+    "release_date": "2023-03-06T17:25:01.631928+00:00",
+    "x_generated_by": "netkan"
+}
