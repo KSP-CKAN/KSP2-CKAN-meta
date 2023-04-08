@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "EVAAnarchy",
+    "name": "EVA Anarchy",
+    "abstract": "Allows EVA even when EVA is disabled due to an obstacle.",
+    "author": "ThunderousEcho",
+    "version": "1.0.1",
+    "ksp_version": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://spacedock.info/mod/3341/EVA%2520Anarchy",
+        "spacedock": "https://spacedock.info/mod/3341/EVA%20Anarchy",
+        "repository": "https://github.com/ThunderousEcho/EvaAnarchy",
+        "bugtracker": "https://github.com/ThunderousEcho/EvaAnarchy/issues",
+        "x_screenshot": "https://spacedock.info/content/ThunderousEcho_107475/EVA_Anarchy/EVA_Anarchy-1679804146.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "eva_anarchy",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3341/EVA%20Anarchy/download/1.0.1",
+    "download_size": 4569,
+    "download_hash": {
+        "sha1": "055A7640BCB8860BABB064BF9DD169FD7C363D11",
+        "sha256": "DDFAA63A11907CE51174A0035B1E98F463BEB16413D3CCA6F6D63D2145D6E507"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 8811,
+    "release_date": "2023-03-26T03:48:56.427625+00:00",
+    "x_generated_by": "netkan"
+}
