@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SORRY",
+    "name": "SORRY",
+    "abstract": "Spaceplane and Orbit Reutilization and Recovery companY",
+    "author": "Kemorno",
+    "version": "0.2.4(1)",
+    "ksp_version_min": "0",
+    "ksp_version_max": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215710-sorry-spaceplane-and-orbit-reutilization-and-recovery-company-020/",
+        "spacedock": "https://spacedock.info/mod/3336/SORRY",
+        "repository": "https://github.com/LuxStice/SORRY",
+        "bugtracker": "https://github.com/LuxStice/SORRY/issues",
+        "x_screenshot": "https://spacedock.info/content/Kemorno_20611/SORRY/SORRY-1679446221.png"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3336/SORRY/download/0.2.4(1)",
+    "download_size": 87480743,
+    "download_hash": {
+        "sha1": "7C1A8F7369CD5211B294D56AE2753D03B4560B0A",
+        "sha256": "50AC7A70B497F6A6F8A0C20458D95F8A5B61F053CB3E82429FD7C32B65FC665F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 88848533,
+    "release_date": "2023-04-04T11:50:41.934924+00:00",
+    "x_generated_by": "netkan"
+}
