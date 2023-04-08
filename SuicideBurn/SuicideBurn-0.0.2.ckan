@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SuicideBurn",
+    "name": "Suicide Burn",
+    "abstract": "Land That Rocket!!!",
+    "author": "ShadowDev",
+    "version": "0.0.2",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3311/Suicide%20Burn",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Suicide_Burn/Suicide_Burn-1678236533.png"
+    },
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "suicide_burn",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3311/Suicide%20Burn/download/0.0.2",
+    "download_size": 6551,
+    "download_hash": {
+        "sha1": "2389A3850ED276A9E415AAB99E87B21F8755A27D",
+        "sha256": "B5F5BAFA7AC87442BCF021246D315DA79A6047CA962400CA84516F84983FC64F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11977,
+    "release_date": "2023-03-08T18:25:27.107352+00:00",
+    "x_generated_by": "netkan"
+}
