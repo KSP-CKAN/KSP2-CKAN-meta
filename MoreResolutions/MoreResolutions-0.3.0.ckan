@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MoreResolutions",
+    "name": "More Resolutions",
+    "abstract": "Allows selecting unsupported and custom display resolutions in KSP2",
+    "author": "arthomnix",
+    "version": "0.3.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215043-more-resolutions-030/",
+        "spacedock": "https://spacedock.info/mod/3320/More%20Resolutions",
+        "repository": "https://github.com/arthomnix/MoreResolutions",
+        "bugtracker": "https://github.com/arthomnix/MoreResolutions/issues",
+        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/More_Resolutions/More_Resolutions-1678710105.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "MoreResolutions",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3320/More%20Resolutions/download/0.3.0",
+    "download_size": 7303,
+    "download_hash": {
+        "sha1": "E2071440F7F5B9E6DDAB6AB7450ED384B0B9C969",
+        "sha256": "C23A6403F5C5B3B3A6C99BA8C950CBA6C5A60346D349BAFF1FFAE85458EF972F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 14054,
+    "release_date": "2023-03-19T18:13:55.271121+00:00",
+    "x_generated_by": "netkan"
+}
