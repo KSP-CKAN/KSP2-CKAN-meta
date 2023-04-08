@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalNotebook",
+    "name": "Kerbal Notebook",
+    "abstract": "Take notes",
+    "author": "ShadowDev",
+    "version": "0.0.2",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214994-kerbal-notebook/",
+        "spacedock": "https://spacedock.info/mod/3321/Kerbal%20Notebook",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbal_Notebook/Kerbal_Notebook-1678724198.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "notebook",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3321/Kerbal%20Notebook/download/0.0.2",
+    "download_size": 5898,
+    "download_hash": {
+        "sha1": "5C7B6D5A866E24477728DC6BFC9059853F7AAFC2",
+        "sha256": "2E2AE225DC7EF52B50B18D10055C46C870A09D8789E60109899CEAAF58B15F95"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 10770,
+    "release_date": "2023-03-14T23:08:14.251017+00:00",
+    "x_generated_by": "netkan"
+}
