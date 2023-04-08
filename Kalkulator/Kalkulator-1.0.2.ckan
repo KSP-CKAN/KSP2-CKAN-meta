@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Kalkulator",
+    "name": "Kalkulator",
+    "abstract": "Adds a basic calculator with addition, subtraction, multiplication, and division functionality.",
+    "author": "JohnsterSpaceProgram",
+    "version": "1.0.2",
+    "ksp_version": "0.1.1",
+    "license": "CC-BY-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215278-kalkulator-102/",
+        "spacedock": "https://spacedock.info/mod/3327/Kalkulator",
+        "repository": "https://github.com/JohnsterSpaceProgramOfficial/Kalkulator",
+        "bugtracker": "https://github.com/JohnsterSpaceProgramOfficial/Kalkulator/issues",
+        "x_screenshot": "https://spacedock.info/content/JohnsterSpaceProgram_25967/Kalkulator/Kalkulator-1679184356.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kalkulator",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3327/Kalkulator/download/1.0.2",
+    "download_size": 7870,
+    "download_hash": {
+        "sha1": "8BF67CD80F84A6386D0A600DFBAC3C3D85F7E296",
+        "sha256": "F437D26EE4391179A78E5D188186835EFFE6088E5D8B2B273723EB812C94C48C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 13903,
+    "release_date": "2023-03-19T00:05:10.108771+00:00",
+    "x_generated_by": "netkan"
+}
