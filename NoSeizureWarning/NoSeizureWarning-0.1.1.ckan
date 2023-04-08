@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "NoSeizureWarning",
+    "name": "No Seizure Warning",
+    "abstract": "Disable KSP 2's seizure warning splash screen",
+    "author": "arthomnix",
+    "version": "0.1.1",
+    "ksp_version": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215756-no-seizure-warning-011/",
+        "spacedock": "https://spacedock.info/mod/3337/No%20Seizure%20Warning",
+        "repository": "https://github.com/arthomnix/NoSeizureWarning",
+        "bugtracker": "https://github.com/arthomnix/NoSeizureWarning/issues",
+        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/No_Seizure_Warning/No_Seizure_Warning-1679520817.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "NoSeizureWarning",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3337/No%20Seizure%20Warning/download/0.1.1",
+    "download_size": 4938,
+    "download_hash": {
+        "sha1": "438DFFD076B1A9523CF80179DC229DF95BA7546B",
+        "sha256": "7479A41C056C223FDBD1B16A9338EE6D18CEDBE87B77EA78CEE7B0EF72322A99"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9056,
+    "release_date": "2023-03-23T16:32:38.388963+00:00",
+    "x_generated_by": "netkan"
+}
