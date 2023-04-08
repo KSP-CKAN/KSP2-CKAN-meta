@@ -5,7 +5,8 @@
     "abstract": "Control your game with Any Language [C#, JS, Java, Python]",
     "author": "ShadowDev",
     "version": "0.1.0",
-    "ksp_version": "0.1.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
     "license": "CC-BY-NC-ND",
     "resources": {
         "homepage": "https://github.com/Bit-Studios/KerbalWebProgram/wiki",
@@ -29,10 +30,10 @@
         }
     ],
     "download": "https://spacedock.info/mod/3275/Kerbal%20Web%20Program/download/0.1.0",
-    "download_size": 28131,
+    "download_size": 28088,
     "download_hash": {
-        "sha1": "6168D8F3D100DCC39CEFDABD13D8E3D660DE7E38",
-        "sha256": "84C2D7CDEA27777527655008D9BD30FEEA3CF0B343A8519A843E70F214C31638"
+        "sha1": "856D9F8BD46E8E129756FABE3EB18908D9691AA5",
+        "sha256": "1D6DB7965D90472ABE9D87CF8C33497214B0CA9984F7268B6C1D9D2B45E17D05"
     },
     "download_content_type": "application/zip",
     "install_size": 64718,
