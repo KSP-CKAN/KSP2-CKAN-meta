@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LazyOrbit",
+    "name": "Lazy Orbit",
+    "abstract": "Set a vessel's orbit, rendezvous and land using a simple menu opened with ALT+H.",
+    "author": "Halban",
+    "version": "v0.4.0",
+    "ksp_version_min": "0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214571-lazy-orbit-v040-set-a-vessels-orbit-via-a-simple-menu/#comment-4253292",
+        "spacedock": "https://spacedock.info/mod/3258/Lazy%20Orbit",
+        "repository": "https://github.com/Halbann/LazyOrbit",
+        "bugtracker": "https://github.com/Halbann/LazyOrbit/issues",
+        "x_screenshot": "https://spacedock.info/content/Halban_103632/Lazy_Orbit/Lazy_Orbit-1677636936.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3258/Lazy%20Orbit/download/v0.4.0",
+    "download_size": 16026,
+    "download_hash": {
+        "sha1": "176AC978FB2CAE430C723E8F91BA4F396E37BAB2",
+        "sha256": "B0969DCB6BE5AB9B4B7040E55085D6ADAD31845767BD5F58DB7D93564F595D65"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 37537,
+    "release_date": "2023-03-06T15:18:45.813934+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
