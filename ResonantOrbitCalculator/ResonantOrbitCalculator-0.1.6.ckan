@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ResonantOrbitCalculator",
+    "name": "Resonant Orbit Calculator",
+    "abstract": "Calculate resonant orbits suitable for deploying constellations of satellites",
+    "author": "Schlosrat",
+    "version": "0.1.6",
+    "ksp_version": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215650-resonant-orbit-calculator/",
+        "spacedock": "https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator",
+        "repository": "https://github.com/schlosrat/ResonantOrbitCalculator",
+        "bugtracker": "https://github.com/schlosrat/ResonantOrbitCalculator/issues",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Resonant_Orbit_Calculator/Resonant_Orbit_Calculator-1679409874.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "resonant_orbit_calculator",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator/download/0.1.6",
+    "download_size": 16139,
+    "download_hash": {
+        "sha1": "BE752018B7F7A35C86F59142508401B40B71605D",
+        "sha256": "52A6F5BCDCDD12188791CE3D85CED3E3F2E34C281F0D8417B712FEA33CD89CF4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 32588,
+    "release_date": "2023-04-07T22:30:07.026898+00:00",
+    "x_generated_by": "netkan"
+}
