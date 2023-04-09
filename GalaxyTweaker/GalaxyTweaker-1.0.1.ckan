@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "GalaxyTweaker",
+    "name": "Galaxy Tweaker",
+    "abstract": "Edit and create planets, solar systems, and galaxies!",
+    "author": [
+        "Hyperion_21",
+        "munix",
+        "JohnsterSpaceProgram"
+    ],
+    "version": "1.0.1",
+    "ksp_version": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Hyperion-21/GalaxyTweaker",
+        "spacedock": "https://spacedock.info/mod/3331/Galaxy%20Tweaker",
+        "repository": "https://github.com/Hyperion-21/GalaxyTweaker",
+        "bugtracker": "https://github.com/Hyperion-21/GalaxyTweaker/issues",
+        "x_screenshot": "https://spacedock.info/content/Hyperion_21_106704/Galaxy_Tweaker/Galaxy_Tweaker-1679349925.png"
+    },
+    "tags": [
+        "plugin",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "galaxy_tweaker",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3331/Galaxy%20Tweaker/download/1.0.1",
+    "download_size": 12671,
+    "download_hash": {
+        "sha1": "10D4803EEC6D5706D1DCF6AF1EBF6C111D09F26B",
+        "sha256": "FDA1815DB984DD857078727D8596FC38A70B2079DF155E4765EF9A92D98FA03C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 27361,
+    "release_date": "2023-04-09T17:33:02.015914+00:00",
+    "x_generated_by": "netkan"
+}
