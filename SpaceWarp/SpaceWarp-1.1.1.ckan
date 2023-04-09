@@ -1,7 +1,7 @@
 {
-    "spec_version": "v1.31",
+    "spec_version": "v1.32",
     "identifier": "SpaceWarp",
-    "name": "Space Warp + BepInEx",
+    "name": "SpaceWarp",
     "abstract": "A C# modding api on top of BepInEx for KSP2",
     "author": "cheese3660",
     "version": "1.1.1",
@@ -27,12 +27,12 @@
     ],
     "install": [
         {
-            "find": "ConfigurationManager",
-            "install_to": "BepInEx/plugins"
-        },
-        {
-            "find": "SpaceWarp",
-            "install_to": "BepInEx/plugins"
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
         }
     ],
     "download": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx/download/1.1.1",
@@ -42,7 +42,7 @@
         "sha256": "86CF0A42E5EE676D5401D10A7F8EF60660423721D6ED12D5C2ED81A751B135FC"
     },
     "download_content_type": "application/zip",
-    "install_size": 3350497,
+    "install_size": 3362785,
     "release_date": "2023-04-05T12:03:49.963579+00:00",
     "x_generated_by": "netkan"
 }
