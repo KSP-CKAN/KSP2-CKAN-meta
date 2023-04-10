@@ -28,13 +28,13 @@
         }
     ],
     "download": "https://spacedock.info/mod/3351/Utility%20Uplift/download/1.0.2",
-    "download_size": 247430,
+    "download_size": 210420,
     "download_hash": {
-        "sha1": "DCEAE761C65DD4091E17BFACCD89AB957C05CD93",
-        "sha256": "E77A4110291F1DF56B5AEE942CC16CBE88F345C370E5E09CD47BEC5393247C00"
+        "sha1": "3335501F2249782EAF61D70CB477983531031219",
+        "sha256": "C755AB3179A94D2F8142CC5463085657B068592AA7195A947C57029601E9E080"
     },
     "download_content_type": "application/zip",
-    "install_size": 413780,
-    "release_date": "2023-04-09T11:58:15.221569+00:00",
+    "install_size": 372732,
+    "release_date": "2023-04-09T06:58:15.221569-05:00",
     "x_generated_by": "netkan"
 }
