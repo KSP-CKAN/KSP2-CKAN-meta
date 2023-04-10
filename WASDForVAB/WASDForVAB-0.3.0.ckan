@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "WASDForVAB",
+    "name": "WASD For VAB",
+    "abstract": "Control the VAB camera using WASD",
+    "author": "ArchLinus",
+    "version": "0.3.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3276/WASD%20For%20VAB",
+        "repository": "https://github.com/ArchLinus/WASDForVAB",
+        "bugtracker": "https://github.com/ArchLinus/WASDForVAB/issues"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "wasd_for_vab",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3276/WASD%20For%20VAB/download/0.3.0",
+    "download_size": 13569,
+    "download_hash": {
+        "sha1": "C6C3546790EDB5FC987007492752C5ACE6A47B6A",
+        "sha256": "036391371EF3EBDF2769AA6BED5F744986E287014BC58A2E0D87B3E2A9F508C7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11599,
+    "release_date": "2023-03-06T15:18:29.065921+00:00",
+    "x_generated_by": "netkan"
+}
