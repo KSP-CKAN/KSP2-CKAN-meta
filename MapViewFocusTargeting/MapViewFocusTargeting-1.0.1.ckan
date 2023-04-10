@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MapViewFocusTargeting",
+    "name": "MapView Focus and Targeting",
+    "abstract": "Use keyboard shortcuts to focus and target celestial bodies in KSP2",
+    "author": "Scarecrow71",
+    "version": "1.0.1",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.1",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3346/MapView%20Focus%20and%20Targeting",
+        "repository": "https://github.com/Scarecrow-71/MapViewFocusTargeting",
+        "bugtracker": "https://github.com/Scarecrow-71/MapViewFocusTargeting/issues"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "mapviewfocustargeting",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3346/MapView%20Focus%20and%20Targeting/download/1.0.1",
+    "download_size": 22152,
+    "download_hash": {
+        "sha1": "B0EEC129FEB8B2A83D42F4A9AE5C6C9EF4D825FA",
+        "sha256": "6045407EB442641E5370E8CBC39E7348392D9FEF2121892DEEB0F15D32B7F10B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 35821,
+    "release_date": "2023-04-01T23:17:02.769805+00:00",
+    "x_generated_by": "netkan"
+}
