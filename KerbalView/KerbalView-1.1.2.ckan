@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbalView",
+    "name": "KerbalView",
+    "abstract": "Enables First Person View in KSP2",
+    "author": "EloxZ",
+    "version": "1.1.2",
+    "ksp_version": "0.1.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214326-kerbalview/",
+        "spacedock": "https://spacedock.info/mod/3286/KerbalView",
+        "repository": "https://github.com/EloxZ/KerbalView",
+        "bugtracker": "https://github.com/EloxZ/KerbalView/issues",
+        "x_screenshot": "https://spacedock.info/content/EloxZ_104235/KerbalView/KerbalView-1677693479.jpeg"
+    },
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalView",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3286/KerbalView/download/1.1.2",
+    "download_size": 93996,
+    "download_hash": {
+        "sha1": "F343609DAAC60C9DE891F15152CAFDA71636C257",
+        "sha256": "CB766FB445F6D6E05B8B8F6218FEDC0246FB99DBD31C446456C5227AA8F4413A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 117878,
+    "release_date": "2023-03-28T18:23:53.093616+00:00",
+    "x_generated_by": "netkan"
+}
