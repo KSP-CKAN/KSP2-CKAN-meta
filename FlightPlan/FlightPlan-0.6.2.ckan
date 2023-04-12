@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "FlightPlan",
+    "name": "Flight Plan",
+    "abstract": "Plan your (Space) Flight, Fly Your Plan! Handy tools to help you set up maneuver nodes that will get you where you want to be. Making spaceflight planning easier for KSP2 one mission at a time.",
+    "author": "Schlosrat",
+    "version": "0.6.2",
+    "ksp_version": "0.1.2",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216393-flight-plan/",
+        "spacedock": "https://spacedock.info/mod/3359/Flight%20Plan",
+        "repository": "https://github.com/schlosrat/FlightPlan",
+        "bugtracker": "https://github.com/schlosrat/FlightPlan/issues",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Flight_Plan/Flight_Plan-1681299351.png"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "flight_plan",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3359/Flight%20Plan/download/0.6.2",
+    "download_size": 1255664,
+    "download_hash": {
+        "sha1": "A86A974C01E44E44C9399CAD128BB4980195B033",
+        "sha256": "AF6C04F2B1F05A2BA19ACB36C76A4928AE2802A19D9F34E5969268F75E14E71C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2689276,
+    "release_date": "2023-04-12T21:23:20.612+00:00",
+    "x_generated_by": "netkan"
+}
