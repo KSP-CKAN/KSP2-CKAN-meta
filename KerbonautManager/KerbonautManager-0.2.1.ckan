@@ -6,7 +6,7 @@
     "author": "munix",
     "version": "0.2.1",
     "ksp_version_min": "0.1.0",
-    "ksp_version_max": "0.1.1",
+    "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3310/Kerbonaut%20Manager",
