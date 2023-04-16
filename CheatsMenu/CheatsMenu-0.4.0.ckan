@@ -21,6 +21,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "ShadowUtilityLIB"
         }
     ],
     "install": [
