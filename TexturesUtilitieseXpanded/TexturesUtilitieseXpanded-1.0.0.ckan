@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "TexturesUtilitieseXpanded",
+    "name": "Textures Utilities eXpanded",
+    "abstract": "Shader injector and editing tool",
+    "author": "LuxStice",
+    "version": "1.0.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216611-tux-textures-unlimited-expanded-shader-injector-and-editing-tool/",
+        "spacedock": "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded",
+        "repository": "https://github.com/LuxStice/TUX",
+        "bugtracker": "https://github.com/LuxStice/TUX/issues",
+        "x_screenshot": "https://spacedock.info/content/LuxStice_20611/Textures_Unlimited_eXpanded/Textures_Unlimited_eXpanded-1681673433.png"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "tux",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded/download/1.0.0",
+    "download_size": 24488,
+    "download_hash": {
+        "sha1": "65EC8BEB9773259FCC96B9AD54546420C91F9BB9",
+        "sha256": "9BDB7F671A7803242248CEB8D36D741831A4BEA13AF43D18085EB6BBADED70B2"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 50587,
+    "release_date": "2023-04-16T19:29:14.181054+00:00",
+    "x_generated_by": "netkan"
+}
