@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "CountDown",
+    "name": "Count Down",
+    "abstract": "its does what it says on the tin",
+    "author": "ShadowDev",
+    "version": "0.0.3",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3328/Count%20Down",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Count_Down/Count_Down-1681772349.png"
+    },
+    "tags": [
+        "plugin",
+        "sound"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "Count_Down",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3328/Count%20Down/download/0.0.3",
+    "download_size": 6699,
+    "download_hash": {
+        "sha1": "F729DEE8053CCB7352F4C80084094302F91E34C9",
+        "sha256": "EB7C4D4ED237EAB673A190BAAEEC2B178E15F2324BD04099A9418550D5398905"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 13620,
+    "release_date": "2023-04-17T23:00:08.177767+00:00",
+    "x_generated_by": "netkan"
+}
