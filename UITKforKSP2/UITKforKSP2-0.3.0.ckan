@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://github.com/jan-bures/Ksp2Uitk",
         "spacedock": "https://spacedock.info/mod/3363/UITK%20for%20KSP%202",
-        "repository": "https://github.com/jan-bures/Ksp2Uitk",
-        "bugtracker": "https://github.com/jan-bures/Ksp2Uitk/issues",
+        "repository": "https://github.com/jan-bures/UitkForKsp2",
+        "bugtracker": "https://github.com/jan-bures/UitkForKsp2/issues",
         "x_screenshot": "https://spacedock.info/content/munix_103761/UITK_for_KSP_2/UITK_for_KSP_2-1681615957.png"
     },
     "tags": [
