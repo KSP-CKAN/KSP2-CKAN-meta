@@ -18,6 +18,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "download": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB/download/0.0.2",
