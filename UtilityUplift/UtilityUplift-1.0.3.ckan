@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "UtilityUplift",
+    "name": "Utility Uplift",
+    "abstract": "Compact all-purpose Service Bays and Utility Weights",
+    "author": "TheYeetsterboi",
+    "version": "1.0.3",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216378-utility-uplift-102/",
+        "spacedock": "https://spacedock.info/mod/3351/Utility%20Uplift",
+        "x_screenshot": "https://spacedock.info/content/TheYeetsterboi_107637/Service_Bays/Service_Bays-1680639033.png"
+    },
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "utilityuplift",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3351/Utility%20Uplift/download/1.0.3",
+    "download_size": 422308,
+    "download_hash": {
+        "sha1": "740C7E272A4A30325C0C72000D5B6D96269A9A45",
+        "sha256": "F6AD491F33C1F11941794360D571ECACC22B85B72B5401B01A0DE4895774FBA5"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 691767,
+    "release_date": "2023-04-18T12:47:17.748272+00:00",
+    "x_generated_by": "netkan"
+}
