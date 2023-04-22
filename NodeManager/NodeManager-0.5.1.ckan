@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "NodeManager",
+    "name": "Node Manager",
+    "abstract": "Provides services for other mods needing to create, delete, and manage maneuver nodes.",
+    "author": "Schlosrat",
+    "version": "0.5.1",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216776-node-manager/",
+        "spacedock": "https://spacedock.info/mod/3366/Node%20Manager",
+        "repository": "https://github.com/schlosrat/NodeManager"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "node_manager",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3366/Node%20Manager/download/0.5.1",
+    "download_size": 23783,
+    "download_hash": {
+        "sha1": "81930AA0E7285EC3D06CB29F89BCECE1DA040EC1",
+        "sha256": "25AB395DF54BDACCEB96DBF5F605295CD2ACF7926FE57B41E1BF23F9B8783559"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 29708,
+    "release_date": "2023-04-22T01:34:22.820095+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
