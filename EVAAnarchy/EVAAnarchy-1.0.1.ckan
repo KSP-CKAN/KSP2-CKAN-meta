@@ -5,7 +5,8 @@
     "abstract": "Allows EVA even when EVA is disabled due to an obstacle.",
     "author": "ThunderousEcho",
     "version": "1.0.1",
-    "ksp_version": "0.1.1",
+    "ksp_version_min": "0.1.1",
+    "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
         "homepage": "https://spacedock.info/mod/3341/EVA%2520Anarchy",
