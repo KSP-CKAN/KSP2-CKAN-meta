@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "K2D2",
+    "name": "K2-D2",
+    "abstract": "A set of small navigation tools",
+    "author": "cfloutier",
+    "version": "v0.8.0",
+    "ksp_version_min": "0",
+    "ksp_version_max": "0.1.2",
+    "license": "CC-BY-SA",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3325/K2-D2",
+        "repository": "https://github.com/cfloutier/k2d2",
+        "bugtracker": "https://github.com/cfloutier/k2d2/issues",
+        "x_screenshot": "https://spacedock.info/content/cfloutier_106017/K2-D2/K2-D2-1682267480.png"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "K2D2",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3325/K2-D2/download/v0.8.0",
+    "download_size": 179349,
+    "download_hash": {
+        "sha1": "1E50ADB75960D48B856CA27D7497FE28B2F379CE",
+        "sha256": "DFB60E9CDCF7461AE5927E1BC3ECD05B466B57989BB6DB427566DA8F24A6687E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 165870,
+    "release_date": "2023-04-23T16:37:54.401899+00:00",
+    "x_generated_by": "netkan"
+}
