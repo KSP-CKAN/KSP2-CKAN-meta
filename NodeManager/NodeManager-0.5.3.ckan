@@ -13,7 +13,8 @@
         "spacedock": "https://spacedock.info/mod/3366/Node%20Manager",
         "repository": "https://github.com/schlosrat/NodeManager",
         "bugtracker": "https://github.com/schlosrat/NodeManager/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/NodeManager/master/node_manager/swinfo.json"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/NodeManager/master/node_manager/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Node_Manager/Node_Manager-1682620805.png"
     },
     "tags": [
         "plugin",
