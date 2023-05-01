@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSP2PrometheusExporter",
+    "name": "KSP2 Prometheus Exporter",
+    "abstract": "Prometheus exporter for telemetry data.",
+    "author": "Goddchen",
+    "version": "0.0.2",
+    "ksp_version": "0.1.2",
+    "license": "Apache-2.0",
+    "resources": {
+        "homepage": "https://github.com/Goddchen/KSP2PrometheusExporter",
+        "spacedock": "https://spacedock.info/mod/3370/KSP2%20Prometheus%20Exporter",
+        "repository": "https://github.com/Goddchen/KSP2PrometheusExporter",
+        "bugtracker": "https://github.com/Goddchen/KSP2PrometheusExporter/issues"
+    },
+    "tags": [
+        "plugin",
+        "app",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "ksp2_prometheus_exporter",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3370/KSP2%20Prometheus%20Exporter/download/0.0.2",
+    "download_size": 116486,
+    "download_hash": {
+        "sha1": "0BD3339E0B94664C85A516CCFE03358D477EC538",
+        "sha256": "9EA4857218D356F5F3C3CB998CA520232C8BD9B8A07AC900C81DCF6A210CDCB2"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 269804,
+    "release_date": "2023-05-01T15:34:21.467345+00:00",
+    "x_generated_by": "netkan"
+}
