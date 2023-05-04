@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "ShowKSP2Events",
+    "name": "ShowKSP2Events",
+    "abstract": "Shows events triggered by KSP2. This is a mod that helps modders mod.",
+    "author": "Falki",
+    "version": "1.2.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://discord.com/channels/1078696971088433153/1094666748332097720",
+        "spacedock": "https://spacedock.info/mod/3375/ShowKSP2Events",
+        "repository": "https://github.com/Falki-git/ShowKSP2Events",
+        "bugtracker": "https://github.com/Falki-git/ShowKSP2Events/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/ShowKSP2Events/master/ShowKSP2Events/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/ShowKSP2Events/ShowKSP2Events-1683217090.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "ShowKSP2Events",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3375/ShowKSP2Events/download/1.2.0",
+    "download_size": 18242,
+    "download_hash": {
+        "sha1": "D09C4BA9268F047397288388182935E95F0ABB83",
+        "sha256": "FE88A91B6CDB901A12AB8CE831DE7D875C2CC352F6A08F6474C456DE682CA10E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 30392,
+    "release_date": "2023-05-04T16:17:46.517706+00:00",
+    "x_generated_by": "netkan"
+}
