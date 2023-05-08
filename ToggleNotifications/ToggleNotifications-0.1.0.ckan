@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "ToggleNotifications",
+    "name": "Toggle Notifications",
+    "abstract": "Toggle Notifications On or Off!",
+    "author": "cvusmo",
+    "version": "0.1.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://www.youtube.com/cvusmo",
+        "spacedock": "https://spacedock.info/mod/3377/Toggle%20Notifications",
+        "repository": "https://github.com/cvusmo/Toggle-Notifications",
+        "bugtracker": "https://github.com/cvusmo/Toggle-Notifications/issues",
+        "x_screenshot": "https://spacedock.info/content/cvusmo_111779/Toggle_Notifications/Toggle_Notifications-1683259343.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "ToggleNotifications",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3377/Toggle%20Notifications/download/0.1.0",
+    "download_size": 5268,
+    "download_hash": {
+        "sha1": "28F5C594E7927474DE46C3BE0FDE0F4C911B98DC",
+        "sha256": "2F9D2645A0403505AC5A58272BFDA55825C3FE813346C029320E5C6007A845F1"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 10815,
+    "release_date": "2023-05-05T03:29:35.011427+00:00",
+    "x_generated_by": "netkan"
+}
