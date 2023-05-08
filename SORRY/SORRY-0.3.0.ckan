@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.32",
     "identifier": "SORRY",
     "name": "SORRY",
     "abstract": "Spaceplane and Orbit Reutilization and Recovery companY",
@@ -22,6 +22,17 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "LuxsFlamesandOrnaments"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "LuxsOABExtensions"
+        },
+        {
+            "name": "CommunityFixes"
         }
     ],
     "install": [
