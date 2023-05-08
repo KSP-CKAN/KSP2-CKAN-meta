@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "LuxsFlamesandOrnaments",
+    "name": "[LFO] Lux's Flames and Ornaments",
+    "abstract": "Pretty plumes and more!",
+    "author": "LuxStice",
+    "version": "0.1.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217075-010-lfo-luxs-flames-and-ornaments-custom-plumes-to-fit-all-your-fiery-need/#comment-4280737",
+        "spacedock": "https://spacedock.info/mod/3383/[LFO]%20Lux's%20Flames%20and%20Ornaments",
+        "repository": "https://github.com/LuxStice/LuxsFlamesAndOrnaments",
+        "bugtracker": "https://github.com/LuxStice/LuxsFlamesAndOrnaments/issues",
+        "x_screenshot": "https://spacedock.info/content/LuxStice_20611/LFO_Luxs_Flames_and_Ornaments/LFO_Luxs_Flames_and_Ornaments-1683439446.png"
+    },
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "LFO",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3383/%5BLFO%5D%20Lux's%20Flames%20and%20Ornaments/download/0.1.0",
+    "download_size": 8169,
+    "download_hash": {
+        "sha1": "A877FAB0285DC98C9E64B9037184AE0F63E74B43",
+        "sha256": "38D081C3EC1581AE6FEAD8A7F29FFCDB6842E35F4763F60BCC4D18FF70CEFD6C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 14817,
+    "release_date": "2023-05-07T06:03:11.874929+00:00",
+    "x_generated_by": "netkan"
+}
