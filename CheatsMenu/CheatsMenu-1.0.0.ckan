@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "CheatsMenu",
+    "name": "Cheats Menu",
+    "abstract": "This mod allows you to use cheats in ksp2",
+    "author": "ShadowDev",
+    "version": "1.0.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214242-cheat-menu/",
+        "spacedock": "https://spacedock.info/mod/3266/Cheats%20Menu",
+        "repository": "https://github.com/Bit-Studios/CheatMenu",
+        "bugtracker": "https://github.com/Bit-Studios/CheatMenu/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Cheats_Menu/Cheats_Menu-1684108892.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "ShadowUtilityLIB"
+        }
+    ],
+    "install": [
+        {
+            "find": "cheat_menu",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3266/Cheats%20Menu/download/1.0.0",
+    "download_size": 16016,
+    "download_hash": {
+        "sha1": "742A08B7506D4A07DB38D42D7B869F93FD5DBC3B",
+        "sha256": "8B667DA66C68D57FB3732D16CD15788023FD9887E0A9B1134619BEA4D604F543"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 40547,
+    "release_date": "2023-05-15T00:06:28.423156+00:00",
+    "x_generated_by": "netkan"
+}
