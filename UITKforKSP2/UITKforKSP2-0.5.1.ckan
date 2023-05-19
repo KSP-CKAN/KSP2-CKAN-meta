@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "UITKforKSP2",
+    "name": "UITK for KSP 2",
+    "abstract": "A library bringing Unity UI Toolkit support to KSP 2.",
+    "author": "munix",
+    "version": "0.5.1",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/jan-bures/UitkForKsp2",
+        "spacedock": "https://spacedock.info/mod/3363/UITK%20for%20KSP%202",
+        "repository": "https://github.com/jan-bures/UitkForKsp2",
+        "bugtracker": "https://github.com/jan-bures/UitkForKsp2/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/jan-bures/UitkForKsp2/main/plugin_folder/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/munix_103761/UITK_for_KSP_2/UITK_for_KSP_2-1681615957.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/3363/UITK%20for%20KSP%202/download/0.5.1",
+    "download_size": 1003734,
+    "download_hash": {
+        "sha1": "39CE286332D2D4DBC06A81C6449DD7DEA860E9E9",
+        "sha256": "2AC38B5457C42FEA8A999F3C4F51700B7B4039E52F1D05429AE010ECB0596193"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1831544,
+    "release_date": "2023-05-19T19:37:42.256906+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
