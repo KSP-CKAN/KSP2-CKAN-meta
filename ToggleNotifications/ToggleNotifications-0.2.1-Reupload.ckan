@@ -9,7 +9,7 @@
     "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
-        "homepage": "https://www.youtube.com/@cvusmo",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217026-021-toggle-notifications-game-pause-notification-disabled-available-on-ckan-spacedock/",
         "spacedock": "https://spacedock.info/mod/3377/Toggle%20Notifications",
         "repository": "https://github.com/cvusmo/Toggle-Notifications",
         "bugtracker": "https://github.com/cvusmo/Toggle-Notifications/issues",
