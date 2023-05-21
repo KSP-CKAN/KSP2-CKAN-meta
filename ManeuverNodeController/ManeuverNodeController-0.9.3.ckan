@@ -25,6 +25,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "NodeManager"
         }
     ],
     "install": [
