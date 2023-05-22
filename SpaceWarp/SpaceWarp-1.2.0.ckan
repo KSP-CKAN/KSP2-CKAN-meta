@@ -23,6 +23,9 @@
     "depends": [
         {
             "name": "BepInEx"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "install": [
