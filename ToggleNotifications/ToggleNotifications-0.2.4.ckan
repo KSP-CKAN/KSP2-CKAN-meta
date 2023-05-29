@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "ToggleNotifications",
+    "name": "Toggle Notifications",
+    "abstract": "Toggle Notifications On or Off!",
+    "author": "cvusmo",
+    "version": "0.2.4",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217026-021-toggle-notifications-game-pause-notification-disabled-available-on-ckan-spacedock/",
+        "spacedock": "https://spacedock.info/mod/3377/Toggle%20Notifications",
+        "repository": "https://github.com/cvusmo/Toggle-Notifications",
+        "bugtracker": "https://github.com/cvusmo/Toggle-Notifications/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cvusmo/Toggle-Notifications/master/toggle_notifications/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/cvusmo_111779/Toggle_Notifications/Toggle_Notifications-1685330189.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find_regexp": "Toggle ?Notifications.*",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3377/Toggle%20Notifications/download/0.2.4",
+    "download_size": 123528,
+    "download_hash": {
+        "sha1": "CFD3AC6647ABFD6432E85D65BB2BF6B2271406BE",
+        "sha256": "1C7B4C1501BC3619F28DE02912DFEAFF57865330E80E81BC9A78EE4385AB3DAC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 176917,
+    "release_date": "2023-05-29T03:14:14.489739+00:00",
+    "x_generated_by": "netkan"
+}
