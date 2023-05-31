@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "ShadowUtilityLIB",
+    "name": "Shadow Utility LIB",
+    "abstract": "Utility Library for ShadowDev's mods",
+    "author": "ShadowDev",
+    "version": "0.0.4",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.2",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB/download/0.0.4",
+    "download_size": 25216,
+    "download_hash": {
+        "sha1": "81B179DE2E30DBF0E367454CA6D423095F6DA4F0",
+        "sha256": "C53A0975B5E47F55F028E05F1DC5C0A140C27C1083723DF2C48C9097A9C09F1C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 38318,
+    "release_date": "2023-05-31T14:50:18.118483+00:00",
+    "x_generated_by": "netkan"
+}
