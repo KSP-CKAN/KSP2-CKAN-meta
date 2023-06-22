@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MicroEngineer",
+    "name": "Micro Engineer",
+    "abstract": "Displays useful in-flight information about your vessel, your orbital trajectory and your maneuvers.",
+    "author": [
+        "Micrologist",
+        "Falki"
+    ],
+    "version": "1.1.1",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215989-micro-engineer/",
+        "spacedock": "https://spacedock.info/mod/3282/Micro%20Engineer",
+        "repository": "https://github.com/Micrologist/MicroEngineer",
+        "bugtracker": "https://github.com/Micrologist/MicroEngineer/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Micrologist/MicroEngineer/main/Staging/BepInEx/plugins/micro_engineer/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Micrologist_104134/Micro_Engineer/Micro_Engineer-1682546966.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "micro_engineer",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3282/Micro%20Engineer/download/1.1.1",
+    "download_size": 54743,
+    "download_hash": {
+        "sha1": "5093B585CF7FA931AD0637AD5D3935A71E23D41A",
+        "sha256": "CCED85EDDD3216C0E5DE17528D962C8600929D734900D966006E205F9CFA961A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 148942,
+    "release_date": "2023-06-22T19:22:31.527974+00:00",
+    "x_generated_by": "netkan"
+}
