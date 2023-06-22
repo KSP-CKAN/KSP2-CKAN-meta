@@ -5,7 +5,8 @@
     "abstract": "Disable KSP 2's seizure warning splash screen",
     "author": "arthomnix",
     "version": "0.2.0",
-    "ksp_version": "0.1.2",
+    "ksp_version_min": "0.1.2",
+    "ksp_version_max": "0.1.3",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215756-no-seizure-warning-011/",
