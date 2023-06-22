@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SpeedyStartup",
+    "name": "Speedy Startup",
+    "abstract": "Speed up KSP 2's startup by loading during the logo splash screens",
+    "author": "arthomnix",
+    "version": "0.1.2",
+    "ksp_version": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215785-speedy-startup-010/",
+        "spacedock": "https://spacedock.info/mod/3340/Speedy%20Startup",
+        "repository": "https://github.com/arthomnix/SpeedyStartup",
+        "bugtracker": "https://github.com/arthomnix/SpeedyStartup/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/arthomnix/SpeedyStartup/master/SpeedyStartup/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/Speedy_Startup/Speedy_Startup-1679595632.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "SpeedyStartup",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3340/Speedy%20Startup/download/0.1.2",
+    "download_size": 7691,
+    "download_hash": {
+        "sha1": "A3DE5C052448486667230BB1660F0AB48E0FC3E0",
+        "sha256": "D654D77B3069D3DCC5552A734BECEFC213168B9425CF51AE7D7F9673571FC36C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 15377,
+    "release_date": "2023-06-22T19:48:31.5909+00:00",
+    "x_generated_by": "netkan"
+}
