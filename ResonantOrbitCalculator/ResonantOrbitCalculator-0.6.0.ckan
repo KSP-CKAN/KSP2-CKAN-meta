@@ -5,7 +5,8 @@
     "abstract": "Calculates resonant orbits suitable for deploying constellations of satellites",
     "author": "Schlosrat",
     "version": "0.6.0",
-    "ksp_version": "0.1.2",
+    "ksp_version_min": "0.1.2",
+    "ksp_version_max": "0.1.3",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215650-resonant-orbit-calculator/",
