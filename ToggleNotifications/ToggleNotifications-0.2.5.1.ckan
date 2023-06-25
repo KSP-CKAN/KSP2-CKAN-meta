@@ -6,7 +6,7 @@
     "author": "cvusmo",
     "version": "0.2.5.1",
     "ksp_version_min": "0.1.0",
-    "ksp_version_max": "0.1.2",
+    "ksp_version_max": "0.1.3",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217026-021-toggle-notifications-game-pause-notification-disabled-available-on-ckan-spacedock/",
