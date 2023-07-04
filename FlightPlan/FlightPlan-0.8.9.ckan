@@ -27,6 +27,9 @@
         },
         {
             "name": "NodeManager"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "install": [
