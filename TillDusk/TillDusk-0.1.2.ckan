@@ -6,7 +6,7 @@
     "author": "Sinon",
     "version": "0.1.2",
     "ksp_version_min": "0.1.0",
-    "ksp_version_max": "0.1.2",
+    "ksp_version_max": "0.1.3",
     "license": "GPL-3.0",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3362/Till%20Dusk",
