@@ -6,7 +6,7 @@
     "author": "LuxStice",
     "version": "0.2.0",
     "ksp_version_min": "0.1.0",
-    "ksp_version_max": "0.1.2",
+    "ksp_version_max": "0.1.3",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216276-luxs-oab-extensions-010-more-symmetry-options-custom-size-labels-mk2-mk3-are-back/",
