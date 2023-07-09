@@ -1,0 +1,37 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "EvenBetterTimeWarp",
+    "name": "Even Better Time Warp",
+    "abstract": "KSP2 time warp mod inspired by BetterTimeWarp",
+    "author": "arthomnix",
+    "version": "0.1.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217175-even-better-time-warp-010/",
+        "spacedock": "https://spacedock.info/mod/3386/Even%20Better%20Time%20Warp",
+        "repository": "https://github.com/arthomnix/EvenBetterTimeWarp",
+        "bugtracker": "https://github.com/arthomnix/EvenBetterTimeWarp/issues",
+        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/Even_Better_Time_Warp/Even_Better_Time_Warp-1683979161.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3386/Even%20Better%20Time%20Warp/download/0.1.0",
+    "download_size": 17262,
+    "download_hash": {
+        "sha1": "6581BB70F47F8500F5C1E08938BCCCE76A4FC11C",
+        "sha256": "D683BB519BC5F3630992ACF68976EC6BE4AA99CF204470E395210E0B54534689"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 36166,
+    "release_date": "2023-05-13T11:58:20.322335+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
