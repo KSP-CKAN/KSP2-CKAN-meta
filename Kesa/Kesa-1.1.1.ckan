@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Kesa",
+    "name": "Kesa",
+    "abstract": "Kesa space agency parts mod.",
+    "author": "jimkesa",
+    "version": "1.1.1",
+    "ksp_version_min": "0.1.2",
+    "ksp_version_max": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://kesaspace.blogspot.com/",
+        "spacedock": "https://spacedock.info/mod/3409/Kesa",
+        "x_screenshot": "https://spacedock.info/content/jimkesa_115625/Kesa/Kesa-1688168573.jpg"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kesa",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3409/Kesa/download/1.1.1",
+    "download_size": 37491638,
+    "download_hash": {
+        "sha1": "E34EBCE345B1F0A0C946D924D498E0203856602E",
+        "sha256": "0E86187114DC544FCC725D814C22D5031E98F707971218C530161C7CC7BE3822"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 41248072,
+    "release_date": "2023-07-14T05:31:10.599342+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
