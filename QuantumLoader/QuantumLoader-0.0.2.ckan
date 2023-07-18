@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "QuantumLoader",
+    "name": "Quantum Loader",
+    "abstract": "Super Light mod that enables the use of the base game modloader",
+    "author": "ShadowDev",
+    "version": "0.0.2",
+    "ksp_version": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218484-quantum-loader-experimental/",
+        "spacedock": "https://spacedock.info/mod/3425/Quantum%20Loader",
+        "repository": "https://github.com/Bit-Studios/Quantum",
+        "bugtracker": "https://github.com/Bit-Studios/Quantum/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Quantum_Loader/Quantum_Loader-1689691646.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "Quantum",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3425/Quantum%20Loader/download/0.0.2",
+    "download_size": 3506,
+    "download_hash": {
+        "sha1": "595465BEF2E54FD2792EB365B3E2962C28023836",
+        "sha256": "C3449F348E230E4AADC06690E2144EE53E54871DE5D807E7D4E87D5B84433CF9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 7680,
+    "release_date": "2023-07-18T19:42:51.315855+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
