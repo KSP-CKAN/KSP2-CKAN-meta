@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "TillDusk",
+    "name": "Till Dusk",
+    "abstract": "A mod that adds the ability to warp to the sunrise for easier launches.",
+    "author": "Sinon",
+    "version": "0.1.3",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.3",
+    "license": "GPL-3.0",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3362/Till%20Dusk",
+        "repository": "https://github.com/Rexicon226/TillDusk",
+        "bugtracker": "https://github.com/Rexicon226/TillDusk/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Rexicon226/TillDusk/main/till_dusk/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Sinon_109075/Till_Dusk/Till_Dusk-1681577579.png"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "till_dusk",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3362/Till%20Dusk/download/0.1.3",
+    "download_size": 21525,
+    "download_hash": {
+        "sha1": "93ABB3017CA32B0B645F831663EBF1CBC1311316",
+        "sha256": "F1FFE5FAB34B08E9A00C13B0CA3488F712F6AAB8C592CFA8D7048149485D0FF4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 52636,
+    "release_date": "2023-07-18T06:35:15.736511+00:00",
+    "x_generated_by": "netkan"
+}
