@@ -17,6 +17,11 @@
     "tags": [
         "plugin"
     ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
     "install": [
         {
             "find": "inputbinder",
