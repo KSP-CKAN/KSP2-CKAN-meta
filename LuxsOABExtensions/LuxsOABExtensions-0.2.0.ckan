@@ -24,6 +24,12 @@
             "name": "SpaceWarp"
         }
     ],
+    "install": [
+        {
+            "find": "LuxsOABExtensions",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": "https://spacedock.info/mod/3354/Lux's%20OAB%20Extensions/download/0.2.0",
     "download_size": 52112,
     "download_hash": {
