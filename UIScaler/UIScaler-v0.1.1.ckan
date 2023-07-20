@@ -23,6 +23,12 @@
             "name": "SpaceWarp"
         }
     ],
+    "install": [
+        {
+            "find": "UIScaler",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": "https://spacedock.info/mod/3291/UI%20Scaler/download/v0.1.1",
     "download_size": 12048,
     "download_hash": {
