@@ -23,6 +23,12 @@
             "name": "SpaceWarp"
         }
     ],
+    "install": [
+        {
+            "find": "LazyOrbit",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": "https://spacedock.info/mod/3258/Lazy%20Orbit/download/v0.4.0",
     "download_size": 16026,
     "download_hash": {
@@ -32,6 +38,5 @@
     "download_content_type": "application/zip",
     "install_size": 37537,
     "release_date": "2023-03-06T15:18:45.813934+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
