@@ -23,6 +23,12 @@
             "name": "UITKforKSP2"
         }
     ],
+    "install": [
+        {
+            "find": "ShadowUtilityLIB",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB/download/0.0.6",
     "download_size": 25226,
     "download_hash": {
