@@ -23,6 +23,12 @@
             "name": "SpaceWarp"
         }
     ],
+    "install": [
+        {
+            "find": "EvenBetterTimeWarp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": "https://spacedock.info/mod/3386/Even%20Better%20Time%20Warp/download/0.1.0",
     "download_size": 17262,
     "download_hash": {
@@ -32,6 +38,5 @@
     "download_content_type": "application/zip",
     "install_size": 36166,
     "release_date": "2023-05-13T11:58:20.322335+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
