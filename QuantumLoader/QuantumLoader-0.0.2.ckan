@@ -2,7 +2,7 @@
     "spec_version": "v1.18",
     "identifier": "QuantumLoader",
     "name": "Quantum Loader",
-    "abstract": "Super Light mod that enables the use of the base game modloader",
+    "abstract": "Fast and Easy modding using the official loader",
     "author": "ShadowDev",
     "version": "0.0.2",
     "ksp_version": "0.1.3",
