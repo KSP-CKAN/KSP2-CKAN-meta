@@ -2,7 +2,7 @@
     "spec_version": "v1.18",
     "identifier": "Inputbinder",
     "name": "Inputbinder",
-    "abstract": "Input rebinding tool for KSP 2",
+    "abstract": "Input rebinding tool for KSP 2 adding gamepad support.",
     "author": "StopFrag",
     "version": "0.4.1",
     "ksp_version": "0.1.3",
