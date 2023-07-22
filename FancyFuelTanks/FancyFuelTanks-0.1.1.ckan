@@ -14,6 +14,9 @@
         "bugtracker": "https://github.com/cvusmo/FFT/issues",
         "x_screenshot": "https://spacedock.info/content/cvusmo_111779/Fancy_Fuel_Tanks/Fancy_Fuel_Tanks-1689927190.png"
     },
+    "tags": [
+        "parts"
+    ],
     "install": [
         {
             "find": "FFT",
@@ -29,6 +32,5 @@
     "download_content_type": "application/zip",
     "install_size": 124999169,
     "release_date": "2023-07-21T14:03:28.291577+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
