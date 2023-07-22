@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "ShadowIncExplorationDivision",
+    "name": "Shadow Inc: Exploration Division",
+    "abstract": "Shadow Inc Exploration Division Parts",
+    "author": "ShadowDev",
+    "version": "0.1.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3407/Shadow%20Inc:%20Exploration%20Division",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Shadow_Inc_Exploration_Division/Shadow_Inc_Exploration_Division-1686860216.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "ShadowUtilityLIB"
+        }
+    ],
+    "install": [
+        {
+            "find": "SIed",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3407/Shadow%20Inc:%20Exploration%20Division/download/0.1.0",
+    "download_size": 326741,
+    "download_hash": {
+        "sha1": "50C70CB5686C5E430301C4906E25A8E32E850419",
+        "sha256": "B5DA12E67E6A29193022FCC1025D16CB8F60BAEDEEB264CF1BE0795EC05DFE0F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 422671,
+    "release_date": "2023-07-22T21:21:34.99518+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
