@@ -1,0 +1,28 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "QuantumModMenu",
+    "name": "Quantum Mod Menu",
+    "abstract": "Mod menu for base game mod loader",
+    "author": "ShadowDev",
+    "version": "0.0.1",
+    "ksp_version": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3427/Quantum%20Mod%20Menu",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Quantum_Mod_Menu/Quantum_Mod_Menu-1689710469.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "download": "https://spacedock.info/mod/3427/Quantum%20Mod%20Menu/download/0.0.1",
+    "download_size": 4492,
+    "download_hash": {
+        "sha1": "577CD1F614D0209D1068880CE3810CF62B76514E",
+        "sha256": "394E7D4BB27400374A6255208582AF39193FBC2C5B6B9265DFD99C43DD35864B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9445,
+    "release_date": "2023-07-18T19:57:35.152657+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
