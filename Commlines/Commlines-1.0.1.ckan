@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Commlines",
+    "name": "Commlines",
+    "abstract": "Add the CommNet lines like in KSP 1 to KSP 2",
+    "author": "gamendegamer",
+    "version": "1.0.1",
+    "ksp_version": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3433/Commlines",
+        "repository": "https://github.com/gamendegamer321/Commlines",
+        "bugtracker": "https://github.com/gamendegamer321/Commlines/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/gamendegamer321/Commlines/main/commlines/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/gamendegamer_118546/Commlines/Commlines-1690204648.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3433/Commlines/download/1.0.1",
+    "download_size": 10412,
+    "download_hash": {
+        "sha1": "EEEE9326909E902DB815D0F5F941AA5BAE7D45CA",
+        "sha256": "E8E5A1F57B939A04FB9F95DC7135458324FA80AEF2AC4619C1363819CFC390BF"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 18878,
+    "release_date": "2023-07-26T12:24:21.01911+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
