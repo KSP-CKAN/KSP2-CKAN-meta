@@ -14,6 +14,11 @@
     "tags": [
         "plugin"
     ],
+    "depends": [
+        {
+            "name": "QuantumLoader"
+        }
+    ],
     "download": "https://spacedock.info/mod/3427/Quantum%20Mod%20Menu/download/0.0.1",
     "download_size": 4492,
     "download_hash": {
