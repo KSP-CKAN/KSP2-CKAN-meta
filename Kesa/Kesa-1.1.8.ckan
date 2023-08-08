@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Kesa",
+    "name": "Kesa",
+    "abstract": "Kesa space agency parts mod.",
+    "author": "jimkesa",
+    "version": "1.1.8",
+    "ksp_version_min": "0.1.2",
+    "ksp_version_max": "0.1.3",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218564-112-kesa-kesa-space-agency-parts-mod/",
+        "spacedock": "https://spacedock.info/mod/3409/Kesa",
+        "x_screenshot": "https://spacedock.info/content/jimkesa_115625/Kesa/Kesa-1688168573.jpg"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kesa",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3409/Kesa/download/1.1.8",
+    "download_size": 51195698,
+    "download_hash": {
+        "sha1": "59EC25BC137695F8C41E675FECB8932721A6DEBF",
+        "sha256": "6478C1FE660A35695137DC6D9787945F20D51E09091EA7F56A2981C86D6C1282"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 59263366,
+    "release_date": "2023-08-08T09:36:08.303087+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
