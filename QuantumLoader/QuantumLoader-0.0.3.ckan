@@ -22,6 +22,12 @@
             "name": "BepInEx"
         }
     ],
+    "conflicts": [
+        {
+            "name": "SpaceWarp",
+            "min_version": "1.4.0"
+        }
+    ],
     "install": [
         {
             "find": "Quantum",
