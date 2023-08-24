@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "QuestariaAereospace",
+    "name": "Questaria Aerospace",
+    "abstract": "General Parts mod for KSP2",
+    "author": "IsaQuest",
+    "version": "1.0.1",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.3",
+    "license": "restricted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219006-v10-questaria-aerospace-general-parts-mod-for-ksp2/",
+        "spacedock": "https://spacedock.info/mod/3444/Questaria%20Aerospace",
+        "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/Questaria_Aereospace/Questaria_Aereospace-1692901782.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "LuxsFlamesandOrnaments"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx/plugins/QuestariaAerospace",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3444/Questaria%20Aerospace/download/1.0.1",
+    "download_size": 113257346,
+    "download_hash": {
+        "sha1": "2D68110A9CC1ED1F905E0238E1AB2E8FC89D8E9E",
+        "sha256": "D90BF9573430F7629604BC59C38A71300EA2EDF6B697C09C2BEB2EE4660953EE"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 132967398,
+    "release_date": "2023-08-24T23:40:01.117075+00:00",
+    "x_generated_by": "netkan"
+}
