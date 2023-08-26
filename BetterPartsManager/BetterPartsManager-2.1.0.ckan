@@ -1,0 +1,36 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "BetterPartsManager",
+    "name": "Better Parts Manager",
+    "abstract": "Do you hate the ingame parts manager and wish it was faster, well now it is",
+    "author": "ShadowDev",
+    "version": "2.1.0",
+    "ksp_version": "0.1.3",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214227-better-part-manager/",
+        "spacedock": "https://spacedock.info/mod/3292/Better%20Parts%20Manager",
+        "repository": "https://github.com/Bit-Studios/KerbalPartManager",
+        "bugtracker": "https://github.com/Bit-Studios/KerbalPartManager/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Better_Parts_Manager/Better_Parts_Manager-1692728870.png"
+    },
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "depends": [
+        {
+            "name": "QuantumLoader"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3292/Better%20Parts%20Manager/download/2.1.0",
+    "download_size": 15128,
+    "download_hash": {
+        "sha1": "EB882AD416215D88AF2FFD3BAABC2437A53C390F",
+        "sha256": "533E4E6BC7DB6C0BDFE8857A0C4FAC46231C26777B69AE4989FF60DE007E918F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 30141,
+    "release_date": "2023-08-26T00:45:24.620782+00:00",
+    "x_generated_by": "netkan"
+}
