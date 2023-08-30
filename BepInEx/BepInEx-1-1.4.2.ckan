@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "BepInEx",
+    "name": "BepInEx",
+    "abstract": "Modloader for Unity games",
+    "author": "cheese3660",
+    "version": "1:1.4.2",
+    "ksp_version": "0.1.3",
+    "license": "LGPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218490-space-warp-v140-for-ksp2-013/",
+        "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx",
+        "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
+        "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues",
+        "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Space_Warp__BepInEx/Space_Warp__BepInEx-1678544917.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "config",
+                "core"
+            ]
+        },
+        {
+            "file": "doorstop_config.ini",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "winhttp.dll",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx/download/1.4.2",
+    "download_size": 9316543,
+    "download_hash": {
+        "sha1": "8ACD1F5DFA59553B30B39D3F189B2281B906E0F3",
+        "sha256": "9014BD39068DB1B6772211E678BBAB527330E7A3965BF184C62ED54886A1BC46"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1784470,
+    "release_date": "2023-08-30T17:40:02.947112+00:00",
+    "x_generated_by": "netkan"
+}
