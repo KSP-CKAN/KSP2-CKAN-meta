@@ -11,8 +11,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217075-010-lfo-luxs-flames-and-ornaments-custom-plumes-to-fit-all-your-fiery-need/#comment-4280737",
         "spacedock": "https://spacedock.info/mod/3383/[LFO]%20Lux's%20Flames%20and%20Ornaments",
-        "repository": "https://github.com/LuxStice/LuxsFlamesAndOrnaments",
-        "bugtracker": "https://github.com/LuxStice/LuxsFlamesAndOrnaments/issues",
+        "repository": "https://github.com/LuxStice/LFO",
+        "bugtracker": "https://github.com/LuxStice/LFO/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/LuxStice/LuxsFlamesAndOrnaments/main/LFO/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/LuxStice_20611/LFO_Luxs_Flames_and_Ornaments/LFO_Luxs_Flames_and_Ornaments-1683439446.png"
     },
