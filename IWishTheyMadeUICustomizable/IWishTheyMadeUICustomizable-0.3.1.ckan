@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "IWishTheyMadeUICustomizable",
+    "name": "I Wish They Made UI Customizable",
+    "abstract": "You can move any UI group in the flight scene wherever you want.",
+    "author": "Falki",
+    "version": "0.3.1",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3391/I%20Wish%20They%20Made%20UI%20Customizable",
+        "repository": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable",
+        "bugtracker": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/I-Wish-They-Made-UI-Customizable/master/CustomizableUI/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/I_Wish_They_Made_UI_Customizable/I_Wish_They_Made_UI_Customizable-1684537294.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "CustomizableUI",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3391/I%20Wish%20They%20Made%20UI%20Customizable/download/0.3.1",
+    "download_size": 16256,
+    "download_hash": {
+        "sha1": "4A52A6AE4A4077A3FF747999A7E2E290F19780DA",
+        "sha256": "5891765B61B77BA09359B6A728390D4D950510157FEAF3461C4A67FD02D094C5"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 33432,
+    "release_date": "2023-08-30T21:16:21.390848+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
