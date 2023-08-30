@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "FancyFuelTanks",
+    "name": "Fancy Fuel Tanks",
+    "abstract": "FFT adds visually appealing Fuel Tanks to KSP2!",
+    "author": "cvusmo",
+    "version": "0.1.4.2 Hotfix",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218451-fancy-fuel-tanks-fft-010/",
+        "spacedock": "https://spacedock.info/mod/3431/Fancy%20Fuel%20Tanks",
+        "repository": "https://github.com/cvusmo/FFT",
+        "bugtracker": "https://github.com/cvusmo/FFT/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cvusmo/FFT/Master/FFT/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/cvusmo_111779/Fancy_Fuel_Tanks/Fancy_Fuel_Tanks-1691741623.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find_regexp": "FFT.*",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3431/Fancy%20Fuel%20Tanks/download/0.1.4.2%20Hotfix",
+    "download_size": 260785057,
+    "download_hash": {
+        "sha1": "BCFAF361819135351DF6BD133B07E8FF4837E1AE",
+        "sha256": "036BC06B98F893EC4DC1B81EE5F402E143544618AE0C4798752FAC4A242C9F0C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 277655819,
+    "release_date": "2023-08-30T21:37:44.073569+00:00",
+    "x_generated_by": "netkan"
+}
