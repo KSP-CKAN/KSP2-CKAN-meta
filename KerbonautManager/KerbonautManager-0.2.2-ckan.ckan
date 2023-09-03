@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "KerbonautManager",
+    "name": "Kerbonaut Manager",
+    "abstract": "Create, rename and remove your kerbonauts",
+    "author": "munix",
+    "version": "0.2.2-ckan",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3310/Kerbonaut%20Manager",
+        "repository": "https://github.com/jan-bures/KerbonautManager",
+        "bugtracker": "https://github.com/jan-bures/KerbonautManager/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/jan-bures/KerbonautManager/main/kerbonaut_manager/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/munix_103761/Kerbonaut_Manager/Kerbonaut_Manager-1678593563.png"
+    },
+    "tags": [
+        "plugin",
+        "editor",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "kerbonaut_manager",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3310/Kerbonaut%20Manager/download/0.2.2-ckan",
+    "download_size": 12919,
+    "download_hash": {
+        "sha1": "456279E22B7E87A34CD89729869238C79AF5AC7D",
+        "sha256": "EC37EB93FC8A31CC3FA6FF6461B194997467F10C12157FB1F6FD0E004B015D89"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 23702,
+    "release_date": "2023-09-03T23:58:03.508014+00:00",
+    "x_generated_by": "netkan"
+}
