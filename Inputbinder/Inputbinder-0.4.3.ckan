@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Inputbinder",
+    "name": "Inputbinder",
+    "abstract": "Input rebinding tool for KSP 2 adding gamepad support.",
+    "author": "StopFrag",
+    "version": "0.4.3",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Codenade/ksp2-inputbinder/wiki",
+        "spacedock": "https://spacedock.info/mod/3422/Inputbinder",
+        "repository": "https://github.com/Codenade/ksp2-inputbinder",
+        "bugtracker": "https://github.com/Codenade/ksp2-inputbinder/issues",
+        "x_screenshot": "https://spacedock.info/content/StopFrag_111500/Inputbinder/Inputbinder-1689591842.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "inputbinder",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3422/Inputbinder/download/0.4.3",
+    "download_size": 67380,
+    "download_hash": {
+        "sha1": "47A53BC78CF4F0DA7C034894543DBC5F297F3CB5",
+        "sha256": "5CFA3E04A8D7B2AFF0C000CDC3CF3F067E3395C49443909512748ADF56A57721"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 277408,
+    "release_date": "2023-09-03T21:10:57.997503+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
