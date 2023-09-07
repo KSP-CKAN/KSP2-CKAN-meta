@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KerbolExpansion",
+    "name": "Kerbol Expansion",
+    "abstract": "You ever wanted to know what would happen if kerbol started to expand? well now you can.",
+    "author": "ShadowDev",
+    "version": "1.0.2",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3458/Kerbol%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbol_Expansion/Kerbol_Expansion-1693715423.png"
+    },
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "depends": [
+        {
+            "name": "Konfig"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbolExpansion",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3458/Kerbol%20Expansion/download/1.0.2",
+    "download_size": 585,
+    "download_hash": {
+        "sha1": "683D287911E5B2EA98E138DC4E877B3DCC1917F2",
+        "sha256": "FE7CB6897D8764F664897E61223316EFAB1FC8B393F50F9BDB2C6EF5F37EB4CC"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 862,
+    "release_date": "2023-09-03T04:42:21.020492+00:00",
+    "x_generated_by": "netkan"
+}
