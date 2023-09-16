@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "HeadUpDisplay",
+    "name": "HUD : Head Up Display",
+    "abstract": "A virtual navball : now you can define and check the direction while still keeping watch on your vessel!",
+    "author": "DunaColonist",
+    "version": "0.7.0",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215686-hud-head-up-display/",
+        "spacedock": "https://spacedock.info/mod/3334/HUD%20:%20Head%20Up%20Display",
+        "repository": "https://github.com/DunaColonist/hud",
+        "bugtracker": "https://github.com/DunaColonist/hud/issues",
+        "x_screenshot": "https://spacedock.info/content/DunaColonist_45393/HUD__Head_Up_Display/HUD__Head_Up_Display-1685902503.png"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "hud",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3334/HUD%20:%20Head%20Up%20Display/download/0.7.0",
+    "download_size": 17130,
+    "download_hash": {
+        "sha1": "536B63AFDD3C186C2B708117F0A3DBBCCFF91FE5",
+        "sha256": "C43FAE0FCD5DA89D26C61C28840F1CB1738FAF27F692A796F9BB41D89633369B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 33147,
+    "release_date": "2023-09-16T17:26:23.481566+00:00",
+    "x_generated_by": "netkan"
+}
