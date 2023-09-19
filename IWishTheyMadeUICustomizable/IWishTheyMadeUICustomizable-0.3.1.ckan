@@ -8,6 +8,7 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218164-i-wish-they-made-ui-customizable-030/",
         "spacedock": "https://spacedock.info/mod/3391/I%20Wish%20They%20Made%20UI%20Customizable",
         "repository": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable",
         "bugtracker": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable/issues",
