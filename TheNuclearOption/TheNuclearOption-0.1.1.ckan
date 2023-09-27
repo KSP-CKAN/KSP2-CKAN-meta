@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "TheNuclearOption",
+    "name": "The Nuclear Option",
+    "abstract": "When solar power, batteries, and fuel cells simply aren't enough, it's time for The Nuclear Option...",
+    "author": "Schlosrat",
+    "version": "0.1.1",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219626-the-nuclear-option-tno-010/",
+        "spacedock": "https://spacedock.info/mod/3471/The%20Nuclear%20Option",
+        "repository": "https://github.com/schlosrat/TNO",
+        "bugtracker": "https://github.com/schlosrat/TNO/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/TNO/main/TNO/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/The_Nuclear_Option/The_Nuclear_Option-1695651296.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "TNO",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3471/The%20Nuclear%20Option/download/0.1.1",
+    "download_size": 14962063,
+    "download_hash": {
+        "sha1": "68671BEA753AA2180C74EE7FAA4BF69C22A65FD5",
+        "sha256": "C928D262D38BD7F8845BB902546DB18E8D38D0390914AF2C7AA47C957EDDAA8E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 16505733,
+    "release_date": "2023-09-27T02:04:05.396365+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
