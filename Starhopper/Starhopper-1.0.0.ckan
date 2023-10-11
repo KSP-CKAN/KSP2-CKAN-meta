@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Starhopper",
+    "name": "Starhopper",
+    "abstract": "A simple mod for Kerbal Space Program 2 that adds parts to recreate SpaceX's Starhopper.",
+    "author": "PoloKornel",
+    "version": "1.0.0",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3476/Starhopper",
+        "repository": "https://github.com/pasalvetti/Starhopper",
+        "bugtracker": "https://github.com/pasalvetti/Starhopper/issues",
+        "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Starhopper/Starhopper-1696708297.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3476/Starhopper/download/1.0.0",
+    "download_size": 8094555,
+    "download_hash": {
+        "sha1": "37C741A7EE45BFC2D0B2642206DEF6DD624C4ECD",
+        "sha256": "4B5D09752777B75F4803DB2BF58A1CD828450FDA83A25F964B9B6ED580DDA5FE"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 0,
+    "release_date": "2023-10-07T19:49:29.656259+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
