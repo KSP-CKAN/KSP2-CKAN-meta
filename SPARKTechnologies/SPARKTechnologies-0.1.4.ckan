@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SPARKTechnologies",
+    "name": "SPARK Technologies",
+    "abstract": "Solving your High Isp need with low thrust solutions",
+    "author": "Schlosrat",
+    "version": "0.1.4",
+    "ksp_version": "0.1.4",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219596-stellar-plasma-assisted-rocket-kinetics-spark-technologies-010/",
+        "spacedock": "https://spacedock.info/mod/3470/SPARK%20Technologies",
+        "repository": "https://github.com/schlosrat/SPARK",
+        "bugtracker": "https://github.com/schlosrat/SPARK/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/SPARK/main/SPARK/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/SPARK_Technologies/SPARK_Technologies-1695428632.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "LuxsFlamesandOrnaments"
+        }
+    ],
+    "install": [
+        {
+            "find": "SPARK",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3470/SPARK%20Technologies/download/0.1.4",
+    "download_size": 96935437,
+    "download_hash": {
+        "sha1": "241769119271E3F7F849651F4790833D783B9B22",
+        "sha256": "A4BDCA3EA7F16CBEEF37E99E72125DDC9ABCDBBD26C276446E3EBC65170ED293"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 107395972,
+    "release_date": "2023-10-11T15:22:11.089048+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
