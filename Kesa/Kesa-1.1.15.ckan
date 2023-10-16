@@ -30,12 +30,12 @@
     "download": "https://spacedock.info/mod/3409/Kesa/download/1.1.15",
     "download_size": 16195707,
     "download_hash": {
-        "sha1": "BD030122375E1ADF612D52988339E2EBC721FA3F",
-        "sha256": "3CD05F772E31B3F9E05E82D23D4D54317F1C924FB68E099D105E8CE43A9D9B51"
+        "sha1": "454CD00BE0A9795E0C06568D66FF04E061027B5A",
+        "sha256": "6EE429DEBFEAFD0C655DC54C95F236F0508E610B3CC43E20C3A6C2AB706D4013"
     },
     "download_content_type": "application/zip",
     "install_size": 18822883,
-    "release_date": "2023-10-16T07:47:03.109306+00:00",
+    "release_date": "2023-10-16T14:38:25.868911+00:00",
     "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
