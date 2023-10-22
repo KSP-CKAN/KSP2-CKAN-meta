@@ -5,7 +5,8 @@
     "abstract": "Speed up KSP 2's startup by loading during the logo splash screens",
     "author": "arthomnix",
     "version": "0.1.3",
-    "ksp_version": "0.1.3",
+    "ksp_version_min": "0.1.3",
+    "ksp_version_max": "0.1.4",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215785-speedy-startup-010/",
