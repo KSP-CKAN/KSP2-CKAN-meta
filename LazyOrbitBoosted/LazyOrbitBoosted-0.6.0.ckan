@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LazyOrbitBoosted",
+    "name": "Lazy Orbit Boosted",
+    "abstract": "A GUI for teleporting to orbit, keybind is ALT+H.",
+    "author": "Schlosrat",
+    "version": "0.6.0",
+    "ksp_version": "0.1.5",
+    "license": "CC-BY-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/217920-lazy-orbit-boosted/",
+        "spacedock": "https://spacedock.info/mod/3410/Lazy%20Orbit%20Boosted",
+        "repository": "https://github.com/schlosrat/LazyOrbit",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/LazyOrbit/master/LazyOrbit/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Lazy_Orbit_Boosted/Lazy_Orbit_Boosted-1687540829.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "LazyOrbit",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3410/Lazy%20Orbit%20Boosted/download/0.6.0",
+    "download_size": 18901,
+    "download_hash": {
+        "sha1": "1DA50727BA219ECEB748187540CF0E4329E02D1B",
+        "sha256": "B5FEE43B4981B5F7D270A9B2C69EE5F06AD9C3D30CEA2ABCF6AF72EC05EE5B98"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 44521,
+    "release_date": "2023-10-26T12:02:19.980247+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
