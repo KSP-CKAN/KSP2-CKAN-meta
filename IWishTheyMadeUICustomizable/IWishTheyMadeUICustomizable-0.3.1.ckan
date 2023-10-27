@@ -5,7 +5,8 @@
     "abstract": "You can move any UI group in the flight scene wherever you want.",
     "author": "Falki",
     "version": "0.3.1",
-    "ksp_version": "0.1.4",
+    "ksp_version_min": "0.1.4",
+    "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218164-i-wish-they-made-ui-customizable-030/",
