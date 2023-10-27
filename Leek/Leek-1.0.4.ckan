@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Leek",
+    "name": "Leek",
+    "abstract": "Leek",
+    "author": "Safarte",
+    "version": "1.0.4",
+    "ksp_version": "0.1.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219055-v100-leek/",
+        "spacedock": "https://spacedock.info/mod/3450/Leek",
+        "repository": "https://github.com/Safarte/Leek",
+        "bugtracker": "https://github.com/Safarte/Leek/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/Leek/main/BepInEx/plugins/Leek/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Leek/Leek-1693342135.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "Leek",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3450/Leek/download/1.0.4",
+    "download_size": 2539097,
+    "download_hash": {
+        "sha1": "AF2C013D04A37ECBB28577ADD78EDBE9D3EFED1F",
+        "sha256": "3BEACE58ACFE6618E5D6910AE3B0DD7FD7BD2CF67353B32A62021698D6DB3F09"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2986742,
+    "release_date": "2023-10-27T21:09:33.586467+00:00",
+    "x_generated_by": "netkan"
+}
