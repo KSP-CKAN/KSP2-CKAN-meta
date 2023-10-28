@@ -3,7 +3,10 @@
     "identifier": "CommunityResources",
     "name": "Community Resources",
     "abstract": "Common custom resource definitions for mods to use",
-    "author": "Falki",
+    "author": [
+        "Falki",
+        "munix"
+    ],
     "version": "0.1.0",
     "ksp_version": "0.1.5",
     "license": "MIT",
