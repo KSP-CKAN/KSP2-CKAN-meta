@@ -5,7 +5,8 @@
     "abstract": "Hue Utility for Mimicking Authentic Natural Skin",
     "author": "Falki",
     "version": "v1.0.1",
-    "ksp_version": "0.1.4",
+    "ksp_version_min": "0.1.4",
+    "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219825-hue-utility-for-mimicking-authentic-natural-skin-humans/",
