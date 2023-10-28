@@ -5,7 +5,7 @@
     "abstract": "You ever wanted to know what would happen if kerbol started to expand? well now you can.",
     "author": "ShadowDev",
     "version": "1.0.2",
-    "ksp_version": "0.1.4",
+    "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3458/Kerbol%20Expansion",
