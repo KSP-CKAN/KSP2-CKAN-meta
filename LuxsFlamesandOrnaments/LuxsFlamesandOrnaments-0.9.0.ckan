@@ -3,7 +3,10 @@
     "identifier": "LuxsFlamesandOrnaments",
     "name": "[LFO] Lux's Flames and Ornaments",
     "abstract": "Pretty plumes and more!",
-    "author": "LuxStice",
+    "author": [
+        "LuxStice",
+        "munix"
+    ],
     "version": "0.9.0",
     "ksp_version_min": "0.1.3",
     "ksp_version_max": "0.1.4",
