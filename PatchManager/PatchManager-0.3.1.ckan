@@ -1,8 +1,8 @@
 {
     "spec_version": "v1.24",
     "identifier": "PatchManager",
-    "name": "PatchManager",
-    "abstract": "A mod for your generic json patching needs",
+    "name": "Patch Manager",
+    "abstract": "A mod for your generic JSON patching needs",
     "author": [
         "cheese3660",
         "munix"
@@ -12,7 +12,7 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://github.com/KSP2Community/PatchManager/wiki",
-        "spacedock": "https://spacedock.info/mod/3482/PatchManager",
+        "spacedock": "https://spacedock.info/mod/3482/Patch%20Manager",
         "repository": "https://github.com/KSP2Community/PatchManager",
         "bugtracker": "https://github.com/KSP2Community/PatchManager/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/PatchManager/main/plugin_template/swinfo.json"
@@ -36,7 +36,7 @@
             ]
         }
     ],
-    "download": "https://spacedock.info/mod/3482/PatchManager/download/0.3.1",
+    "download": "https://spacedock.info/mod/3482/Patch%20Manager/download/0.3.1",
     "download_size": 222884,
     "download_hash": {
         "sha1": "4D492A66C9A46B22866C0540825DABCA5D8A9716",
