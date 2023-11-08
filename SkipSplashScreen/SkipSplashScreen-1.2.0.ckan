@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SkipSplashScreen",
+    "name": "Skip Splash Screen",
+    "abstract": "Skips the splash screen and health warning. Gives the fastest possible load times. To be used only for developing mods (faster iteration).",
+    "author": "Falki",
+    "version": "1.2.0",
+    "ksp_version": "0.1.5",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3441/Skip%20Splash%20Screen",
+        "repository": "https://github.com/Falki-git/SkipSplashScreen",
+        "bugtracker": "https://github.com/Falki-git/SkipSplashScreen/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/SkipSplashScreen/master/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/Skip_Splash_Screen/Skip_Splash_Screen-1692539675.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "SkipSplashScreen",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3441/Skip%20Splash%20Screen/download/1.2.0",
+    "download_size": 7481,
+    "download_hash": {
+        "sha1": "2CD782488D581B1A312FF8ADD4F978767E46B167",
+        "sha256": "87D6AF3621148074DD354C5980A656512911DBA1992AC40B91555EE5BE9926B9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 13214,
+    "release_date": "2023-11-08T20:11:38.816682+00:00",
+    "x_generated_by": "netkan"
+}
