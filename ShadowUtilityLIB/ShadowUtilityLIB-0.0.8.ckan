@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "ShadowUtilityLIB",
+    "name": "Shadow Utility LIB",
+    "abstract": "Utility Library for ShadowDev's mods",
+    "author": "ShadowDev",
+    "version": "0.0.8",
+    "ksp_version": "0.1.5",
+    "license": "CC-BY-NC-ND",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Shadow_Utility_LIB/Shadow_Utility_LIB-1699524685.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB/download/0.0.8",
+    "download_size": 493761,
+    "download_hash": {
+        "sha1": "FF64E7E817CF46988CB5A9BECA17DF8DAE071330",
+        "sha256": "F5590423253D8170BBF0371819C917813C57B773CACDA3D28B013861DEDE3288"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1094328,
+    "release_date": "2023-11-09T10:07:43.436547+00:00",
+    "x_generated_by": "netkan"
+}
