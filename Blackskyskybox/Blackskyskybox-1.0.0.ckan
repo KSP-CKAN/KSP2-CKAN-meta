@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Blackskyskybox",
+    "name": "Black sky skybox",
+    "abstract": "Pure Black skybox using konfig",
+    "author": "ShadowDev",
+    "version": "1.0.0",
+    "ksp_version": "0.1.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Bit-Studios/konfig/releases/tag/SkyboxBlackSky64x",
+        "spacedock": "https://spacedock.info/mod/3502/Black%20sky%20skybox",
+        "repository": "https://github.com/Bit-Studios/konfig",
+        "bugtracker": "https://github.com/Bit-Studios/konfig/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Black_sky_skybox/Black_sky_skybox-1699779131.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "Konfig"
+        }
+    ],
+    "install": [
+        {
+            "find": "BlackSky",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3502/Black%20sky%20skybox/download/1.0.0",
+    "download_size": 1628,
+    "download_hash": {
+        "sha1": "EAC162EB94B5500DB7B077E736EC16E7D88B0C1E",
+        "sha256": "36D3849D8CD592A69859216CAF37E141547AE78F2BB78B1B4C7B487FFAA20608"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 910,
+    "release_date": "2023-11-12T08:51:52.339866+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
