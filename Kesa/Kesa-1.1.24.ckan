@@ -19,6 +19,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "LuxsFlamesandOrnaments"
         }
     ],
     "install": [
@@ -36,6 +39,5 @@
     "download_content_type": "application/zip",
     "install_size": 67552447,
     "release_date": "2023-11-21T11:49:38.954505+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
