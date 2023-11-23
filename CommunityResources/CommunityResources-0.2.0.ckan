@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "CommunityResources",
+    "name": "Community Resources",
+    "abstract": "Common custom resource definitions for mods to use",
+    "author": [
+        "Falki",
+        "munix",
+        "cheese3660",
+        "Safarte"
+    ],
+    "version": "0.2.0",
+    "ksp_version": "0.1.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/KSP2Community/CommunityResources/wiki",
+        "spacedock": "https://spacedock.info/mod/3484/Community%20Resources",
+        "repository": "https://github.com/KSP2Community/CommunityResources",
+        "bugtracker": "https://github.com/KSP2Community/CommunityResources/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/CommunityResources/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/Community_Resources/Community_Resources-1698484729.png"
+    },
+    "tags": [
+        "plugin",
+        "library",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "CommunityResources",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3484/Community%20Resources/download/0.2.0",
+    "download_size": 21942,
+    "download_hash": {
+        "sha1": "20812E1D600ECDB9149C96ECF6535C30B2B724CA",
+        "sha256": "F289DAC9C50F458248580AB1F4F107DEFE292288B461B3F847E6EBF4627D7E25"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 36528,
+    "release_date": "2023-11-23T21:23:25.813947+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
