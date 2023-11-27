@@ -11,12 +11,8 @@
     "ksp_version": "0.1.5",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214244-maneuver-node-controller-003/",
         "spacedock": "https://spacedock.info/mod/3270/Maneuver%20Node%20Controller",
-        "repository": "https://github.com/XYZ3211/ManeuverNodeController",
-        "bugtracker": "https://github.com/XYZ3211/ManeuverNodeController/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/ManeuverNodeController/main/maneuver_node_controller/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/XYZ3211_103810/Maneuver_Node_Controller/Maneuver_Node_Controller-1684582353.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/ManeuverNodeController/main/maneuver_node_controller/swinfo.json"
     },
     "tags": [
         "plugin",
