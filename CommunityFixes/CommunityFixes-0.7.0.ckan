@@ -12,12 +12,8 @@
     "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214521-community-fixes/",
         "spacedock": "https://spacedock.info/mod/3301/Community%20Fixes",
-        "repository": "https://github.com/KSP2Community/CommunityFixes",
-        "bugtracker": "https://github.com/KSP2Community/CommunityFixes/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/Bit-Studios/CommunityFixes/main/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Community_Fixes/Community_Fixes-1678066194.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/Bit-Studios/CommunityFixes/main/swinfo.json"
     },
     "tags": [
         "plugin"
