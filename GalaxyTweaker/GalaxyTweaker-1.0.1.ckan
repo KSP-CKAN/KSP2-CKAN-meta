@@ -13,7 +13,11 @@
     "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3331/Galaxy%20Tweaker"
+        "homepage": "https://github.com/Hyperion-21/GalaxyTweaker",
+        "spacedock": "https://spacedock.info/mod/3331/Galaxy%20Tweaker",
+        "repository": "https://github.com/Hyperion-21/GalaxyTweaker",
+        "bugtracker": "https://github.com/Hyperion-21/GalaxyTweaker/issues",
+        "x_screenshot": "https://spacedock.info/content/Hyperion_21_106704/Galaxy_Tweaker/Galaxy_Tweaker-1679349925.png"
     },
     "tags": [
         "plugin",
