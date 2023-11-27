@@ -8,12 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216776-node-manager/",
         "spacedock": "https://spacedock.info/mod/3366/Node%20Manager",
-        "repository": "https://github.com/schlosrat/NodeManager",
-        "bugtracker": "https://github.com/schlosrat/NodeManager/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/NodeManager/master/node_manager/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Node_Manager/Node_Manager-1682620915.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/NodeManager/master/node_manager/swinfo.json"
     },
     "tags": [
         "plugin",
