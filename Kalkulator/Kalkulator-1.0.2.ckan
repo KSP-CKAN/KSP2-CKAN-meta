@@ -8,7 +8,11 @@
     "ksp_version": "0.1.1",
     "license": "CC-BY-ND",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3327/Kalkulator"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215278-kalkulator-102/",
+        "spacedock": "https://spacedock.info/mod/3327/Kalkulator",
+        "repository": "https://github.com/JohnsterSpaceProgramOfficial/Kalkulator",
+        "bugtracker": "https://github.com/JohnsterSpaceProgramOfficial/Kalkulator/issues",
+        "x_screenshot": "https://spacedock.info/content/JohnsterSpaceProgram_25967/Kalkulator/Kalkulator-1679184356.png"
     },
     "tags": [
         "plugin",
