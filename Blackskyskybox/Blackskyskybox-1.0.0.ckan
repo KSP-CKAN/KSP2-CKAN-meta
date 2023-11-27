@@ -8,11 +8,7 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/Bit-Studios/konfig/releases/tag/SkyboxBlackSky64x",
-        "spacedock": "https://spacedock.info/mod/3502/Black%20sky%20skybox",
-        "repository": "https://github.com/Bit-Studios/konfig",
-        "bugtracker": "https://github.com/Bit-Studios/konfig/issues",
-        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Black_sky_skybox/Black_sky_skybox-1699779131.png"
+        "spacedock": "https://spacedock.info/mod/3502/Black%20sky%20skybox"
     },
     "tags": [
         "config"
