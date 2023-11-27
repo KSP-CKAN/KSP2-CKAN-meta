@@ -9,7 +9,9 @@
     "ksp_version_max": "0.1.4",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3321/Kerbal%20Notebook"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214994-kerbal-notebook/",
+        "spacedock": "https://spacedock.info/mod/3321/Kerbal%20Notebook",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbal_Notebook/Kerbal_Notebook-1681944421.png"
     },
     "tags": [
         "plugin"
