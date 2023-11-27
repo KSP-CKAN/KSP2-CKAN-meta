@@ -8,12 +8,8 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215650-resonant-orbit-calculator/",
         "spacedock": "https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator",
-        "repository": "https://github.com/schlosrat/ResonantOrbitCalculator",
-        "bugtracker": "https://github.com/schlosrat/ResonantOrbitCalculator/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/ResonantOrbitCalculator/master/resonant_orbit_calculator/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Resonant_Orbit_Calculator/Resonant_Orbit_Calculator-1679409874.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/ResonantOrbitCalculator/master/resonant_orbit_calculator/swinfo.json"
     },
     "tags": [
         "plugin",
