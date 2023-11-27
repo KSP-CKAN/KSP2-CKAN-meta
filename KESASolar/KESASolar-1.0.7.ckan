@@ -8,8 +8,10 @@
     "ksp_version": "0.1.5",
     "license": "GPL-3.0",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219121-101-kesa-solar-kesa-solar-space-agency-parts-mod-solar-panels/",
         "spacedock": "https://spacedock.info/mod/3453/Kesa%20Solar",
-        "remote-swinfo": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/main/kesa_solar/swinfo.json"
+        "remote-swinfo": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/main/kesa_solar/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/jimkesa_115625/KESA_SOLAR/KESA_SOLAR-1693475288.jpg"
     },
     "tags": [
         "parts"
