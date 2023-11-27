@@ -9,7 +9,8 @@
     "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3407/Shadow%20Inc:%20Exploration%20Division"
+        "spacedock": "https://spacedock.info/mod/3407/Shadow%20Inc:%20Exploration%20Division",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Shadow_Inc_Exploration_Division/Shadow_Inc_Exploration_Division-1686860216.png"
     },
     "tags": [
         "plugin"
