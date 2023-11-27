@@ -8,12 +8,8 @@
     "ksp_version": "0.1.1",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215587-burn-controller-081/",
         "spacedock": "https://spacedock.info/mod/3330/Burn%20Controller",
-        "repository": "https://github.com/JohnsterSpaceProgramOfficial/BurnController",
-        "bugtracker": "https://github.com/JohnsterSpaceProgramOfficial/BurnController/issues",
-        "remote-swinfo": "https://github.com/JohnsterSpaceProgramOfficial/BurnController/raw/main/Burn%20Controller/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/JohnsterSpaceProgram_25967/Burn_Controller/Burn_Controller-1679592494.png"
+        "remote-swinfo": "https://github.com/JohnsterSpaceProgramOfficial/BurnController/raw/main/Burn%20Controller/swinfo.json"
     },
     "tags": [
         "plugin",
