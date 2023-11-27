@@ -9,7 +9,8 @@
     "ksp_version_max": "0.1.4",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3328/Count%20Down"
+        "spacedock": "https://spacedock.info/mod/3328/Count%20Down",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Count_Down/Count_Down-1681772349.png"
     },
     "tags": [
         "plugin",
