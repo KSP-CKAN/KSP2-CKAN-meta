@@ -11,10 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214543-*",
         "spacedock": "https://spacedock.info/mod/3316/Kontrol%20System%202",
-        "repository": "https://github.com/untoldwind/KontrolSystem2",
-        "bugtracker": "https://github.com/untoldwind/KontrolSystem2/issues",
-        "manual": "https://kontrolsystem2.readthedocs.io/",
-        "x_screenshot": "https://spacedock.info/content/untoldwind_105473/Kontrol_System_2/Kontrol_System_2-1678437398.png"
+        "manual": "https://kontrolsystem2.readthedocs.io/"
     },
     "tags": [
         "plugin",
