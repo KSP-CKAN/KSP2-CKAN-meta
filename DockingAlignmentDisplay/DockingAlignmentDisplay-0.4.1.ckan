@@ -8,12 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/topic/218752-v011-for-ksp2-013-docking-alignment-display-dad/",
         "spacedock": "https://spacedock.info/mod/3439/Docking%20Alignment%20Display",
-        "repository": "https://github.com/Safarte/DockingAlignmentDisplay",
-        "bugtracker": "https://github.com/Safarte/DockingAlignmentDisplay/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/DockingAlignmentDisplay/main/plugin_template/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Docking_Alignment_Display/Docking_Alignment_Display-1691090747.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/DockingAlignmentDisplay/main/plugin_template/swinfo.json"
     },
     "tags": [
         "plugin"
