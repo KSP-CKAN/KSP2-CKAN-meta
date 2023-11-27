@@ -9,7 +9,9 @@
     "ksp_version_max": "0.1.3",
     "license": "restricted",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3444/Questaria%20Aerospace"
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219006-v10-questaria-aerospace-general-parts-mod-for-ksp2/",
+        "spacedock": "https://spacedock.info/mod/3444/Questaria%20Aerospace",
+        "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/Questaria_Aereospace/Questaria_Aereospace-1692901782.png"
     },
     "tags": [
         "plugin"
