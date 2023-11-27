@@ -9,7 +9,10 @@
     "ksp_version_max": "0.1.1",
     "license": "GPL-3.0",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3322/kRPC2"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214999-krpc2-control-the-game-using-python-c-c-java-lua/",
+        "spacedock": "https://spacedock.info/mod/3322/kRPC2",
+        "repository": "https://github.com/krpc/krpc2",
+        "bugtracker": "https://github.com/krpc/krpc2/issues"
     },
     "tags": [
         "plugin",
