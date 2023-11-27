@@ -9,7 +9,11 @@
     "ksp_version_max": "0.1.5",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3275/Kerbal%20Web%20Program"
+        "homepage": "https://github.com/Bit-Studios/KerbalWebProgram/wiki",
+        "spacedock": "https://spacedock.info/mod/3275/Kerbal%20Web%20Program",
+        "repository": "https://github.com/Bit-Studios/KerbalWebProgram",
+        "bugtracker": "https://github.com/Bit-Studios/KerbalWebProgram/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbal_Web_Program/Kerbal_Web_Program-1677593780.png"
     },
     "tags": [
         "plugin"
