@@ -9,11 +9,7 @@
     "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/Bit-Studios/konfig/wiki",
-        "spacedock": "https://spacedock.info/mod/3401/Konfig",
-        "repository": "https://github.com/Bit-Studios/konfig",
-        "bugtracker": "https://github.com/Bit-Studios/konfig/issues",
-        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Konfig/Konfig-1685822618.png"
+        "spacedock": "https://spacedock.info/mod/3401/Konfig"
     },
     "tags": [
         "plugin"
