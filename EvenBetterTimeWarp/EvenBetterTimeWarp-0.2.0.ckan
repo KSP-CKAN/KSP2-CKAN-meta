@@ -8,11 +8,7 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217175-even-better-time-warp-010/",
-        "spacedock": "https://spacedock.info/mod/3386/Even%20Better%20Time%20Warp",
-        "repository": "https://github.com/arthomnix/EvenBetterTimeWarp",
-        "bugtracker": "https://github.com/arthomnix/EvenBetterTimeWarp/issues",
-        "x_screenshot": "https://spacedock.info/content/arthomnix_105803/Even_Better_Time_Warp/Even_Better_Time_Warp-1683979161.png"
+        "spacedock": "https://spacedock.info/mod/3386/Even%20Better%20Time%20Warp"
     },
     "tags": [
         "plugin"
