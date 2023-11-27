@@ -9,12 +9,8 @@
     "ksp_version_max": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/topic/218164-i-wish-they-made-ui-customizable-030/",
         "spacedock": "https://spacedock.info/mod/3391/I%20Wish%20They%20Made%20UI%20Customizable",
-        "repository": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable",
-        "bugtracker": "https://github.com/Falki-git/I-Wish-They-Made-UI-Customizable/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/I-Wish-They-Made-UI-Customizable/master/CustomizableUI/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Falki_104269/I_Wish_They_Made_UI_Customizable/I_Wish_They_Made_UI_Customizable-1684537294.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/I-Wish-They-Made-UI-Customizable/master/CustomizableUI/swinfo.json"
     },
     "tags": [
         "plugin"
