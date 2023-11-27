@@ -8,11 +8,7 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/Codenade/ksp2-inputbinder/blob/master/README.md",
-        "spacedock": "https://spacedock.info/mod/3422/Inputbinder",
-        "repository": "https://github.com/Codenade/ksp2-inputbinder",
-        "bugtracker": "https://github.com/Codenade/ksp2-inputbinder/issues",
-        "x_screenshot": "https://spacedock.info/content/StopFrag_111500/Inputbinder/Inputbinder-1696554248.png"
+        "spacedock": "https://spacedock.info/mod/3422/Inputbinder"
     },
     "tags": [
         "plugin"
