@@ -9,7 +9,9 @@
     "ksp_version_max": "0.1.4",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3351/Utility%20Uplift"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216378-utility-uplift-102/",
+        "spacedock": "https://spacedock.info/mod/3351/Utility%20Uplift",
+        "x_screenshot": "https://spacedock.info/content/TheYeetsterboi_107637/Service_Bays/Service_Bays-1680639033.png"
     },
     "tags": [
         "plugin",
