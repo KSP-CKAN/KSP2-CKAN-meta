@@ -9,7 +9,11 @@
     "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216611-tux-textures-unlimited-expanded-shader-injector-and-editing-tool/",
+        "spacedock": "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded",
+        "repository": "https://github.com/LuxStice/TUX",
+        "bugtracker": "https://github.com/LuxStice/TUX/issues",
+        "x_screenshot": "https://spacedock.info/content/LuxStice_20611/Textures_Unlimited_eXpanded/Textures_Unlimited_eXpanded-1681673433.png"
     },
     "tags": [
         "plugin",
