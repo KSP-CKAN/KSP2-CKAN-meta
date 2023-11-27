@@ -9,11 +9,7 @@
     "ksp_version_max": "0.1.2",
     "license": "MIT",
     "resources": {
-        "homepage": "https://spacedock.info/mod/3341/EVA%2520Anarchy",
-        "spacedock": "https://spacedock.info/mod/3341/EVA%20Anarchy",
-        "repository": "https://github.com/ThunderousEcho/EvaAnarchy",
-        "bugtracker": "https://github.com/ThunderousEcho/EvaAnarchy/issues",
-        "x_screenshot": "https://spacedock.info/content/ThunderousEcho_107475/EVA_Anarchy/EVA_Anarchy-1679804146.png"
+        "spacedock": "https://spacedock.info/mod/3341/EVA%20Anarchy"
     },
     "tags": [
         "plugin"
