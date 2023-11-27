@@ -9,9 +9,7 @@
     "ksp_version_max": "0.1.1",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3276/WASD%20For%20VAB",
-        "repository": "https://github.com/ArchLinus/WASDForVAB",
-        "bugtracker": "https://github.com/ArchLinus/WASDForVAB/issues"
+        "spacedock": "https://spacedock.info/mod/3276/WASD%20For%20VAB"
     },
     "tags": [
         "plugin",
