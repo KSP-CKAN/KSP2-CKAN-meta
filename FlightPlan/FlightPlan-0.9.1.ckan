@@ -8,12 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216393-flight-plan/",
         "spacedock": "https://spacedock.info/mod/3359/Flight%20Plan",
-        "repository": "https://github.com/schlosrat/FlightPlan",
-        "bugtracker": "https://github.com/schlosrat/FlightPlan/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/flight_plan/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Flight_Plan/Flight_Plan-1683682333.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/flight_plan/swinfo.json"
     },
     "tags": [
         "plugin",
