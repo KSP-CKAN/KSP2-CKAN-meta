@@ -9,7 +9,11 @@
     "ksp_version_max": "0.1.1",
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3291/UI%20Scaler"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214573-ui-scaler-v011-change-the-size-of-the-games-user-interface/#comment-4253305",
+        "spacedock": "https://spacedock.info/mod/3291/UI%20Scaler",
+        "repository": "https://github.com/Halbann/UIScaler",
+        "bugtracker": "https://github.com/Halbann/UIScaler/issues",
+        "x_screenshot": "https://spacedock.info/content/Halban_103632/UI_Scaler/UI_Scaler-1677724741.jpg"
     },
     "tags": [
         "plugin"
