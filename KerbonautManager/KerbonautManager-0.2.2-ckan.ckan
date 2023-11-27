@@ -9,10 +9,7 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3310/Kerbonaut%20Manager",
-        "repository": "https://github.com/jan-bures/KerbonautManager",
-        "bugtracker": "https://github.com/jan-bures/KerbonautManager/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/jan-bures/KerbonautManager/main/kerbonaut_manager/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/munix_103761/Kerbonaut_Manager/Kerbonaut_Manager-1678593563.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/jan-bures/KerbonautManager/main/kerbonaut_manager/swinfo.json"
     },
     "tags": [
         "plugin",
