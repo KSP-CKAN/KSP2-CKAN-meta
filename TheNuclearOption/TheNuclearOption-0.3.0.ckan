@@ -8,12 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/topic/219626-the-nuclear-option-tno-010/",
         "spacedock": "https://spacedock.info/mod/3471/The%20Nuclear%20Option",
-        "repository": "https://github.com/schlosrat/TNO",
-        "bugtracker": "https://github.com/schlosrat/TNO/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/TNO/main/TNO/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/The_Nuclear_Option/The_Nuclear_Option-1695651296.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/TNO/main/TNO/swinfo.json"
     },
     "tags": [
         "config"
