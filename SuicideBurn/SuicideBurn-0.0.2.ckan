@@ -9,8 +9,7 @@
     "ksp_version_max": "0.1.4",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3311/Suicide%20Burn",
-        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Suicide_Burn/Suicide_Burn-1678236533.png"
+        "spacedock": "https://spacedock.info/mod/3311/Suicide%20Burn"
     },
     "tags": [
         "plugin",
