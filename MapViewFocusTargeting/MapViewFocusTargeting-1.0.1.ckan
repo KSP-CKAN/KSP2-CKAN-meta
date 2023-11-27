@@ -9,7 +9,9 @@
     "ksp_version_max": "0.1.5",
     "license": "CC-BY-NC-SA",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3346/MapView%20Focus%20and%20Targeting"
+        "spacedock": "https://spacedock.info/mod/3346/MapView%20Focus%20and%20Targeting",
+        "repository": "https://github.com/Scarecrow-71/MapViewFocusTargeting",
+        "bugtracker": "https://github.com/Scarecrow-71/MapViewFocusTargeting/issues"
     },
     "tags": [
         "plugin",
