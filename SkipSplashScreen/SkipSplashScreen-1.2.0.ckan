@@ -9,7 +9,10 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3441/Skip%20Splash%20Screen",
-        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/SkipSplashScreen/master/plugin_template/swinfo.json"
+        "repository": "https://github.com/Falki-git/SkipSplashScreen",
+        "bugtracker": "https://github.com/Falki-git/SkipSplashScreen/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/SkipSplashScreen/master/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/Skip_Splash_Screen/Skip_Splash_Screen-1692539675.png"
     },
     "tags": [
         "plugin"
