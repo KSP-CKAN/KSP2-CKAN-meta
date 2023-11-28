@@ -8,7 +8,8 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3427/Quantum%20Mod%20Menu"
+        "spacedock": "https://spacedock.info/mod/3427/Quantum%20Mod%20Menu",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Quantum_Mod_Menu/Quantum_Mod_Menu-1689710469.png"
     },
     "tags": [
         "plugin"
