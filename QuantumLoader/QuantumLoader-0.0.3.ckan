@@ -8,7 +8,11 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3425/Quantum%20Loader"
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218484-quantum-loader-experimental/",
+        "spacedock": "https://spacedock.info/mod/3425/Quantum%20Loader",
+        "repository": "https://github.com/Bit-Studios/Quantum",
+        "bugtracker": "https://github.com/Bit-Studios/Quantum/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Quantum_Loader/Quantum_Loader-1689691646.png"
     },
     "tags": [
         "plugin"
