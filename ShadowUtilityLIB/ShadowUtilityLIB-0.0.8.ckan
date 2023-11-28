@@ -8,7 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "CC-BY-NC-ND",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB"
+        "spacedock": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Shadow_Utility_LIB/Shadow_Utility_LIB-1699524685.png"
     },
     "tags": [
         "plugin",
