@@ -8,7 +8,8 @@
     "ksp_version": "0.1.3",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3442/Better%20Parts%20Manager%20Legacy"
+        "spacedock": "https://spacedock.info/mod/3442/Better%20Parts%20Manager%20Legacy",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Better_Parts_Manager_Legacy/Better_Parts_Manager_Legacy-1692728840.png"
     },
     "tags": [
         "plugin"
