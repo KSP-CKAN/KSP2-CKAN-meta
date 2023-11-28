@@ -8,7 +8,8 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3458/Kerbol%20Expansion"
+        "spacedock": "https://spacedock.info/mod/3458/Kerbol%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kerbol_Expansion/Kerbol_Expansion-1693715423.png"
     },
     "tags": [
         "config",
