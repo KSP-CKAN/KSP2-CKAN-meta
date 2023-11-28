@@ -8,7 +8,11 @@
     "ksp_version": "0.1.5",
     "license": "LGPL-3.0",
     "resources": {
-        "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx"
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218490-space-warp-v140-for-ksp2-013/",
+        "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx",
+        "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
+        "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues",
+        "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Space_Warp__BepInEx/Space_Warp__BepInEx-1678544917.png"
     },
     "tags": [
         "plugin",
