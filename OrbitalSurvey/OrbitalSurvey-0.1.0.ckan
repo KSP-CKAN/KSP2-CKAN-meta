@@ -20,7 +20,8 @@
     ],
     "depends": [
         {
-            "name": "SpaceWarp"
+            "name": "SpaceWarp",
+            "min_version": "1.6.0"
         },
         {
             "name": "PatchManager"
