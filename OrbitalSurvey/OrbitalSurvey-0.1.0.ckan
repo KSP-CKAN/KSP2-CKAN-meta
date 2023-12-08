@@ -8,6 +8,7 @@
     "ksp_version": "0.1.5",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/221133-orbital-survey/",
         "spacedock": "https://spacedock.info/mod/3519/Orbital%20Survey",
         "repository": "https://github.com/Falki-git/OrbitalSurvey",
         "bugtracker": "https://github.com/Falki-git/OrbitalSurvey/issues",
