@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KapybaraSpaceProgram2",
+    "name": "Kapybara Space Program 2",
+    "abstract": "An alternate universe where Kapybaras are the courageous creatures to explore the Kerbol system, and beyond!",
+    "author": "abelinoss",
+    "version": "0.1",
+    "ksp_version_min": "0.1.4",
+    "ksp_version_max": "0.1.5",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/221176-kapybara-space-program-2/",
+        "spacedock": "https://spacedock.info/mod/3522/Kapybara%20Space%20Program%202",
+        "repository": "https://github.com/cheese3660/KapybaraSpaceProgram",
+        "bugtracker": "https://github.com/cheese3660/KapybaraSpaceProgram/issues",
+        "x_screenshot": "https://spacedock.info/content/abelinoss_127001/Kapybara_Space_Program_2/Kapybara_Space_Program_2-1702299435.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "KapybaraSpaceProgram",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3522/Kapybara%20Space%20Program%202/download/0.1",
+    "download_size": 1399012,
+    "download_hash": {
+        "sha1": "059281898FE2FA6B80D8FBB52D13FD736E6D10BE",
+        "sha256": "2593ADF29C844E310C3E39388C0E9B217A0D79998F2103B7F5F166040EA81A65"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1396019,
+    "release_date": "2023-12-11T12:40:26.1148+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
