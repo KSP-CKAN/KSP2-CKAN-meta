@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "LuxsOABExtensions",
+    "name": "Lux's OAB Extensions (LOABE)",
+    "abstract": "QoL changes to the OAB",
+    "author": "LuxStice",
+    "version": "1.0.0",
+    "ksp_version": "0.1.4",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216276-luxs-oab-extensions-010-more-symmetry-options-custom-size-labels-mk2-mk3-are-back/",
+        "spacedock": "https://spacedock.info/mod/3354/Lux's%20OAB%20Extensions%20(LOABE)",
+        "repository": "https://github.com/LuxStice/LuxsOABExtensions",
+        "bugtracker": "https://github.com/LuxStice/LuxsOABExtensions/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/LuxStice/LuxsOABExtensions/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Kemorno_20611/Luxs_OAB_Extensions/Luxs_OAB_Extensions-1680834446.png"
+    },
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "LuxsOABExtensions",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3354/Lux's%20OAB%20Extensions%20(LOABE)/download/1.0.0",
+    "download_size": 40706,
+    "download_hash": {
+        "sha1": "17183CFF1AAB1335C2A02519316918603A17DC81",
+        "sha256": "6ED19022714761EDD3743EA96D5C3661D5C8FA10B40563F3D3E7977A80A07B74"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 58077,
+    "release_date": "2023-09-12T19:58:28.94115+00:00",
+    "x_generated_by": "netkan"
+}
