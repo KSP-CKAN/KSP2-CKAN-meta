@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "DockingAlignmentDisplay",
+    "name": "Docking Alignment Display",
+    "abstract": "Adds a new instrument providing necessary information to dock with precision.",
+    "author": "Safarte",
+    "version": "0.4.2",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218752-v011-for-ksp2-013-docking-alignment-display-dad/",
+        "spacedock": "https://spacedock.info/mod/3439/Docking%20Alignment%20Display",
+        "repository": "https://github.com/Safarte/DockingAlignmentDisplay",
+        "bugtracker": "https://github.com/Safarte/DockingAlignmentDisplay/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/DockingAlignmentDisplay/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Docking_Alignment_Display/Docking_Alignment_Display-1691090747.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "DockingAlignmentDisplay",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3439/Docking%20Alignment%20Display/download/0.4.2",
+    "download_size": 51144,
+    "download_hash": {
+        "sha1": "9EE041DFD383144A552FB35DA14CB6EB99BED25B",
+        "sha256": "AE678AF36848AFADAA25EBF329BC9CD69FAE9917E8511BE6354AE1A002C3F436"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 59822,
+    "release_date": "2023-12-20T20:43:47.468525+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
