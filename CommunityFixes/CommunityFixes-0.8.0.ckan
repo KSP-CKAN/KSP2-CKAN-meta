@@ -8,7 +8,8 @@
         "munix"
     ],
     "version": "0.8.0",
-    "ksp_version": "0.1.5",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214521-community-fixes/",
