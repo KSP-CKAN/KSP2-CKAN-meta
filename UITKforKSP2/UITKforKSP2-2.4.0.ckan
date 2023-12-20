@@ -5,7 +5,8 @@
     "abstract": "A library bringing Unity UI Toolkit support to KSP 2.",
     "author": "munix",
     "version": "2.4.0",
-    "ksp_version": "0.1.5",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
         "homepage": "https://github.com/jan-bures/UitkForKsp2",
