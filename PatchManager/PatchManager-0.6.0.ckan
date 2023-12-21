@@ -12,7 +12,7 @@
     "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
-        "homepage": "https://github.com/KSP2Community/PatchManager/wiki",
+        "homepage": "http://pm.kerbal.wiki",
         "spacedock": "https://spacedock.info/mod/3482/Patch%20Manager",
         "repository": "https://github.com/KSP2Community/PatchManager",
         "bugtracker": "https://github.com/KSP2Community/PatchManager/issues",
