@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "SpaceWarp",
+    "name": "SpaceWarp",
+    "abstract": "A C# modding api on top of BepInEx for KSP2",
+    "author": [
+        "cheese3660",
+        "munix",
+        "KSP2Community"
+    ],
+    "version": "1.7.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218490-space-warp-v140-for-ksp2-013/",
+        "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx",
+        "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
+        "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/SpaceWarpDev/SpaceWarp/main/plugin_template/BepInEx/plugins/SpaceWarp/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Space_Warp__BepInEx/Space_Warp__BepInEx-1678544917.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx/download/1.7.0",
+    "download_size": 9373967,
+    "download_hash": {
+        "sha1": "C042DAEA50C5B8725B05D9AE1E9FEF38F9DF3FC1",
+        "sha256": "A9D20ACAC8F7157634F21941451410C543DD928D1C92361ACD53B698D571DD0E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 22889757,
+    "release_date": "2023-12-22T17:03:50.7684+00:00",
+    "x_generated_by": "netkan"
+}
