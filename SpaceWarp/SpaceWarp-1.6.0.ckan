@@ -5,7 +5,8 @@
     "abstract": "A C# modding api on top of BepInEx for KSP2",
     "author": [
         "cheese3660",
-        "munix"
+        "munix",
+        "KSP2Community"
     ],
     "version": "1.6.0",
     "ksp_version_min": "0.1.5",
