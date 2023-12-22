@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "KerbalLifeSupportSystem",
+    "name": "Kerbal Life-Support System",
+    "abstract": "Because your Kerbals need Snacks.",
+    "author": "Safarte",
+    "version": "0.5.1",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220424-kerbal-life-support-system-klss-v020-for-ksp2-015/",
+        "spacedock": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System",
+        "repository": "https://github.com/Safarte/KerbalLifeSupportSystem",
+        "bugtracker": "https://github.com/Safarte/KerbalLifeSupportSystem/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/KerbalLifeSupportSystem/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Kerbal_Life-Support_System/Kerbal_Life-Support_System-1698527919.png"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "CommunityResources"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalLifeSupportSystem",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System/download/0.5.1",
+    "download_size": 163106726,
+    "download_hash": {
+        "sha1": "B2E5A315FBA02EBED2776A78337FCAB72BCDD50A",
+        "sha256": "DBA771982B05D9B47231A4C3008F58CBE2C361768CA339E142E4A5C4FFD93D99"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 180961511,
+    "release_date": "2023-12-22T17:12:56.541731+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
