@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "HUMANS",
+    "name": "H.U.M.A.N.S.",
+    "abstract": "Hue Utility for Mimicking Authentic Natural Skin",
+    "author": "Falki",
+    "version": "v1.1.0",
+    "ksp_version_min": "0.1.4",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219825-hue-utility-for-mimicking-authentic-natural-skin-humans/",
+        "spacedock": "https://spacedock.info/mod/3477/H.U.M.A.N.S.",
+        "repository": "https://github.com/Falki-git/HUMANS",
+        "bugtracker": "https://github.com/Falki-git/HUMANS/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/HUMANS/master/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/H.U.M.A.N.S/H.U.M.A.N.S-1696720878.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "Humans",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3477/H.U.M.A.N.S./download/v1.1.0",
+    "download_size": 2698270,
+    "download_hash": {
+        "sha1": "84DA443324D59E402ADDA5CD72D4A6E381B259B7",
+        "sha256": "1C790BBE7AE77785B8940DEC38C243F3ADF5E5F6C26277D2127C5B329EB07CA0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3387197,
+    "release_date": "2023-12-22T15:55:55.100294+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
