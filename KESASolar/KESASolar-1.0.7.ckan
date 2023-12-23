@@ -5,7 +5,8 @@
     "abstract": "Kesa Solar Parts",
     "author": "jimkesa",
     "version": "1.0.7",
-    "ksp_version": "0.1.5",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219121-101-kesa-solar-kesa-solar-space-agency-parts-mod-solar-panels/",
