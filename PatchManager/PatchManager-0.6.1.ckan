@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "PatchManager",
+    "name": "Patch Manager",
+    "abstract": "A mod for your generic JSON patching needs",
+    "author": [
+        "cheese3660",
+        "munix"
+    ],
+    "version": "0.6.1",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "http://pm.kerbal.wiki",
+        "spacedock": "https://spacedock.info/mod/3482/Patch%20Manager",
+        "repository": "https://github.com/KSP2Community/PatchManager",
+        "bugtracker": "https://github.com/KSP2Community/PatchManager/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/PatchManager/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/3482/Patch%20Manager/download/0.6.1",
+    "download_size": 252847,
+    "download_hash": {
+        "sha1": "E94D3CF898759B12EB4D51900CA606122C024F17",
+        "sha256": "B2CB2194EE2D5275CBDF55A0282E5EC17B341EBB063673BA18F59489D3422854"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 654780,
+    "release_date": "2023-12-24T02:25:36.430741+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
