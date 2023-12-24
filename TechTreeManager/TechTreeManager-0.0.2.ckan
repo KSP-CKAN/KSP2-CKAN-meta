@@ -9,7 +9,8 @@
     "license": "MIT",
     "resources": {
         "homepage": "https://ttm.kerbal.wiki",
-        "spacedock": "https://spacedock.info/mod/3527/Tech%20Tree%20Manager"
+        "spacedock": "https://spacedock.info/mod/3527/Tech%20Tree%20Manager",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Tech_Tree_Manager/Tech_Tree_Manager-1703324119.png"
     },
     "tags": [
         "plugin"
