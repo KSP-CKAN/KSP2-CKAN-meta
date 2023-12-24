@@ -5,7 +5,8 @@
     "abstract": "Plan your (Space) Flight, Fly Your Plan! Handy tools to help you set up maneuver nodes to get you where you want to be. Making spaceflight planning easier for KSP2 one mission at a time.",
     "author": "Schlosrat",
     "version": "0.9.1",
-    "ksp_version": "0.1.5",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216393-flight-plan/",
