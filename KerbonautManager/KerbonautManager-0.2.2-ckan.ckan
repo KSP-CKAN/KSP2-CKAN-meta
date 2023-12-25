@@ -8,6 +8,7 @@
     "ksp_version": "0.1.4",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/214670-kerbonaut-manager-create-rename-and-remove-your-kerbonauts/",
         "spacedock": "https://spacedock.info/mod/3310/Kerbonaut%20Manager",
         "repository": "https://github.com/jan-bures/KerbonautManager",
         "bugtracker": "https://github.com/jan-bures/KerbonautManager/issues",
