@@ -16,7 +16,7 @@
         "repository": "https://github.com/Micrologist/MicroEngineer",
         "bugtracker": "https://github.com/Micrologist/MicroEngineer/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Micrologist/MicroEngineer/main/Staging/BepInEx/plugins/micro_engineer/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Micrologist_104134/Micro_Engineer/Micro_Engineer-1687958402.png"
+        "x_screenshot": "https://spacedock.info/content/Micrologist_104134/Micro_Engineer/Micro_Engineer-1703540994.png"
     },
     "tags": [
         "plugin",
