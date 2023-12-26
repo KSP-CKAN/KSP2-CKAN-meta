@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "TechTreeManager",
+    "name": "Tech Tree Manager",
+    "abstract": "Create and manage tech trees",
+    "author": "ShadowDev",
+    "version": "0.0.3",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://ttm.kerbal.wiki",
+        "spacedock": "https://spacedock.info/mod/3527/Tech%20Tree%20Manager",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Tech_Tree_Manager/Tech_Tree_Manager-1703324119.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "ShadowUtilityLIB"
+        }
+    ],
+    "install": [
+        {
+            "find": "TechTreeManager",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3527/Tech%20Tree%20Manager/download/0.0.3",
+    "download_size": 18335,
+    "download_hash": {
+        "sha1": "531CD477BD69A3F56D680011AC9C337C7152F2A0",
+        "sha256": "11F82B9E536F88C2F9EF67A6B134529E3B55FDFA677DAD4B7F5D548C1700BD29"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 14336,
+    "release_date": "2023-12-25T18:06:47.576603+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
