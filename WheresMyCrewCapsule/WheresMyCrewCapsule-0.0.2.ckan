@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "WheresMyCrewCapsule",
+    "name": "Where's My Crew Capsule",
+    "abstract": "A reimagined tech tree for KSP2",
+    "author": "cheese3660",
+    "version": "0.0.2",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3531/Where's%20My%20Crew%20Capsule",
+        "repository": "https://github.com/cheese3660/WheresMyCrewCapsule",
+        "bugtracker": "https://github.com/cheese3660/WheresMyCrewCapsule/issues"
+    },
+    "tags": [
+        "config",
+        "tech-tree",
+        "career",
+        "uncrewed",
+        "science"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "WMCCModules"
+        }
+    ],
+    "install": [
+        {
+            "find": "WheresMyCrewCapsule",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3531/Where's%20My%20Crew%20Capsule/download/0.0.2",
+    "download_size": 16436,
+    "download_hash": {
+        "sha1": "D8F9FFED156FBA54CC0ECD5493071209844CBE34",
+        "sha256": "5EFF20663CF504195A8545323F3AB4B7E2497C5F4863250F76F097B40A52B9C8"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 92893,
+    "release_date": "2023-12-27T14:31:49.125796+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
