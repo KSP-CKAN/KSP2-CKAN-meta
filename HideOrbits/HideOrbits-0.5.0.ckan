@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "HideOrbits",
+    "name": "Hide Orbits",
+    "abstract": "Hide distant unrelated planetary orbits in the map view",
+    "author": "Strykker2",
+    "version": "0.5.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3324/Hide%20Orbits",
+        "repository": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits",
+        "bugtracker": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "HideOrbits",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3324/Hide%20Orbits/download/0.5.0",
+    "download_size": 10441,
+    "download_hash": {
+        "sha1": "B5AFA2ABDCCF2EFDAA07790303A5E5427D4860F8",
+        "sha256": "19A2E8F682B13FE2BFC09C20E72E4DB5BBC4F2F5E4DF1A3E44EC77584C2A2B15"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 18333,
+    "release_date": "2023-12-27T02:04:17.281851+00:00",
+    "x_generated_by": "netkan"
+}
