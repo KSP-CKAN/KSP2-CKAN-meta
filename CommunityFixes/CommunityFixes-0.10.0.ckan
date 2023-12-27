@@ -24,6 +24,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
         }
     ],
     "install": [
