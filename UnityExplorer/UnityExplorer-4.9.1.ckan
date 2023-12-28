@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.32",
+    "identifier": "UnityExplorer",
+    "name": "Unity Explorer for KSP2",
+    "abstract": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",
+    "author": [
+        "sinai-dev",
+        "Safarte",
+        "Falki-git"
+    ],
+    "version": "4.9.1",
+    "ksp_version_min": "0.1.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://github.com/KSP2Community/UnityExplorer",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/UnityExplorer/master/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "sinai-dev-UnityExplorer",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/KSP2Community/UnityExplorer/releases/download/4.9.1/UnityExplorerForKSP2_4.9.1.zip",
+    "download_size": 3436206,
+    "download_hash": {
+        "sha1": "2AC4508E893DA2D53622463D96016E9C3847CC51",
+        "sha256": "662D1813A3062709F7B1487120F20A062F1674E68D5FE7C74CBCDEE31AA20695"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 4750491,
+    "release_date": "2023-09-03T19:55:10Z",
+    "x_generated_by": "netkan"
+}
