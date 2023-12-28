@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "Reflektor",
+    "name": "Reflektor",
+    "abstract": "A quicker, lighter weight alternative to Unity Explorer for KSP 2",
+    "author": "coldrifting",
+    "version": "v0.2.0.rc1",
+    "ksp_version_min": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/coldrifting/Reflektor",
+        "bugtracker": "https://github.com/coldrifting/Reflektor/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "Reflektor",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/coldrifting/Reflektor/releases/download/v0.2.0.rc1/Reflektor-v0.2.0.rc1.zip",
+    "download_size": 34690,
+    "download_hash": {
+        "sha1": "B9570B9D490DDD7706CFB2B825AD9C7B6072FCB5",
+        "sha256": "7764386BBB0BD67793E8B0596E30F120B914ECCB9D71EB36DDA4C69B2BDC56C5"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 64825,
+    "release_date": "2023-12-28T08:24:41Z",
+    "x_generated_by": "netkan"
+}
