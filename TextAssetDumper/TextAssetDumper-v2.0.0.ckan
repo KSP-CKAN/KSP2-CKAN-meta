@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "TextAssetDumper",
+    "name": "Text Asset Dumper",
+    "abstract": "Dumps all text assets from addressables and all localizations.",
+    "author": [
+        "Falki-git",
+        "Safarte",
+        "jan-bures"
+    ],
+    "version": "v2.0.0",
+    "ksp_version_min": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/KSP2Community/TextAssetDumper",
+        "bugtracker": "https://github.com/KSP2Community/TextAssetDumper/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/TextAssetDumper/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "TextAssetDumper",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/KSP2Community/TextAssetDumper/releases/download/v2.0.0/TextAssetDumper-2.0.0.zip",
+    "download_size": 8339,
+    "download_hash": {
+        "sha1": "5EAD2B317097BB683B1B7D2EC931762650D1693C",
+        "sha256": "960A5F8BEB2BAE76375DB2BDA6C7DD22F377CAB4B0D82E46E0BEDB1292626B23"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 15641,
+    "release_date": "2023-12-29T17:28:43Z",
+    "x_generated_by": "netkan"
+}
