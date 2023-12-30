@@ -22,6 +22,9 @@
         },
         {
             "name": "LuxsFlamesandOrnaments"
+        },
+        {
+            "name": "PatchManager"
         }
     ],
     "install": [
