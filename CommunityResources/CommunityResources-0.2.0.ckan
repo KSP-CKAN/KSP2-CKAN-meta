@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "CommunityResources",
     "name": "Community Resources",
     "abstract": "Common custom resource definitions for mods to use",
@@ -40,7 +40,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3484/Community%20Resources/download/0.2.0",
+    "download": [
+        "https://github.com/KSP2Community/CommunityResources/releases/download/v0.2.0/Community_Resources-0.2.0.1.zip",
+        "https://spacedock.info/mod/3484/Community%20Resources/download/0.2.0"
+    ],
     "download_size": 21942,
     "download_hash": {
         "sha1": "20812E1D600ECDB9149C96ECF6535C30B2B724CA",
@@ -49,6 +52,5 @@
     "download_content_type": "application/zip",
     "install_size": 36528,
     "release_date": "2023-11-23T21:23:25.813947+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
