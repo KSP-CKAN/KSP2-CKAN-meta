@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.34",
     "identifier": "FlightPlan",
     "name": "Flight Plan",
     "abstract": "Plan your (Space) Flight, Fly Your Plan! Handy tools to help you set up maneuver nodes to get you where you want to be. Making spaceflight planning easier for KSP2 one mission at a time.",
@@ -39,7 +39,10 @@
             "filter_regexp": "\\.pdb$"
         }
     ],
-    "download": "https://spacedock.info/mod/3359/Flight%20Plan/download/0.9.1",
+    "download": [
+        "https://github.com/schlosrat/FlightPlan/releases/download/0.9.1/flight_plan_v0.9.1.zip",
+        "https://spacedock.info/mod/3359/Flight%20Plan/download/0.9.1"
+    ],
     "download_size": 1634433,
     "download_hash": {
         "sha1": "D0B5EA0062AB0F0438E5EAC3303ECD8334D853C1",
