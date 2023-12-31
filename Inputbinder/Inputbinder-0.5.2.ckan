@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "Inputbinder",
     "name": "Inputbinder",
     "abstract": "Control rebinding tool",
@@ -28,7 +28,9 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3422/Inputbinder/download/0.5.2",
+    "download": [
+        "https://spacedock.info/mod/3422/Inputbinder/download/0.5.2"
+    ],
     "download_size": 101487,
     "download_hash": {
         "sha1": "B4895FB6F7CCDCBB32E0CBF8CA6F804A1BF668E2",
@@ -37,6 +39,5 @@
     "download_content_type": "application/zip",
     "install_size": 385865,
     "release_date": "2023-10-07T09:34:59.340039+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
