@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.24",
+    "spec_version": "v1.34",
     "identifier": "KerbalLifeSupportSystem",
     "name": "Kerbal Life-Support System",
     "abstract": "Because your Kerbals need Snacks.",
@@ -40,7 +40,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System/download/0.5.2",
+    "download": [
+        "https://github.com/Safarte/KerbalLifeSupportSystem/releases/download/v0.5.2/KerbalLifeSupportSystem-0.5.2.zip",
+        "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System/download/0.5.2"
+    ],
     "download_size": 163106752,
     "download_hash": {
         "sha1": "47E36A6893844DC9E2350B1E7EA71F13599D69AB",
@@ -49,6 +52,5 @@
     "download_content_type": "application/zip",
     "install_size": 180961832,
     "release_date": "2023-12-26T20:20:58.463694+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
