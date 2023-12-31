@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "TexturesUtilitieseXpanded",
     "name": "Textures Utilities eXpanded",
     "abstract": "Shader injector and editing tool",
@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded/download/1.0.0",
+    "download": [
+        "https://github.com/LuxStice/TUX/releases/download/1.0.0/TUX-1.0.0.zip",
+        "https://spacedock.info/mod/3364/Textures%20Utilities%20eXpanded/download/1.0.0"
+    ],
     "download_size": 24488,
     "download_hash": {
         "sha1": "65EC8BEB9773259FCC96B9AD54546420C91F9BB9",
