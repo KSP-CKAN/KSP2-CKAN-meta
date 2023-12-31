@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "GalaxyTweaker",
     "name": "Galaxy Tweaker",
     "abstract": "Edit and create planets, solar systems, and galaxies!",
@@ -34,7 +34,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3331/Galaxy%20Tweaker/download/1.0.1",
+    "download": [
+        "https://github.com/Hyperion-21/GalaxyTweaker/releases/download/v1.0.1/GalaxyTweaker_v1.0.1.zip",
+        "https://spacedock.info/mod/3331/Galaxy%20Tweaker/download/1.0.1"
+    ],
     "download_size": 12671,
     "download_hash": {
         "sha1": "10D4803EEC6D5706D1DCF6AF1EBF6C111D09F26B",
