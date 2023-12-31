@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "ResonantOrbitCalculator",
     "name": "Resonant Orbit Calculator",
     "abstract": "Calculates resonant orbits suitable for deploying constellations of satellites",
@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator/download/0.6.2",
+    "download": [
+        "https://github.com/schlosrat/ResonantOrbitCalculator/releases/download/0.6.2/resonant_orbit_calculator_v0.6.2.zip",
+        "https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator/download/0.6.2"
+    ],
     "download_size": 89213,
     "download_hash": {
         "sha1": "D04BC7A3ED45372122BE412B718975CA88580953",
