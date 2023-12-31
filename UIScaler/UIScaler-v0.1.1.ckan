@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "UIScaler",
     "name": "UI Scaler",
     "abstract": "Change the size of the game's user interface via a slider in the settings menu.",
@@ -29,7 +29,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3291/UI%20Scaler/download/v0.1.1",
+    "download": [
+        "https://github.com/Halbann/UIScaler/releases/download/v0.1.1/UIScaler-v0.1.1.zip",
+        "https://spacedock.info/mod/3291/UI%20Scaler/download/v0.1.1"
+    ],
     "download_size": 12048,
     "download_hash": {
         "sha1": "F92AD20522A6EC6574EE9D288258DDF143E5D5B9",
