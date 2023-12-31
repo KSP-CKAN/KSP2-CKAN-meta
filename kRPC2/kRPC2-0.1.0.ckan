@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "kRPC2",
     "name": "kRPC2",
     "abstract": "Control the game using Python, C#, C++, Lua, Java...",
@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3322/kRPC2/download/0.1.0",
+    "download": [
+        "https://github.com/krpc/krpc2/releases/download/v0.1.0/krpc2-0.1.0.zip",
+        "https://spacedock.info/mod/3322/kRPC2/download/0.1.0"
+    ],
     "download_size": 265919,
     "download_hash": {
         "sha1": "5F498658FC499A8F945E385B8232137C9D04FAFE",
