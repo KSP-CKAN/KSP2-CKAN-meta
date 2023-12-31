@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.34",
     "identifier": "KerbonautManager",
     "name": "Kerbonaut Manager",
     "abstract": "Create, rename and remove your kerbonauts",
@@ -31,7 +31,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3310/Kerbonaut%20Manager/download/0.2.3",
+    "download": [
+        "https://github.com/jan-bures/KerbonautManager/releases/download/v0.2.3/kerbonaut_manager-0.2.3.zip",
+        "https://spacedock.info/mod/3310/Kerbonaut%20Manager/download/0.2.3"
+    ],
     "download_size": 12465,
     "download_hash": {
         "sha1": "8A74F081CABD1BDD37C40FFFC22787681662747B",
