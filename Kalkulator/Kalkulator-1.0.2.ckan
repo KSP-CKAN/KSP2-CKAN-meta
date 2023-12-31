@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "Kalkulator",
     "name": "Kalkulator",
     "abstract": "Adds a basic calculator with addition, subtraction, multiplication, and division functionality.",
@@ -29,7 +29,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3327/Kalkulator/download/1.0.2",
+    "download": [
+        "https://github.com/JohnsterSpaceProgramOfficial/Kalkulator/releases/download/v1.0.2/Kalkulator-1.0.2.zip",
+        "https://spacedock.info/mod/3327/Kalkulator/download/1.0.2"
+    ],
     "download_size": 7870,
     "download_hash": {
         "sha1": "8BF67CD80F84A6386D0A600DFBAC3C3D85F7E296",
