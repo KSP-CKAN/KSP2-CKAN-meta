@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "WMCCModules",
     "name": "WMCC Modules",
     "abstract": "Modules for Where's My Crew Capsule",
@@ -28,7 +28,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3530/WMCC%20Modules/download/0.1.0",
+    "download": [
+        "https://github.com/cheese3660/WMCCModules/releases/download/v0.1.0/WMCCModules-0.1.0.zip",
+        "https://spacedock.info/mod/3530/WMCC%20Modules/download/0.1.0"
+    ],
     "download_size": 7370,
     "download_hash": {
         "sha1": "9677C3F939DE217546FDC2B4F23DD7DDA0287594",
@@ -37,6 +40,5 @@
     "download_content_type": "application/zip",
     "install_size": 13801,
     "release_date": "2023-12-27T14:17:00.333333+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
