@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "CommunityFixes",
     "name": "Community Fixes",
     "abstract": "Community project that aims to bring together bug fixes for KSP 2",
@@ -35,7 +35,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3301/Community%20Fixes/download/0.11.0",
+    "download": [
+        "https://github.com/KSP2Community/CommunityFixes/releases/download/v0.11.0/CommunityFixes-0.11.0.zip",
+        "https://spacedock.info/mod/3301/Community%20Fixes/download/0.11.0"
+    ],
     "download_size": 14418,
     "download_hash": {
         "sha1": "26F1286FC0A4DD71D88CCA3F0CEBF37D1882629A",
