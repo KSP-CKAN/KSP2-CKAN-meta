@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.34",
     "identifier": "ToggleNotifications",
     "name": "Toggle Notifications",
     "abstract": "Toggle Notifications On or Off!",
@@ -29,7 +29,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3377/Toggle%20Notifications/download/0.3.0.1",
+    "download": [
+        "https://github.com/cvusmo/Toggle-Notifications/releases/download/v0.3.0.1/Toggle.Notifications.0.3.0.1.zip",
+        "https://spacedock.info/mod/3377/Toggle%20Notifications/download/0.3.0.1"
+    ],
     "download_size": 105642,
     "download_hash": {
         "sha1": "CA998042F57B5E161EB63E2F554395F8B9FFF988",
