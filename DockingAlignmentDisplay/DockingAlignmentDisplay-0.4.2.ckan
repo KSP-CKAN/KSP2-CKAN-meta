@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "DockingAlignmentDisplay",
     "name": "Docking Alignment Display",
     "abstract": "Adds a new instrument providing necessary information to dock with precision.",
@@ -33,7 +33,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3439/Docking%20Alignment%20Display/download/0.4.2",
+    "download": [
+        "https://github.com/Safarte/DockingAlignmentDisplay/releases/download/v0.4.2/DockingAlignmentDisplay-0.4.2.zip",
+        "https://spacedock.info/mod/3439/Docking%20Alignment%20Display/download/0.4.2"
+    ],
     "download_size": 51144,
     "download_hash": {
         "sha1": "9EE041DFD383144A552FB35DA14CB6EB99BED25B",
@@ -42,6 +45,5 @@
     "download_content_type": "application/zip",
     "install_size": 59822,
     "release_date": "2023-12-20T20:43:47.468525+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
