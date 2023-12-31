@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "SPARKTechnologies",
     "name": "SPARK Technologies",
     "abstract": "Solving your High Isp need with low thrust solutions",
@@ -32,7 +32,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3470/SPARK%20Technologies/download/0.1.4.1",
+    "download": [
+        "https://github.com/schlosrat/SPARK/releases/download/0.1.4.1/SPARK_0.1.4.1.zip",
+        "https://spacedock.info/mod/3470/SPARK%20Technologies/download/0.1.4.1"
+    ],
     "download_size": 96933382,
     "download_hash": {
         "sha1": "2318A924377C352D935E60CBA25015EFDBC31E5B",
@@ -41,6 +44,5 @@
     "download_content_type": "application/zip",
     "install_size": 107381320,
     "release_date": "2023-10-16T14:00:16.179501+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
