@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "AlarmClock",
+    "name": "Alarm Clock",
+    "abstract": "Create alarms that will interrupt time warp, making multitasking much easier. Never miss a transfer window again!",
+    "author": "meckryl",
+    "version": "0.2.0",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3533/Alarm%20Clock",
+        "repository": "https://github.com/meckryl/AlarmClockForKSP2",
+        "bugtracker": "https://github.com/meckryl/AlarmClockForKSP2/issues",
+        "x_screenshot": "https://spacedock.info/content/meckryl_127716/Alarm_Clock/Alarm_Clock-1703978465.jpg"
+    },
+    "tags": [
+        "plugin",
+        "convenience",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "AlarmClockForKSP2",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3533/Alarm%20Clock/download/0.2.0",
+    "download_size": 21353,
+    "download_hash": {
+        "sha1": "9F5ECFC9B269287972508CAD483017D6910CA8A5",
+        "sha256": "9DD06BB52054C73DCDA20BE58FE1A1A47EC576AAF10D2CAAB6F4D1FD91FC476B"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 36877,
+    "release_date": "2023-12-31T16:18:08.488836+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
