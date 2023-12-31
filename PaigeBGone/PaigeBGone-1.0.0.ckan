@@ -1,15 +1,17 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "PaigeBGone",
-    "name": "P.A.I.G.E B Gone",
-    "abstract": "Removes P.A.I.G.E popups and mutes her voice in KSP 2",
+    "name": "P.A.I.G.E-B-Gone",
+    "abstract": "Disables Tutorial by default and mutes P.A.I.G.E",
     "author": "amahlaka",
     "version": "1.0.0",
+    "ksp_version": "0.1.0",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3280/P.A.I.G.E-B-Gone",
         "repository": "https://github.com/amahlaka/P.A.I.G.E-B-Gone",
-        "bugtracker": "https://github.com/amahlaka/P.A.I.G.E-B-Gone/issues"
+        "bugtracker": "https://github.com/amahlaka/P.A.I.G.E-B-Gone/issues",
+        "x_screenshot": "https://spacedock.info/content/amahlaka_104120/P.A.I.G.E-B-Gone/P.A.I.G.E-B-Gone-1677735878.png"
     },
     "tags": [
         "plugin"
@@ -25,7 +27,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://github.com/amahlaka/P.A.I.G.E-B-Gone/releases/download/1.0.0/paige_b_gone.zip",
+    "download": [
+        "https://github.com/amahlaka/P.A.I.G.E-B-Gone/releases/download/1.0.0/paige_b_gone.zip",
+        "https://spacedock.info/mod/3280/P.A.I.G.E-B-Gone/download/1.0.0"
+    ],
     "download_size": 4157,
     "download_hash": {
         "sha1": "834FCD12CFC5C66A943C4479003E894DA567C482",
@@ -33,6 +38,6 @@
     },
     "download_content_type": "application/zip",
     "install_size": 7009,
-    "release_date": "2023-03-07T17:43:16Z",
+    "release_date": "2023-03-07T17:46:20.754534+00:00",
     "x_generated_by": "netkan"
 }
