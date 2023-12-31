@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.34",
     "identifier": "LuxsFlamesandOrnaments",
     "name": "[LFO] Lux's Flames and Ornaments",
     "abstract": "Pretty plumes and more!",
@@ -34,7 +34,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3383/%5BLFO%5D%20Lux's%20Flames%20and%20Ornaments/download/1.0.0",
+    "download": [
+        "https://github.com/KSP2Community/LFO/releases/download/v1.0.0/LFO-1.0.0.zip",
+        "https://spacedock.info/mod/3383/%5BLFO%5D%20Lux's%20Flames%20and%20Ornaments/download/1.0.0"
+    ],
     "download_size": 27738511,
     "download_hash": {
         "sha1": "92C10DC5C250B9CCB9EFC332D1DA314645229990",
