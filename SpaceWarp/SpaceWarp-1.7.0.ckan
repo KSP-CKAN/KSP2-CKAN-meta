@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.34",
     "identifier": "SpaceWarp",
     "name": "SpaceWarp",
     "abstract": "A C# modding api on top of BepInEx for KSP2",
@@ -41,7 +41,10 @@
             ]
         }
     ],
-    "download": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx/download/1.7.0",
+    "download": [
+        "https://github.com/SpaceWarpDev/SpaceWarp/releases/download/spacewarp-1.7.0/spacewarp-release-1.7.0.zip",
+        "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx/download/1.7.0"
+    ],
     "download_size": 9373967,
     "download_hash": {
         "sha1": "C042DAEA50C5B8725B05D9AE1E9FEF38F9DF3FC1",
