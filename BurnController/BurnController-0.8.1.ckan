@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "BurnController",
     "name": "Burn Controller",
     "abstract": "Lets you set up engine burns.",
@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3330/Burn%20Controller/download/0.8.1",
+    "download": [
+        "https://github.com/JohnsterSpaceProgramOfficial/BurnController/releases/download/v0.8.1/BurnController-0.8.1.zip",
+        "https://spacedock.info/mod/3330/Burn%20Controller/download/0.8.1"
+    ],
     "download_size": 10697,
     "download_hash": {
         "sha1": "0391C5909E0C6BE0BD9913D435443615C4061DD2",
