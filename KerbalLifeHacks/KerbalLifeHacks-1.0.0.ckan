@@ -14,7 +14,8 @@
         "spacedock": "https://spacedock.info/mod/3534/Kerbal%20Life%20Hacks",
         "repository": "https://github.com/KSP2Community/KerbalLifeHacks",
         "bugtracker": "https://github.com/KSP2Community/KerbalLifeHacks/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/KerbalLifeHacks/main/plugin_template/swinfo.json"
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/KerbalLifeHacks/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/munix_103761/Kerbal_Life_Hacks/Kerbal_Life_Hacks-1704048719.png"
     },
     "tags": [
         "plugin"
