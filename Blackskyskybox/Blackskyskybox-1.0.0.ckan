@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "Blackskyskybox",
     "name": "Black sky skybox",
     "abstract": "Pure Black skybox using konfig",
@@ -28,7 +28,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3502/Black%20sky%20skybox/download/1.0.0",
+    "download": [
+        "https://github.com/Bit-Studios/konfig/releases/download/SkyboxBlackSky64x/BlackSky.zip",
+        "https://spacedock.info/mod/3502/Black%20sky%20skybox/download/1.0.0"
+    ],
     "download_size": 1628,
     "download_hash": {
         "sha1": "EAC162EB94B5500DB7B077E736EC16E7D88B0C1E",
@@ -37,6 +40,5 @@
     "download_content_type": "application/zip",
     "install_size": 910,
     "release_date": "2023-11-12T08:51:52.339866+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
