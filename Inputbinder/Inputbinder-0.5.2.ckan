@@ -29,6 +29,7 @@
         }
     ],
     "download": [
+        "https://github.com/Codenade/ksp2-inputbinder/releases/download/0.5.2/ksp2-inputbinder-0.5.2.zip",
         "https://spacedock.info/mod/3422/Inputbinder/download/0.5.2"
     ],
     "download_size": 101487,
