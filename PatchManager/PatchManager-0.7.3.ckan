@@ -5,7 +5,8 @@
     "abstract": "A mod for your generic JSON patching needs",
     "author": [
         "cheese3660",
-        "munix"
+        "munix",
+        "KSP2Community"
     ],
     "version": "0.7.3",
     "ksp_version": "0.2.0",
