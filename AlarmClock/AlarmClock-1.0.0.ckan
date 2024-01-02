@@ -9,6 +9,7 @@
     "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222369-alarm-clock-mod-100/#comment-4354825",
         "spacedock": "https://spacedock.info/mod/3533/Alarm%20Clock",
         "repository": "https://github.com/meckryl/AlarmClockForKSP2",
         "bugtracker": "https://github.com/meckryl/AlarmClockForKSP2/issues",
