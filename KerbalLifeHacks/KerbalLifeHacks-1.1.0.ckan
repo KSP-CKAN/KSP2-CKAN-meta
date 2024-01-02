@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KerbalLifeHacks",
+    "name": "Kerbal Life Hacks",
+    "abstract": "Various small quality of life improvements and tuning tweaks.",
+    "author": [
+        "munix",
+        "cheese3660"
+    ],
+    "version": "1.1.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3534/Kerbal%20Life%20Hacks",
+        "repository": "https://github.com/KSP2Community/KerbalLifeHacks",
+        "bugtracker": "https://github.com/KSP2Community/KerbalLifeHacks/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/KerbalLifeHacks/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/munix_103761/Kerbal_Life_Hacks/Kerbal_Life_Hacks-1704048719.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalLifeHacks",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/KSP2Community/KerbalLifeHacks/releases/download/v1.1.0/KerbalLifeHacks-1.1.0.zip",
+        "https://spacedock.info/mod/3534/Kerbal%20Life%20Hacks/download/1.1.0"
+    ],
+    "download_size": 10711,
+    "download_hash": {
+        "sha1": "D3EED5D3A134981817DA9A8085D6454A0B1D60F0",
+        "sha256": "5FE64737CC466687104F4468FF5C387E5EC7059B39A2D2F0127DFB4BFA022B92"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 20869,
+    "release_date": "2024-01-02T21:05:51.229997+00:00",
+    "x_generated_by": "netkan"
+}
