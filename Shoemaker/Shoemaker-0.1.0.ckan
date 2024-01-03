@@ -3,7 +3,10 @@
     "identifier": "Shoemaker",
     "name": "Shoemaker",
     "abstract": "A planet modding tool for KSP2",
-    "author": "cheese3660",
+    "author": [
+        "cheese3660",
+        "munix"
+    ],
     "version": "0.1.0",
     "ksp_version": "0.2.0",
     "license": "MIT",
