@@ -9,6 +9,7 @@
     "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222174-wmcc-modules-v010-for-ksp2-0200/",
         "spacedock": "https://spacedock.info/mod/3530/WMCC%20Modules",
         "repository": "https://github.com/cheese3660/WMCCModules",
         "bugtracker": "https://github.com/cheese3660/WMCCModules/issues",
