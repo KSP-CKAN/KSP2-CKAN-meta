@@ -11,6 +11,7 @@
     "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222560-shoemaker-v010-for-ksp2-v0200/",
         "spacedock": "https://spacedock.info/mod/3535/Shoemaker",
         "repository": "https://github.com/KSP2Community/Shoemaker",
         "bugtracker": "https://github.com/KSP2Community/Shoemaker/issues",
