@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "Shoemaker",
+    "name": "Shoemaker",
+    "abstract": "A planet modding tool for KSP2",
+    "author": "cheese3660",
+    "version": "0.1.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3535/Shoemaker",
+        "repository": "https://github.com/KSP2Community/Shoemaker",
+        "bugtracker": "https://github.com/KSP2Community/Shoemaker/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/Shoemaker/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": [
+        "https://github.com/KSP2Community/Shoemaker/releases/download/v0.1.0/Shoemaker-0.1.0.zip",
+        "https://spacedock.info/mod/3535/Shoemaker/download/0.1.0"
+    ],
+    "download_size": 21808,
+    "download_hash": {
+        "sha1": "EBB3C04805A089F218F2AC5FBA397DE0A7E418AC",
+        "sha256": "8A4385144457D3F903376EE64E366E68CB67DC0896608F396E3C418CC939C14C"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 46888,
+    "release_date": "2024-01-03T18:39:18.863267+00:00",
+    "x_generated_by": "netkan"
+}
