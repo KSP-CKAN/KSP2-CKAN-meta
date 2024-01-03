@@ -8,6 +8,7 @@
     "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222561-25x-kerbolar-system-v010-for-ksp2/",
         "spacedock": "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System",
         "repository": "https://github.com/cheese3660/2.5x-Kerbolar-System",
         "bugtracker": "https://github.com/cheese3660/2.5x-Kerbolar-System/issues",
