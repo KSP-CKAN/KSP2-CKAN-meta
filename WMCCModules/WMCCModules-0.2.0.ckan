@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "WMCCModules",
+    "name": "WMCC Modules",
+    "abstract": "Modules for Where's My Crew Capsule",
+    "author": "cheese3660",
+    "version": "0.2.0",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222174-wmcc-modules-v010-for-ksp2-0200/",
+        "spacedock": "https://spacedock.info/mod/3530/WMCC%20Modules",
+        "repository": "https://github.com/cheese3660/WMCCModules",
+        "bugtracker": "https://github.com/cheese3660/WMCCModules/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/WMCCModules/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "WMCCModules",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/cheese3660/WMCCModules/releases/download/v0.2.0/WMCCModules-0.2.0.zip",
+        "https://spacedock.info/mod/3530/WMCC%20Modules/download/0.2.0"
+    ],
+    "download_size": 9814,
+    "download_hash": {
+        "sha1": "4A17F4C6C6DA9D3F393300108A1218605469285E",
+        "sha256": "8D273011E6475546A214965ECD9A79EF395C34AA117255A7B9E6097DD39FCC86"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 19528,
+    "release_date": "2024-01-04T00:25:22.618162+00:00",
+    "x_generated_by": "netkan"
+}
