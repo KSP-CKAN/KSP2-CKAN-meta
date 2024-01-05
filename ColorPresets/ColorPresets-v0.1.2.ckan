@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ColorPresets",
+    "name": "Color presets",
+    "abstract": "Updates the default KSP 2 Color Manager with extra preset options.",
+    "author": "v_christf",
+    "version": "v0.1.2",
+    "ksp_version": "0.1.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214821-color-presets/",
+        "spacedock": "https://spacedock.info/mod/3317/Color%20presets",
+        "repository": "https://github.com/VChristof/ColorPresets",
+        "bugtracker": "https://github.com/VChristof/ColorPresets/issues",
+        "x_screenshot": "https://spacedock.info/content/v_christf_2404/Color_presets/Color_presets-1678438630.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "color_presets",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/VChristof/ColorPresets/releases/download/v0.1.2/color_presets.zip",
+        "https://spacedock.info/mod/3317/Color%20presets/download/v0.1.2"
+    ],
+    "download_size": 8246,
+    "download_hash": {
+        "sha1": "F9F25C1098AEFF04F2E5800A1E28A88A0293D199",
+        "sha256": "F16CE6F1766EE7E030CB3A366523B7B605DF06387BAAF7EA3B9B2E8E6C8C5BD5"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 17768,
+    "release_date": "2023-03-24T10:44:32.244879+00:00",
+    "x_generated_by": "netkan"
+}
