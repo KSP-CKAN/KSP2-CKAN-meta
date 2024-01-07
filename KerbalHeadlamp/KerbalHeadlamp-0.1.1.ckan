@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KerbalHeadlamp",
+    "name": "KerbalHeadlamp",
+    "abstract": "Add Kerbal Headlamps so you can see in the dark!",
+    "author": "WiS3",
+    "version": "0.1.1",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3540/KerbalHeadlamp",
+        "repository": "https://github.com/WiS3/KerbalHeadlamp",
+        "bugtracker": "https://github.com/WiS3/KerbalHeadlamp/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/WiS3/KerbalHeadlamp/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/WiS3_127996/KerbalHeadlamp/KerbalHeadlamp-1704661535.png"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalHeadlamp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/WiS3/KerbalHeadlamp/releases/download/0.1.1/KerbalHeadlamp-0.1.1.zip",
+        "https://spacedock.info/mod/3540/KerbalHeadlamp/download/0.1.1"
+    ],
+    "download_size": 15453,
+    "download_hash": {
+        "sha1": "C199AC6E2923EFEE28B5707B0BD0ABFE1D1D3570",
+        "sha256": "D1EF2F705DB0578271EBDF01AA5F55B1A1C1CD989C8D78B4D816EC7DE220EDE1"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 46126,
+    "release_date": "2024-01-07T20:57:17.505942+00:00",
+    "x_generated_by": "netkan"
+}
