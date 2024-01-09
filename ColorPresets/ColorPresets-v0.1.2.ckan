@@ -5,7 +5,7 @@
     "abstract": "Updates the default KSP 2 Color Manager with extra preset options.",
     "author": "v_christf",
     "version": "v0.1.2",
-    "ksp_version": "0.1.2",
+    "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214821-color-presets/",
