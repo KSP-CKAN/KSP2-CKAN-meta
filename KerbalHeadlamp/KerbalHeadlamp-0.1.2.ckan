@@ -8,6 +8,7 @@
     "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222849-kerbalheadlamp-012-for-ksp2-020/",
         "spacedock": "https://spacedock.info/mod/3540/KerbalHeadlamp",
         "repository": "https://github.com/WiS3/KerbalHeadlamp",
         "bugtracker": "https://github.com/WiS3/KerbalHeadlamp/issues",
