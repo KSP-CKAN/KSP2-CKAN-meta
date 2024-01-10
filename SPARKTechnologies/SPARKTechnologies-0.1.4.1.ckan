@@ -5,7 +5,8 @@
     "abstract": "Solving your High Isp need with low thrust solutions",
     "author": "Schlosrat",
     "version": "0.1.4.1",
-    "ksp_version": "0.1.4",
+    "ksp_version_min": "0.1.4",
+    "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219596-stellar-plasma-assisted-rocket-kinetics-spark-technologies-010/",
