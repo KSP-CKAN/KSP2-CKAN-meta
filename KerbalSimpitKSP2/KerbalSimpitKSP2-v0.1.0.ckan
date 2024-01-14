@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.27",
+    "identifier": "KerbalSimpitKSP2",
+    "name": "KerbalSimpit KSP2",
+    "abstract": "SimPit provides a serial connection interface for custom controllers for Kerbal Space Program 2.",
+    "author": "Tetopia",
+    "version": "v0.1.0",
+    "ksp_version_min": "0.2.0",
+    "license": "BSD-2-clause",
+    "resources": {
+        "homepage": "https://github.com/Simpit-team/KerbalSimpit-KSP2",
+        "repository": "https://github.com/Simpit-team/KerbalSimpit-KSP2",
+        "bugtracker": "https://github.com/Simpit-team/KerbalSimpit-KSP2/issues",
+        "manual": "https://kerbalsimpitrevamped-arduino.readthedocs.io/en/latest",
+        "remote-swinfo": "https://raw.githubusercontent.com/Simpit-team/KerbalSimpit-KSP2/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalSimpitKSP2",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/Simpit-team/KerbalSimpit-KSP2/releases/download/v0.1.0/KerbalSimpitKSP2-v0.1.0.zip",
+    "download_size": 112913,
+    "download_hash": {
+        "sha1": "35E91254C63A9A58895EC9A28A1AD4E6E6D05E7D",
+        "sha256": "52546A9FDA0FC157A06D48DF5EF6E967A7D3F1C6F754064DA52F26042E938166"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 229086,
+    "release_date": "2024-01-14T22:11:04Z",
+    "x_generated_by": "netkan"
+}
