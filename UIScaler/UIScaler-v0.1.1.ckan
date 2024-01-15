@@ -6,7 +6,7 @@
     "author": "Halban",
     "version": "v0.1.1",
     "ksp_version_min": "0",
-    "ksp_version_max": "0.1.1",
+    "ksp_version_max": "1",
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214573-ui-scaler-v011-change-the-size-of-the-games-user-interface/#comment-4253305",
