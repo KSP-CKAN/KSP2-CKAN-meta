@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ProbablyAskew",
+    "name": "Probably Askew",
+    "abstract": "Every Kerbal's favorite protractor",
+    "author": "tomservo291",
+    "version": "0.2.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/ksp-train-wreck/probably-askew",
+        "spacedock": "https://spacedock.info/mod/3546/Probably%20Askew",
+        "repository": "https://github.com/ksp-train-wreck/probably-askew",
+        "bugtracker": "https://github.com/ksp-train-wreck/probably-askew/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/ksp-train-wreck/probably-askew/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "ProbablyAskew",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/ksp-train-wreck/probably-askew/releases/download/0.2.0/ProbablyAskew-0.2.0.zip",
+        "https://spacedock.info/mod/3546/Probably%20Askew/download/0.2.0"
+    ],
+    "download_size": 170292,
+    "download_hash": {
+        "sha1": "2F826639C9B5F2BF1D1AB2C24EBC53365B5BE277",
+        "sha256": "BA98C03BACF0B3D70F107F6E3BF8925A8FC880DF848FCBAD6FB54C0F254A9992"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 181255,
+    "release_date": "2024-01-15T04:55:16.952858+00:00",
+    "x_generated_by": "netkan"
+}
