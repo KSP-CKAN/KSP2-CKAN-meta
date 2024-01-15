@@ -21,6 +21,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
         }
     ],
     "install": [
@@ -29,7 +32,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3471/The%20Nuclear%20Option/download/0.3.1",
+    "download": [
+        "https://github.com/schlosrat/TNO/releases/download/0.3.1/TNO_0.3.1.zip",
+        "https://spacedock.info/mod/3471/The%20Nuclear%20Option/download/0.3.1"
+    ],
     "download_size": 30055747,
     "download_hash": {
         "sha1": "2E9A9F97322E4D83570AE9869135706A3D8B5D5F",
