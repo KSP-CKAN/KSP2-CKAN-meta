@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "DarkMode",
+    "name": "Dark Mode For KSP2",
+    "abstract": "Applies a dark theme to the KSC windows",
+    "author": "coldrifting",
+    "version": "v0.2.0.0",
+    "ksp_version_min": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/coldrifting/DarkModeForKSP2",
+        "bugtracker": "https://github.com/coldrifting/DarkModeForKSP2/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "DarkMode",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/coldrifting/DarkModeForKSP2/releases/download/v0.2.0.0/DarkMode-v0.2.0.0.zip",
+    "download_size": 14259,
+    "download_hash": {
+        "sha1": "7DE656A39ED3F84A0FD286C4CF8F68A99C66E60F",
+        "sha256": "8692E15C80D24C06D7D71B6E5F5C672B7F4B01364E9038519D1BBE7A1A7E1461"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 40951,
+    "release_date": "2024-01-08T15:07:49Z",
+    "x_generated_by": "netkan"
+}
