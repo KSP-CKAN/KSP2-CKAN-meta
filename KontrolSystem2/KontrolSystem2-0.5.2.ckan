@@ -6,7 +6,7 @@
     "author": "untoldwind",
     "version": "0.5.2",
     "ksp_version_min": "0",
-    "ksp_version_max": "0.2.0",
+    "ksp_version_max": "1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214543-*",
