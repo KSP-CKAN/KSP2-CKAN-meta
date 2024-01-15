@@ -6,7 +6,7 @@
     "author": "ShadowDev",
     "version": "0.0.3",
     "ksp_version_min": "0.1.0",
-    "ksp_version_max": "0.1.4",
+    "ksp_version_max": "0.2.0",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3328/Count%20Down",
