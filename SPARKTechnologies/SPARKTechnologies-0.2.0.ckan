@@ -24,6 +24,12 @@
         },
         {
             "name": "LuxsFlamesandOrnaments"
+        },
+        {
+            "name": "CommunityResources"
+        },
+        {
+            "name": "PatchManager"
         }
     ],
     "install": [
