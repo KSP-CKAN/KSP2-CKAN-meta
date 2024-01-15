@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "PremonitionForSpaceWarp",
+    "name": "Premonition For SpaceWarp",
+    "abstract": "A harmony-esque library for preload patching (SpaceWarp version, supports enabling/disabling mods)",
+    "author": "cheese3660",
+    "version": "0.2.0",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3548/Premonition%20For%20SpaceWarp",
+        "repository": "https://github.com/cheese3660/Premonition",
+        "bugtracker": "https://github.com/cheese3660/Premonition/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/Premonition/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "Premonition",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/cheese3660/Premonition/releases/download/v0.2.0/Premonition-SpaceWarp-0.2.0.zip",
+        "https://spacedock.info/mod/3548/Premonition%20For%20SpaceWarp/download/0.2.0"
+    ],
+    "download_size": 21118,
+    "download_hash": {
+        "sha1": "1B51E0FC9851759B98CD90E255525CCB87A18D99",
+        "sha256": "C2AD1A9039FDC0664D719188DB9D0A1A13C965FF3D00B767F93574C1E294CD9A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 48471,
+    "release_date": "2024-01-15T14:53:59.014542+00:00",
+    "x_generated_by": "netkan"
+}
