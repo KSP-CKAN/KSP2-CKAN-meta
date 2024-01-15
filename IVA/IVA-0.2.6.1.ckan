@@ -1,0 +1,38 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "IVA",
+    "name": "KSP2 IVA",
+    "abstract": "Adds the missing IVA feature to KSP 2.",
+    "author": "Mudkip909",
+    "version": "0.2.6.1",
+    "ksp_version": "0.1.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/Mudkip909/KSP2-IVA",
+        "bugtracker": "https://github.com/Mudkip909/KSP2-IVA/issues"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "IVA",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/Mudkip909/KSP2-IVA/releases/download/0.2.6.1/IVA0.2.6.1-BepInEx.zip",
+    "download_size": 3440,
+    "download_hash": {
+        "sha1": "F2BA25CBBFA5790DAE8E2F67736409C03FF5C063",
+        "sha256": "B3F6BC757F0EB8C3FF3327203563BEA228772BB04FC6FCA91AA908EA8DC2108F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 7168,
+    "release_date": "2023-02-27T23:15:07Z",
+    "x_generated_by": "netkan"
+}
