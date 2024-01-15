@@ -6,7 +6,7 @@
     "author": "Halban",
     "version": "v0.4.0",
     "ksp_version_min": "0",
-    "ksp_version_max": "0.1.1",
+    "ksp_version_max": "1",
     "license": "CC-BY-SA-4.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214571-lazy-orbit-v040-set-a-vessels-orbit-via-a-simple-menu/#comment-4253292",
