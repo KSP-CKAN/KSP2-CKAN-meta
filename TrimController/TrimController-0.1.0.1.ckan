@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "TrimController",
+    "name": "Trim Controller",
+    "abstract": "A window to display and control your craft's trim.",
+    "author": "vaanultra",
+    "version": "0.1.0.1",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3542/Trim%20Controller",
+        "repository": "https://github.com/stevn999/trimController",
+        "bugtracker": "https://github.com/stevn999/trimController/issues",
+        "x_screenshot": "https://spacedock.info/content/vaanultra_128170/Trim_Controller/Trim_Controller-1704972170.jpg"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "trimController",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3542/Trim%20Controller/download/0.1.0.1",
+    "download_size": 18278,
+    "download_hash": {
+        "sha1": "F0A3AA734BAE16EFEDCA2359BA7BB67EE234453C",
+        "sha256": "94AAA8AE890669B447276F2B78187E7E15FEA100648F4AB19859089194F4E535"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 29582,
+    "release_date": "2024-01-15T00:31:54.201193+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
