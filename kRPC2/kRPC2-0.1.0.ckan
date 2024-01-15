@@ -6,7 +6,7 @@
     "author": "djungelorm",
     "version": "0.1.0",
     "ksp_version_min": "0",
-    "ksp_version_max": "0.1.1",
+    "ksp_version_max": "1",
     "license": "GPL-3.0",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214999-krpc2-control-the-game-using-python-c-c-java-lua/",
