@@ -34,10 +34,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": [
-        "https://github.com/cheese3660/2.5x-Kerbolar-System/releases/download/v0.2.0/KerbolarUpscale-0.2.0.zip",
-        "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System/download/0.2.0"
-    ],
+    "download": "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System/download/0.2.0",
     "download_size": 4205,
     "download_hash": {
         "sha1": "BE85CB9794D40CE2C8C81BC36E415D72E22E141C",
