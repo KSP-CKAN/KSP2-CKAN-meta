@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "25xKerbolarSystem",
+    "name": "2.5x Kerbolar System",
+    "abstract": "This is a 2.5x rescale mod for KSP2",
+    "author": "cheese3660",
+    "version": "0.3.0",
+    "ksp_version_min": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/cheese3660/2.5x-Kerbolar-System",
+        "bugtracker": "https://github.com/cheese3660/2.5x-Kerbolar-System/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/2.5x-Kerbolar-System/main/swinfo.json"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "Shoemaker"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbolarUpscale",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/cheese3660/2.5x-Kerbolar-System/releases/download/v0.3.0/KerbolarUpscale-0.3.0.zip",
+    "download_size": 4554,
+    "download_hash": {
+        "sha1": "3F19BD60584B7FF9F00B2F7EC0964B7B7EF933E0",
+        "sha256": "BBF4EE7BFED5FE5116A5EECFD7B9857AB192456FD1B5208CAD552311831A69AB"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11587,
+    "release_date": "2024-01-17T00:09:56Z",
+    "x_generated_by": "netkan"
+}
