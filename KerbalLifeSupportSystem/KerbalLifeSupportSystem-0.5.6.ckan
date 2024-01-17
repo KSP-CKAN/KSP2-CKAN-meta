@@ -1,0 +1,56 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KerbalLifeSupportSystem",
+    "name": "Kerbal Life-Support System",
+    "abstract": "Because your Kerbals need Snacks.",
+    "author": "Safarte",
+    "version": "0.5.6",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220424-kerbal-life-support-system-klss-v020-for-ksp2-015/",
+        "spacedock": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System",
+        "repository": "https://github.com/Safarte/KerbalLifeSupportSystem",
+        "bugtracker": "https://github.com/Safarte/KerbalLifeSupportSystem/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/KerbalLifeSupportSystem/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Kerbal_Life-Support_System/Kerbal_Life-Support_System-1698527919.png"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "CommunityResources"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalLifeSupportSystem",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Safarte/KerbalLifeSupportSystem/releases/download/v0.5.6/KerbalLifeSupportSystem-0.5.6.zip",
+        "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System/download/0.5.6"
+    ],
+    "download_size": 165420243,
+    "download_hash": {
+        "sha1": "CA80D55B27DACAB2993B2D1D92E9D037BFDC0378",
+        "sha256": "0892C95DCB75347FD02EFAD2D9039809C4012638B6B6C06B747012491892D6B1"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 182660710,
+    "release_date": "2024-01-17T18:39:00.879018+00:00",
+    "x_generated_by": "netkan"
+}
