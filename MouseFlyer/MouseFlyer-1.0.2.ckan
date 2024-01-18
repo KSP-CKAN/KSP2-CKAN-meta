@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "MouseFlyer",
+    "name": "MouseFlyer",
+    "abstract": "A customisable mod that lets you fly using mouse controls instead of the WASD keys",
+    "author": "loki_lokster",
+    "version": "1.0.2",
+    "ksp_version": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3549/MouseFlyer",
+        "repository": "https://github.com/Loki-Lokster/MouseFlyer",
+        "bugtracker": "https://github.com/Loki-Lokster/MouseFlyer/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Loki-Lokster/MouseFlyer/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/loki_lokster_128319/MouseFlyer/MouseFlyer-1705552817.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "MouseFlyer",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3549/MouseFlyer/download/1.0.2",
+    "download_size": 13933,
+    "download_hash": {
+        "sha1": "FBC38418BEF27AA53145DB4657D6D5C8BB08C955",
+        "sha256": "A5B13920AC75A0A8705FA27A2942278BEA7058F85D5C9A104A54A0908D63279E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 26670,
+    "release_date": "2024-01-18T07:04:14.321172+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
