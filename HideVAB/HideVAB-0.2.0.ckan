@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "HideVAB",
+    "name": "HideVAB",
+    "abstract": "Provides ability to show hide the VAB.",
+    "author": "JakeInABoat",
+    "version": "0.2.0",
+    "ksp_version": "0.2.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223034-hidevab/",
+        "spacedock": "https://spacedock.info/mod/3547/HideVAB",
+        "repository": "https://github.com/JakeInABoat/HideVAB",
+        "bugtracker": "https://github.com/JakeInABoat/HideVAB/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/JakeInABoat/HideVAB/master/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "HideVAB",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/JakeInABoat/HideVAB/releases/download/0.2.0/HideVAB-0.2.0.zip",
+        "https://spacedock.info/mod/3547/HideVAB/download/0.2.0"
+    ],
+    "download_size": 608860,
+    "download_hash": {
+        "sha1": "55CEF9979D9AE4FE6FDAE4D8C51CFEADDA7A4C78",
+        "sha256": "30BF9B84B82D33632B53F8A26E473ED45C340810291AE758BDBACB79518F21A5"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 886632,
+    "release_date": "2024-01-20T01:40:25.230546+00:00",
+    "x_generated_by": "netkan"
+}
