@@ -33,10 +33,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": [
-        "https://github.com/Kerbalight/ScienceArkive/releases/download/v0.5.0/ScienceArkive-0.5.0.zip",
-        "https://spacedock.info/mod/3541/Science%20Arkive/download/0.5.0"
-    ],
+    "download": "https://spacedock.info/mod/3541/Science%20Arkive/download/0.5.0",
     "download_size": 196333,
     "download_hash": {
         "sha1": "E394EDB3B59296BE6E2A0D2AA44AB4F28421F557",
