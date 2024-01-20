@@ -1,0 +1,43 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ScienceArkive",
+    "name": "Science Arkive",
+    "abstract": "KSP2 Mod to display all science experiments like the archive in KSP1",
+    "author": "rockfactory",
+    "version": "0.6.0",
+    "ksp_version_min": "0.2.0",
+    "license": "MIT",
+    "resources": {
+        "repository": "https://github.com/Kerbalight/ScienceArkive",
+        "bugtracker": "https://github.com/Kerbalight/ScienceArkive/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/ScienceArkive/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "ScienceArkive",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/Kerbalight/ScienceArkive/releases/download/v0.6.0/ScienceArkive-0.6.0.zip",
+    "download_size": 47164837,
+    "download_hash": {
+        "sha1": "C4876EEE6D9D1A07750BAD5D8C9E976E6C09DAA5",
+        "sha256": "263C5FCD09B80661A1078B616AD734E3627FA3A8B32D9211CC2254D83DFFFC9A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 47187407,
+    "release_date": "2024-01-20T16:45:08Z",
+    "x_generated_by": "netkan"
+}
