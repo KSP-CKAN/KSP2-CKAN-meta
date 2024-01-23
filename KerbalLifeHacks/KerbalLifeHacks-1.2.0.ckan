@@ -11,6 +11,7 @@
     "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222435-kerbal-life-hacks-v120-for-ksp2-v020/",
         "spacedock": "https://spacedock.info/mod/3534/Kerbal%20Life%20Hacks",
         "repository": "https://github.com/KSP2Community/KerbalLifeHacks",
         "bugtracker": "https://github.com/KSP2Community/KerbalLifeHacks/issues",
