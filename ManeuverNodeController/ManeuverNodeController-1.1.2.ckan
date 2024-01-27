@@ -1,0 +1,54 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ManeuverNodeController",
+    "name": "Maneuver Node Controller",
+    "abstract": "Provides an interface to finely tune maneuver nodes.",
+    "author": [
+        "XYZ3211",
+        "Schlosrat"
+    ],
+    "version": "1.1.2",
+    "ksp_version": "0.2.0",
+    "license": "CC-BY-NC-SA",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214244-maneuver-node-controller-003/",
+        "spacedock": "https://spacedock.info/mod/3270/Maneuver%20Node%20Controller",
+        "repository": "https://github.com/schlosrat/ManeuverNodeController",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/ManeuverNodeController/main/maneuver_node_controller/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/XYZ3211_103810/Maneuver_Node_Controller/Maneuver_Node_Controller-1684582353.png"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "NodeManager"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "maneuver_node_controller",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/schlosrat/ManeuverNodeController/releases/download/1.1.2/maneuver_node_controller_v1.1.2.zip",
+        "https://spacedock.info/mod/3270/Maneuver%20Node%20Controller/download/1.1.2"
+    ],
+    "download_size": 676309,
+    "download_hash": {
+        "sha1": "5E865B2A671BC6B8212DBB02184746D32733E4F1",
+        "sha256": "0BA1AA41AE9C90497E196E13A42A4591D354F4241D46602CC1F6DB925B8B4926"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 712784,
+    "release_date": "2024-01-27T21:48:38.821676+00:00",
+    "x_generated_by": "netkan"
+}
