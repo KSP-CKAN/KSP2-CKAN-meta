@@ -42,13 +42,13 @@
         "https://github.com/schlosrat/FlightPlan/releases/download/0.10.0/flight_plan-0.10.0.zip",
         "https://spacedock.info/mod/3359/Flight%20Plan/download/0.10.0"
     ],
-    "download_size": 48032494,
+    "download_size": 48032493,
     "download_hash": {
-        "sha1": "30AEEE771CED0B89C59F6DF483D65918AB7109B9",
-        "sha256": "AA03D97DE8051C32AD7B1794EF3F43F1AEBC7C62CCFD8EBDB795FB128328E7BF"
+        "sha1": "36E2673ECAD316846E9DF0EE1B7A497060F45008",
+        "sha256": "9ABF943AA2BAD91661A3CA5DE8A126E36E08813E02E5E78F544CB87AF08BFA83"
     },
     "download_content_type": "application/zip",
     "install_size": 49836814,
-    "release_date": "2024-01-28T12:32:25.835724+00:00",
+    "release_date": "2024-01-28T13:36:21.123931+00:00",
     "x_generated_by": "netkan"
 }
