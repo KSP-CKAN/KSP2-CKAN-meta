@@ -6,7 +6,7 @@
     "author": "munix",
     "version": "2.4.2",
     "ksp_version_min": "0.1.5",
-    "ksp_version_max": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://github.com/jan-bures/UitkForKsp2",
