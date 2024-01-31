@@ -5,7 +5,8 @@
     "abstract": "Provides services for other mods needing to create, delete, and manage maneuver nodes.",
     "author": "Schlosrat",
     "version": "0.7.2",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216776-node-manager/",
