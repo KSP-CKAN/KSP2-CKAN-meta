@@ -5,7 +5,8 @@
     "abstract": "Because your Kerbals need Snacks.",
     "author": "Safarte",
     "version": "0.5.6",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/220424-kerbal-life-support-system-klss-v020-for-ksp2-015/",
