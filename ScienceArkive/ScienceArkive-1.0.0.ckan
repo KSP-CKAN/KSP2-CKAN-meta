@@ -5,7 +5,8 @@
     "abstract": "See all science experiments in one place, browse by planet and region and check where you can gather more points",
     "author": "leonardfactory",
     "version": "1.0.0",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222785-science-arkive-v010-for-ksp2-v020/",
