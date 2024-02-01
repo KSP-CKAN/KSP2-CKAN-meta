@@ -5,7 +5,8 @@
     "abstract": "Upscales the Kerbolar System 2.5x",
     "author": "cheese3660",
     "version": "0.3.0",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222561-25x-kerbolar-system-v010-for-ksp2/",
