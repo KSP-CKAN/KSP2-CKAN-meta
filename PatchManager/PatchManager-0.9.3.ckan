@@ -9,7 +9,8 @@
         "KSP2Community"
     ],
     "version": "0.9.3",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://pm.kerbal.wiki",
