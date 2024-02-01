@@ -5,7 +5,8 @@
     "abstract": "A reimagined tech tree for KSP2",
     "author": "cheese3660",
     "version": "0.0.4",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222176-wheres-my-crew-capsule-v003-for-ksp2-v0200/",
