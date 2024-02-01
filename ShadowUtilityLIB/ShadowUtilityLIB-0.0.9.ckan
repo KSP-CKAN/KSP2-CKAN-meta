@@ -5,7 +5,7 @@
     "abstract": "Utility Library for ShadowDev's mods",
     "author": "ShadowDev",
     "version": "0.0.9",
-    "ksp_version": "0.2.0",
+    "ksp_version": "0.2.1",
     "license": "CC-BY-NC-ND",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3345/Shadow%20Utility%20LIB",
