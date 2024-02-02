@@ -5,7 +5,8 @@
     "abstract": "Add Kerbal Headlamps so you can see in the dark!",
     "author": "WiS3",
     "version": "0.1.2",
-    "ksp_version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222849-kerbalheadlamp-012-for-ksp2-020/",
