@@ -3,7 +3,10 @@
     "identifier": "WASDForVAB",
     "name": "WASD For VAB",
     "abstract": "Control the VAB camera using WASD",
-    "author": "ArchLinus",
+    "author": [
+        "ArchLinus",
+        "linuxgurugamer"
+    ],
     "version": "0.3.0",
     "ksp_version_min": "0.1.0",
     "ksp_version_max": "0.1.1",
