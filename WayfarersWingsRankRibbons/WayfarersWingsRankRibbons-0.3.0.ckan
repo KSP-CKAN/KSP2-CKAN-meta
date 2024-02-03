@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3554/Wayfarer's%20Wings%20(Rank%20Ribbons)/download/0.3.0",
+    "download": [
+        "https://github.com/Kerbalight/WayfarersWings/releases/download/v0.3.0/WayfarersWings-0.3.0.zip",
+        "https://spacedock.info/mod/3554/Wayfarer's%20Wings%20(Rank%20Ribbons)/download/0.3.0"
+    ],
     "download_size": 127640,
     "download_hash": {
         "sha1": "8F37606D9C7159F3C8BCF6645205163A5A5CC1AF",
