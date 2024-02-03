@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "identifier": "CelestialGlow",
     "name": "Celestial Glow",
     "abstract": "A simple KSP2 mod to change ambient lighting",
@@ -30,7 +30,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3553/Celestial%20Glow/download/0.1.1",
+    "download": [
+        "https://github.com/WiS3/Celestial-Glow/releases/download/0.1.1/CelestialGlow-0.1.1.zip",
+        "https://spacedock.info/mod/3553/Celestial%20Glow/download/0.1.1"
+    ],
     "download_size": 204418,
     "download_hash": {
         "sha1": "B702920E3A5F1F15762EC179A835C9BF05E01002",
@@ -39,6 +42,5 @@
     "download_content_type": "application/zip",
     "install_size": 218897,
     "release_date": "2024-02-02T13:45:45.771713+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
