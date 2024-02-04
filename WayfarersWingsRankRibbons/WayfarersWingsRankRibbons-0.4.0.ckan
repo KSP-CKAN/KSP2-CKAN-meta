@@ -1,0 +1,45 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "WayfarersWingsRankRibbons",
+    "name": "Wayfarer's Wings (Rank Ribbons)",
+    "abstract": "Give each Kerbal the fame they deserve, know who was the first to plant a flag on Mun, or whatever else!",
+    "author": "leonardfactory",
+    "version": "0.4.0",
+    "ksp_version": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223457-wayfarers-wings-rank-ribbons-v030-for-ksp2-v021/",
+        "spacedock": "https://spacedock.info/mod/3554/Wayfarer's%20Wings%20(Rank%20Ribbons)",
+        "repository": "https://github.com/Kerbalight/WayfarersWings",
+        "bugtracker": "https://github.com/Kerbalight/WayfarersWings/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/WayfarersWings/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/Wayfarers_Wings_Rank_Ribbons/Wayfarers_Wings_Rank_Ribbons-1706920789.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "WayfarersWings",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Kerbalight/WayfarersWings/releases/download/v0.4.0/WayfarersWings-0.4.0.zip",
+        "https://spacedock.info/mod/3554/Wayfarer's%20Wings%20(Rank%20Ribbons)/download/0.4.0"
+    ],
+    "download_size": 136380,
+    "download_hash": {
+        "sha1": "73A3D8664FF9A4CC4A1211F180B10D28429F9333",
+        "sha256": "6E2A51C9BC594B69FC12935B7F3D9D2B8A61692C4283172E5EAEAA777FD01363"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 272124,
+    "release_date": "2024-02-04T16:37:00.485436+00:00",
+    "x_generated_by": "netkan"
+}
