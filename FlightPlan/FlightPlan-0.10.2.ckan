@@ -39,7 +39,10 @@
             "filter_regexp": "\\.pdb$"
         }
     ],
-    "download": "https://spacedock.info/mod/3359/Flight%20Plan/download/0.10.2",
+    "download": [
+        "https://github.com/schlosrat/FlightPlan/releases/download/0.10.2/flight_plan-0.10.2.zip",
+        "https://spacedock.info/mod/3359/Flight%20Plan/download/0.10.2"
+    ],
     "download_size": 48033919,
     "download_hash": {
         "sha1": "0BBDC9A7D9FB356D139FF7FCE5D0E4009BA91DA7",
