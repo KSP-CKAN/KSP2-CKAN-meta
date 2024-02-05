@@ -29,7 +29,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://github.com/schlosrat/SPARK/releases/download/0.1.4.1/SPARK_0.1.4.1.zip",
+    "download": [
+        "https://github.com/schlosrat/SPARK/releases/download/0.1.4.1/SPARK_0.1.4.1.zip",
+        "https://spacedock.info/mod/3470/SPARK%20Technologies/download/0.1.4.1"
+    ],
     "download_size": 96933382,
     "download_hash": {
         "sha1": "2318A924377C352D935E60CBA25015EFDBC31E5B",

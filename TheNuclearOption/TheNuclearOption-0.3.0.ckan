@@ -26,7 +26,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://github.com/schlosrat/TNO/releases/download/0.3.0/TNO_0.3.0.zip",
+    "download": [
+        "https://github.com/schlosrat/TNO/releases/download/0.3.0/TNO_0.3.0.zip",
+        "https://spacedock.info/mod/3471/The%20Nuclear%20Option/download/0.3.0"
+    ],
     "download_size": 30086186,
     "download_hash": {
         "sha1": "806E11F7B25C31679A7ADDB124A544C8276A5D67",
