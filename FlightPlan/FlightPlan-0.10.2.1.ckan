@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "FlightPlan",
+    "name": "Flight Plan",
+    "abstract": "Plan your (space) Flight! Fly your Plan! Set up maneuver nodes to get you where you want to be",
+    "author": "schlosrat",
+    "version": "0.10.2.1",
+    "ksp_version_min": "0.2.0",
+    "license": "GPL-3.0",
+    "resources": {
+        "repository": "https://github.com/schlosrat/FlightPlan",
+        "bugtracker": "https://github.com/schlosrat/FlightPlan/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "NodeManager"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "flight_plan",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://github.com/schlosrat/FlightPlan/releases/download/0.10.2.1/flight_plan-0.10.2.zip",
+    "download_size": 48033919,
+    "download_hash": {
+        "sha1": "790FA45E720D71724186AD4D16A39272AC24B3BC",
+        "sha256": "50223F8D23CBFDA8A5732A36EBA78240183DCEDD895121D592B4C034CB7AFA0A"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 49840147,
+    "release_date": "2024-02-05T13:37:43Z",
+    "x_generated_by": "netkan"
+}
