@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "WASDForVAB",
+    "name": "WASD For VAB",
+    "abstract": "Control the VAB camera using WASD",
+    "author": [
+        "ArchLinus",
+        "linuxgurugamer"
+    ],
+    "version": "0.4.0",
+    "ksp_version_min": "0.1.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223551-wasd-for-ksp/",
+        "spacedock": "https://spacedock.info/mod/3276/WASD%20For%20VAB",
+        "repository": "https://github.com/linuxgurugamer/WASDForVAB",
+        "bugtracker": "https://github.com/linuxgurugamer/WASDForVAB/issues"
+    },
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "WASDForVAB",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3276/WASD%20For%20VAB/download/0.4.0",
+    "download_size": 15359,
+    "download_hash": {
+        "sha1": "2693EEC8F3EAD0D101E3838817413AA212D69118",
+        "sha256": "DC00ED9A426B75BF73704E00DC4F522DE59424BBD086B3B1C74DA96605A477D0"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 12671,
+    "release_date": "2024-02-07T02:52:12.911593+00:00",
+    "x_generated_by": "netkan"
+}
