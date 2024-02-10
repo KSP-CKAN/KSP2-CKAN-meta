@@ -1,0 +1,52 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "OrbitalSurvey",
+    "name": "Orbital Survey",
+    "abstract": "Scan celestial bodies from orbit",
+    "author": "Falki",
+    "version": "0.9.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/221133-orbital-survey/",
+        "spacedock": "https://spacedock.info/mod/3519/Orbital%20Survey",
+        "repository": "https://github.com/Falki-git/OrbitalSurvey",
+        "bugtracker": "https://github.com/Falki-git/OrbitalSurvey/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/OrbitalSurvey/master/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Falki_104269/Orbital_Survey/Orbital_Survey-1701964774.png"
+    },
+    "tags": [
+        "plugin",
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp",
+            "min_version": "1.6.0"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "OrbitalSurvey",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3519/Orbital%20Survey/download/0.9.0",
+    "download_size": 121934876,
+    "download_hash": {
+        "sha1": "8CD1F0961E7B730E2DAAD8611A912E55A3D668C5",
+        "sha256": "6890C38E8EA02EDB90DCCDFD11DDB75C6042DBF4E451D51067A4B8D0F10D1986"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 122076715,
+    "release_date": "2024-02-10T00:44:38.064361+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
