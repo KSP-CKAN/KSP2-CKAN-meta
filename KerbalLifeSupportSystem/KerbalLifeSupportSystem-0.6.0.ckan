@@ -1,0 +1,57 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KerbalLifeSupportSystem",
+    "name": "Kerbal Life-Support System",
+    "abstract": "Because your Kerbals need Snacks.",
+    "author": "Safarte",
+    "version": "0.6.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220424-kerbal-life-support-system-klss-v020-for-ksp2-015/",
+        "spacedock": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System",
+        "repository": "https://github.com/Safarte/KerbalLifeSupportSystem",
+        "bugtracker": "https://github.com/Safarte/KerbalLifeSupportSystem/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/KerbalLifeSupportSystem/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Kerbal_Life-Support_System/Kerbal_Life-Support_System-1698527919.png"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "depends": [
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "CommunityResources"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbalLifeSupportSystem",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Safarte/KerbalLifeSupportSystem/releases/download/v0.6.0/KerbalLifeSupportSystem-0.6.0.zip",
+        "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System/download/0.6.0"
+    ],
+    "download_size": 165410776,
+    "download_hash": {
+        "sha1": "DF7B42FA9E6539CB4B3C0941A3F4699E0F208E12",
+        "sha256": "4D4A6AECD386A588FB31EDF5113507BFC302B584C8ECEB80995EB3E21E4E9BF6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 182686477,
+    "release_date": "2024-02-11T13:54:09.737626+00:00",
+    "x_generated_by": "netkan"
+}
