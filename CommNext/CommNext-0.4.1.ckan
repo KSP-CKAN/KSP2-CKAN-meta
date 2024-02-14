@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "CommNext",
+    "name": "CommNext",
+    "abstract": "CommNet overhaul with signal occlusion, enhanced Ranges and display mode ",
+    "author": "leonardfactory",
+    "version": "0.4.1",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3560/CommNext",
+        "repository": "https://github.com/Kerbalight/CommNext",
+        "bugtracker": "https://github.com/Kerbalight/CommNext/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/CommNext/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/CommNext/CommNext-1707671923.png"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "CommNext",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": [
+        "https://github.com/Kerbalight/CommNext/releases/download/v0.4.1/CommNext-0.4.1.zip",
+        "https://spacedock.info/mod/3560/CommNext/download/0.4.1"
+    ],
+    "download_size": 117482,
+    "download_hash": {
+        "sha1": "F2D41B3268ED53B9635A0DE21EB0ED064E6C7830",
+        "sha256": "3DCB53BD223BB4876CDD0807B0D0B742FA5B24769F459F43A81A8793AAC5DB3F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 218148,
+    "release_date": "2024-02-14T02:57:07.073443+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
