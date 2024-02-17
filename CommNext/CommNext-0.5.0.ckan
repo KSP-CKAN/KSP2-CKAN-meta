@@ -9,6 +9,7 @@
     "ksp_version_max": "0.2.1",
     "license": "MIT",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223732-commnext-v050-for-ksp2-v021/",
         "spacedock": "https://spacedock.info/mod/3560/CommNext",
         "repository": "https://github.com/Kerbalight/CommNext",
         "bugtracker": "https://github.com/Kerbalight/CommNext/issues",
