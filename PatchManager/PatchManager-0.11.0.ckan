@@ -1,0 +1,58 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "PatchManager",
+    "name": "Patch Manager",
+    "abstract": "A mod for your generic JSON patching needs",
+    "author": [
+        "cheese3660",
+        "munix",
+        "KSP2Community"
+    ],
+    "version": "0.11.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://pm.kerbal.wiki",
+        "spacedock": "https://spacedock.info/mod/3482/Patch%20Manager",
+        "repository": "https://github.com/KSP2Community/PatchManager",
+        "bugtracker": "https://github.com/KSP2Community/PatchManager/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/PatchManager/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Patch_Manager/Patch_Manager-1703507804.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PremonitionForSpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
+        }
+    ],
+    "download": [
+        "https://github.com/KSP2Community/PatchManager/releases/download/v0.11.0/PatchManager-0.11.0.zip",
+        "https://spacedock.info/mod/3482/Patch%20Manager/download/0.11.0"
+    ],
+    "download_size": 262668,
+    "download_hash": {
+        "sha1": "35BAAF580127C589D02E374168037E74ABA4C059",
+        "sha256": "1CE5A20ECF82EA9D74CADE50474079764621EAAF8EB676B50260C86A37DBB120"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 699256,
+    "release_date": "2024-02-17T20:06:42.05481+00:00",
+    "x_generated_by": "netkan"
+}
