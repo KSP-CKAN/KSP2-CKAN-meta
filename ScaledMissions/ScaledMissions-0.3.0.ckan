@@ -9,6 +9,7 @@
     "ksp_version_max": "0.2.1",
     "license": "GPL-3.0",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223750-25x-scaled-missions-v030-for-ksp2/",
         "spacedock": "https://spacedock.info/mod/3564/ScaledMissions",
         "repository": "https://github.com/PhilouDS/ScaledMissions",
         "bugtracker": "https://github.com/PhilouDS/ScaledMissions/issues",
