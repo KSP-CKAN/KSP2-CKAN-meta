@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ScaledMissions",
+    "name": "ScaledMissions",
+    "abstract": "Patch to use with Kerbolar System (scale 2.5x). It changes objective values of some missions.",
+    "author": "PhilippeDS",
+    "version": "0.3.1",
+    "ksp_version_min": "0.1.5",
+    "ksp_version_max": "0.2.1",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223750-25x-scaled-missions-v030-for-ksp2/",
+        "spacedock": "https://spacedock.info/mod/3564/ScaledMissions",
+        "repository": "https://github.com/PhilouDS/ScaledMissions",
+        "bugtracker": "https://github.com/PhilouDS/ScaledMissions/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/PhilouDS/ScaledMissions/main/swinfo.json"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "ScaledMissions",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3564/ScaledMissions/download/0.3.1",
+    "download_size": 80547,
+    "download_hash": {
+        "sha1": "48E7A61CEC95EA77D28877557AAF8433F7ABC70D",
+        "sha256": "DF19D06D2207E7023F8789C02B5DD0F88A3C163B482204658DAA525CCCAE950D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 103376,
+    "release_date": "2024-02-19T14:47:04.977173+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
