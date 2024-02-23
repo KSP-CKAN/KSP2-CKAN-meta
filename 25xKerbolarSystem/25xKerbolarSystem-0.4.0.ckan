@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "25xKerbolarSystem",
+    "name": "2.5x Kerbolar System",
+    "abstract": "Upscales the Kerbolar System 2.5x",
+    "author": "cheese3660",
+    "version": "0.4.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222561-25x-kerbolar-system-v010-for-ksp2/",
+        "spacedock": "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System",
+        "repository": "https://github.com/cheese3660/2.5x-Kerbolar-System",
+        "bugtracker": "https://github.com/cheese3660/2.5x-Kerbolar-System/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/2.5x-Kerbolar-System/main/swinfo.json"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "Shoemaker"
+        }
+    ],
+    "install": [
+        {
+            "find": "KerbolarUpscale",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/cheese3660/2.5x-Kerbolar-System/releases/download/v0.4.0/KerbolarUpscale-0.4.0.zip",
+        "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System/download/0.4.0"
+    ],
+    "download_size": 4558,
+    "download_hash": {
+        "sha1": "7596E76886E489724FAB378DC200EB50AA3EFB45",
+        "sha256": "9765DA46452777279A8427D5690E057A6BCA8FB65BEE4A0AE86A0B3A2A4BB9C8"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11593,
+    "release_date": "2024-02-23T12:02:42.073114+00:00",
+    "x_generated_by": "netkan"
+}
