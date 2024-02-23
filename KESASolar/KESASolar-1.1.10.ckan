@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KESASolar",
+    "name": "Kesa Solar",
+    "abstract": "Kesa Solar Parts",
+    "author": "jimkesa",
+    "version": "1.1.10",
+    "ksp_version": "0.2.1",
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219121-101-kesa-solar-kesa-solar-space-agency-parts-mod-solar-panels/",
+        "spacedock": "https://spacedock.info/mod/3453/Kesa%20Solar",
+        "repository": "https://github.com/JiMKesa/kesa_solar.git",
+        "remote-swinfo": "https://raw.githubusercontent.com/JiMKesa/kesa_solar/master/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/jimkesa_115625/KESA_SOLAR/KESA_SOLAR-1693475288.jpg"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "kesa_solar",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3453/Kesa%20Solar/download/1.1.10",
+    "download_size": 113380981,
+    "download_hash": {
+        "sha1": "F9241CE4E119B90BD0BC0B3AC8B27AE77470F3BD",
+        "sha256": "9DE6D7873A4E0C8048282E4E0BCB3FA7C5245D00AC948678843A9A7C7DA0AEF3"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 122244056,
+    "release_date": "2024-02-23T00:49:49.324308+00:00",
+    "x_generated_by": "netkan"
+}
