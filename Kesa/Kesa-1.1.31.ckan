@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Kesa",
+    "name": "Kesa",
+    "abstract": "Kesa space agency parts mod.",
+    "author": "jimkesa",
+    "version": "1.1.31",
+    "ksp_version": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218564-112-kesa-kesa-space-agency-parts-mod/",
+        "spacedock": "https://spacedock.info/mod/3409/Kesa",
+        "repository": "https://github.com/JiMKesa/kesa",
+        "bugtracker": "https://github.com/JiMKesa/kesa/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/JiMKesa/kesa/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/jimkesa_115625/Kesa/Kesa-1696584225.jpg"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "LuxsFlamesandOrnaments"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "kesa",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3409/Kesa/download/1.1.31",
+    "download_size": 192035203,
+    "download_hash": {
+        "sha1": "202AF7FADDC29C0DA09B8624ECC79BF46C934A5D",
+        "sha256": "B2061B7AA04357870A86E457D3FD85E8FD2FE23FD6F901566C1E4A8856765366"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 202256062,
+    "release_date": "2024-02-23T00:56:50.649537+00:00",
+    "x_generated_by": "netkan"
+}
