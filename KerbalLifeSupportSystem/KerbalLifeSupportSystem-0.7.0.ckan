@@ -33,6 +33,12 @@
         },
         {
             "name": "CommunityResources"
+        },
+        {
+            "name": "VSwiFT"
+        },
+        {
+            "name": "SpringCleaning"
         }
     ],
     "install": [
