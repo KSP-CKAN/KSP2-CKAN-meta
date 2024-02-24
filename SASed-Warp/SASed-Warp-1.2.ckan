@@ -1,0 +1,41 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SASed-Warp",
+    "name": "SASed Warp",
+    "abstract": "Junky ah SAS locking during warp",
+    "author": "Sun_Serega",
+    "version": "1.2",
+    "ksp_version": "0.2.1",
+    "license": "Unlicense",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222674-sased-warp/",
+        "spacedock": "https://spacedock.info/mod/3538/SASed%20Warp",
+        "repository": "https://github.com/SunSerega/KSP2-SASed-Warp",
+        "bugtracker": "https://github.com/SunSerega/KSP2-SASed-Warp/issues",
+        "x_screenshot": "https://spacedock.info/content/Sun_Serega_127954/SASed_Warp/SASed_Warp-1704554722.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "SASed Warp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3538/SASed%20Warp/download/1.2",
+    "download_size": 9006,
+    "download_hash": {
+        "sha1": "F296A0DDCB08A4F0C4E32AB5DE081F89D16BA91B",
+        "sha256": "7C5C36F3B7934E7B86743224C07135FB0C96296806E6F42EE33770BC88E4E71D"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 16899,
+    "release_date": "2024-02-24T21:31:16.174437+00:00",
+    "x_generated_by": "netkan"
+}
