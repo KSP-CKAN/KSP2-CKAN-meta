@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "TheNuclearOption",
+    "name": "The Nuclear Option",
+    "abstract": "When solar power, batteries, and fuel cells simply aren't enough, it's time for The Nuclear Option...",
+    "author": "Schlosrat",
+    "version": "0.4.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219626-the-nuclear-option-tno-010/",
+        "spacedock": "https://spacedock.info/mod/3471/The%20Nuclear%20Option",
+        "repository": "https://github.com/schlosrat/TNO",
+        "bugtracker": "https://github.com/schlosrat/TNO/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/TNO/main/TNO/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/The_Nuclear_Option/The_Nuclear_Option-1695651296.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "VSwiFT"
+        },
+        {
+            "name": "SpringCleaning"
+        }
+    ],
+    "install": [
+        {
+            "find": "com.github.schlosrat.TNO",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/schlosrat/TNO/releases/download/0.4.0/TNO_0.4.0.zip",
+        "https://spacedock.info/mod/3471/The%20Nuclear%20Option/download/0.4.0"
+    ],
+    "download_size": 30047962,
+    "download_hash": {
+        "sha1": "64054478C9C60F47D01264B92489E78127315C9C",
+        "sha256": "12A6F4C22BB0B094FC241F1DDE40F5FB144CB084E972EC4D21737A8ABB8E4BC8"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 33093787,
+    "release_date": "2024-02-24T20:38:59.080046+00:00",
+    "x_generated_by": "netkan"
+}
