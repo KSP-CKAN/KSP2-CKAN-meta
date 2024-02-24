@@ -1,0 +1,40 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "QuickMods",
+    "name": "Quick Mods",
+    "abstract": "A plugin collection for Kerbal Space Program",
+    "author": "malahx",
+    "version": "2.0.0-KSP2-0.2.1.0.30833",
+    "ksp_version_min": "0.2.0",
+    "license": "Unlicense",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85834-1",
+        "repository": "https://github.com/malahx/QuickMods",
+        "bugtracker": "https://github.com/malahx/QuickMods/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/malahx/QuickMods/master/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "QuickMods",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/malahx/QuickMods/releases/download/v2.0.0-KSP2-0.2.1.0.30833/QuickMods-2.0.0.zip",
+    "download_size": 15694,
+    "download_hash": {
+        "sha1": "688DFC9F17CDB070B6A9CD5CD3DA0AE918852836",
+        "sha256": "EFDB19BB5E44859FCABF09C833A718A91CC0C07C7737EE53537C157DDCD9E497"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 30411,
+    "release_date": "2024-02-24T21:59:30Z",
+    "x_generated_by": "netkan"
+}
