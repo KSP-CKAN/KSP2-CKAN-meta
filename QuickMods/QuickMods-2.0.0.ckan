@@ -9,7 +9,7 @@
     "ksp_version_max": "0.2.1",
     "license": "Unlicense",
     "resources": {
-        "homepage": "https://github.com/malahx/QuickMods",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223837-q",
         "spacedock": "https://spacedock.info/mod/3569/QuickMods",
         "repository": "https://github.com/malahx/QuickMods",
         "bugtracker": "https://github.com/malahx/QuickMods/issues",
@@ -29,7 +29,10 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://spacedock.info/mod/3569/QuickMods/download/2.0.0",
+    "download": [
+        "https://github.com/malahx/QuickMods/releases/download/v2.0.0-KSP2-0.2.1.0.30833/QuickMods-2.0.0.zip",
+        "https://spacedock.info/mod/3569/QuickMods/download/2.0.0"
+    ],
     "download_size": 15694,
     "download_hash": {
         "sha1": "688DFC9F17CDB070B6A9CD5CD3DA0AE918852836",
