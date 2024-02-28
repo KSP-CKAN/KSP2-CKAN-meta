@@ -1,0 +1,47 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KuriosityScience",
+    "name": "Kuriosity Science",
+    "abstract": "Kurious events that inspire our kerbals to complete some science!",
+    "author": "Cadestronaut",
+    "version": "0.1.1",
+    "ksp_version": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223889-kuriosity-science-v010-for-ksp2-v021/",
+        "spacedock": "https://spacedock.info/mod/3572/Kuriosity%20Science",
+        "repository": "https://github.com/Cadestronaut/KuriosityScience",
+        "bugtracker": "https://github.com/Cadestronaut/KuriosityScience/issues",
+        "remote-swinfo": "https://github.com/Cadestronaut/KuriosityScience/tree/master/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "KuriosityScience",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3572/Kuriosity%20Science/download/0.1.1",
+    "download_size": 43868,
+    "download_hash": {
+        "sha1": "3DCE97A33416C35031026D09D0D479DF11C7F758",
+        "sha256": "68C05B6FF079564FE30369B1D1ED5F9634E4E5334D79D6D6F28FFAA1BE2135B3"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 66230,
+    "release_date": "2024-02-28T09:41:16.29148+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
