@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "VSwiFT",
+    "name": "V-SwiFT",
+    "abstract": "Variant Switching & Feature Tweaking, a part switch mod for KSP2",
+    "author": [
+        "cheese3660",
+        "munix",
+        "KSP2Community"
+    ],
+    "version": "0.4.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/KSP2Community/V-SwiFT/wiki",
+        "spacedock": "https://spacedock.info/mod/3562/V-SwiFT",
+        "repository": "https://github.com/KSP2Community/V-SwiFT",
+        "bugtracker": "https://github.com/KSP2Community/V-SwiFT/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/V-SwiFT/main/plugin_template/swinfo.json"
+    },
+    "tags": [
+        "config",
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "VSwift",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/KSP2Community/V-SwiFT/releases/download/v0.4.0/VSwift-0.4.0.zip",
+        "https://spacedock.info/mod/3562/V-SwiFT/download/0.4.0"
+    ],
+    "download_size": 59419,
+    "download_hash": {
+        "sha1": "9E44AAE631CAD8E62BCA0256CC228AAA5E0DC759",
+        "sha256": "EA3C9791E91EA7C7A068C54FA91236DAC7667A5746F2B64A5AB7375848E4552F"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 122746,
+    "release_date": "2024-03-01T13:43:57.314807+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
