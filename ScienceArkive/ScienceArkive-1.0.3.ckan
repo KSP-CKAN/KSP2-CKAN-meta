@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "ScienceArkive",
+    "name": "Science Arkive",
+    "abstract": "See all science experiments in one place, browse by planet and region and check where you can gather more points",
+    "author": "leonardfactory",
+    "version": "1.0.3",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222785-science-arkive-v010-for-ksp2-v020/",
+        "spacedock": "https://spacedock.info/mod/3541/Science%20Arkive",
+        "repository": "https://github.com/Kerbalight/ScienceArkive",
+        "bugtracker": "https://github.com/Kerbalight/ScienceArkive/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/ScienceArkive/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/Science_Arkive/Science_Arkive-1704662862.png"
+    },
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "install": [
+        {
+            "find": "ScienceArkive",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Kerbalight/ScienceArkive/releases/download/v1.0.3/ScienceArkive-1.0.3.zip",
+        "https://spacedock.info/mod/3541/Science%20Arkive/download/1.0.3"
+    ],
+    "download_size": 51329,
+    "download_hash": {
+        "sha1": "CEA4FBDC64281EFA143A83769CDA1B14A607851C",
+        "sha256": "42AEDF8DFC2611A2B1743D2D00E82C2E9F9A91C1E220CB19C112FE01A270C039"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 89095,
+    "release_date": "2024-03-03T11:35:14.63947+00:00",
+    "x_generated_by": "netkan"
+}
