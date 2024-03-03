@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KSRe",
+    "name": "KSRe",
+    "abstract": "Stockalike, Semi-Realistic Gameplay Rebalance + Overhaul",
+    "author": "KSRe_dev",
+    "version": "0.20.1",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "unknown",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3563/KSRe",
+        "x_screenshot": "https://spacedock.info/content/KSRe_dev_129864/KSRe/KSRe-1708877483.jpg"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager",
+            "version": "0.9.1"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSRe",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3563/KSRe/download/0.20.1",
+    "download_size": 1841443,
+    "download_hash": {
+        "sha1": "C6959F60775F4C185220E911A2A5B654AEEAAC88",
+        "sha256": "137D73E0FE972BF600F35F958A10533459DFCFF0513616914095C4222EAC1D91"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 2130538,
+    "release_date": "2024-03-03T03:55:28.778144+00:00",
+    "x_generated_by": "netkan"
+}
