@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "SASed-Warp",
+    "name": "SASed Warp",
+    "abstract": "SAS locking during warp (+ thrust on rails fix)",
+    "author": "Sun_Serega",
+    "version": "2.2.1",
+    "ksp_version": "0.2.1",
+    "license": "Unlicense",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222674-sased-warp/",
+        "spacedock": "https://spacedock.info/mod/3538/SASed%20Warp",
+        "repository": "https://github.com/SunSerega/KSP2-SASed-Warp",
+        "bugtracker": "https://github.com/SunSerega/KSP2-SASed-Warp/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/SunSerega/KSP2-SASed-Warp/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Sun_Serega_127954/SASed_Warp/SASed_Warp-1704554722.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "SASedWarp",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3538/SASed%20Warp/download/2.2.1",
+    "download_size": 15956,
+    "download_hash": {
+        "sha1": "0FA85A09AB1FCC1F391D636D00E2391E305D49AC",
+        "sha256": "F99056A924B2C3633A820608AA0DB3083C4FE3711B6133FB0067CD477E3CF6EE"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 32047,
+    "release_date": "2024-03-07T21:08:17.47834+00:00",
+    "x_generated_by": "netkan"
+}
