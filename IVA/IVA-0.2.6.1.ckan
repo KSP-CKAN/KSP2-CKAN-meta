@@ -3,13 +3,13 @@
     "identifier": "IVA",
     "name": "KSP2 IVA",
     "abstract": "Adds the missing IVA feature to KSP 2.",
-    "author": "Mudkip909",
+    "author": "Oscilloscopy",
     "version": "0.2.6.1",
     "ksp_version": "0.2.0",
     "license": "MIT",
     "resources": {
-        "repository": "https://github.com/Mudkip909/KSP2-IVA",
-        "bugtracker": "https://github.com/Mudkip909/KSP2-IVA/issues"
+        "repository": "https://github.com/Oscilloscopy/KSP2-IVA",
+        "bugtracker": "https://github.com/Oscilloscopy/KSP2-IVA/issues"
     },
     "tags": [
         "plugin"
@@ -25,7 +25,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://github.com/Mudkip909/KSP2-IVA/releases/download/0.2.6.1/IVA0.2.6.1-BepInEx.zip",
+    "download": "https://github.com/Oscilloscopy/KSP2-IVA/releases/download/0.2.6.1/IVA0.2.6.1-BepInEx.zip",
     "download_size": 3440,
     "download_hash": {
         "sha1": "F2BA25CBBFA5790DAE8E2F67736409C03FF5C063",
