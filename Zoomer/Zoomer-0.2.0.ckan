@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "Zoomer",
+    "name": "Zoomer",
+    "abstract": "Zoomer brings back the old zoom functionality from KSP1.",
+    "author": [
+        "Halban",
+        "IsaQuest"
+    ],
+    "version": "0.2.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.1",
+    "license": "CC-BY-SA",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3570/Zoomer",
+        "repository": "https://github.com/Halbann/Zoomer",
+        "bugtracker": "https://github.com/Halbann/Zoomer/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Halbann/Zoomer/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Halban_103632/Zoomer/Zoomer-1708816157.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "Zoomer",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3570/Zoomer/download/0.2.0",
+    "download_size": 12886,
+    "download_hash": {
+        "sha1": "BF8161FAD289D30F4B5A5BDA6D2D3A6460FF46AD",
+        "sha256": "BCF3226F2D6B2F55A896C17A7EBDB1C5F5DE0F9D8D188DFFCAE840B516932834"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 32493,
+    "release_date": "2024-03-21T18:41:42.188577+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
