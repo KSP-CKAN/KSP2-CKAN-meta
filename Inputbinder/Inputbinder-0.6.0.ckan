@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "Inputbinder",
+    "name": "Inputbinder",
+    "abstract": "Control rebinding tool",
+    "author": "StopFrag",
+    "version": "0.6.0",
+    "ksp_version": "0.2.1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Codenade/ksp2-inputbinder/blob/master/README.md",
+        "spacedock": "https://spacedock.info/mod/3422/Inputbinder",
+        "repository": "https://github.com/Codenade/ksp2-inputbinder",
+        "bugtracker": "https://github.com/Codenade/ksp2-inputbinder/issues",
+        "x_screenshot": "https://spacedock.info/content/StopFrag_111500/Inputbinder/Inputbinder-1696554248.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "inputbinder",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Codenade/ksp2-inputbinder/releases/download/0.6.0/ksp2-inputbinder-0.6.0.zip",
+        "https://spacedock.info/mod/3422/Inputbinder/download/0.6.0"
+    ],
+    "download_size": 115032,
+    "download_hash": {
+        "sha1": "17AD915B8E734FC52B1FAB378174EBFAF2C7D75D",
+        "sha256": "A3B8FC50CBA7EB100000D16F1C4D88594EFDE0998CBA51979F9A774BD9425AB6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 510425,
+    "release_date": "2024-03-25T17:24:34.784663+00:00",
+    "x_generated_by": "netkan"
+}
