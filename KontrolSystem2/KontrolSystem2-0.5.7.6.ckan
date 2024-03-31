@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KontrolSystem2",
+    "name": "Kontrol System2",
+    "abstract": "Autopilot scripting system for KSP2",
+    "author": "untoldwind",
+    "version": "0.5.7.6",
+    "ksp_version_min": "0",
+    "ksp_version_max": "1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214543-*",
+        "repository": "https://github.com/untoldwind/KontrolSystem2",
+        "bugtracker": "https://github.com/untoldwind/KontrolSystem2/issues",
+        "manual": "https://kontrolsystem2.readthedocs.io/"
+    },
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "KontrolSystem2",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://github.com/untoldwind/KontrolSystem2/releases/download/v0.5.7.6/KontrolSystem2-0.5.7.6.zip",
+    "download_size": 2876909,
+    "download_hash": {
+        "sha1": "ABEAB571B996345E40C5C2CE3B08319C7B5F9BEC",
+        "sha256": "9D92AECD0B122405734AB44E6726A7A0CE19C03E56CCBCC87AD781895F444E45"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 5140792,
+    "release_date": "2024-03-31T16:07:18Z",
+    "x_generated_by": "netkan"
+}
