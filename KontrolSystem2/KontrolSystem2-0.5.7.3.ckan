@@ -31,10 +31,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": [
-        "https://github.com/untoldwind/KontrolSystem2/releases/download/v0.5.7.3/KontrolSystem2-0.5.7.3.zip",
-        "https://spacedock.info/mod/3316/Kontrol%20System%202/download/0.5.7.3"
-    ],
+    "download": "https://spacedock.info/mod/3316/Kontrol%20System%202/download/0.5.7.3",
     "download_size": 2861837,
     "download_hash": {
         "sha1": "AC1D88C055A128B35B438BBE9B7C2F45849B6CC2",
