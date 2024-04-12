@@ -8,6 +8,7 @@
     "ksp_version": "0.2.1",
     "license": "open-source",
     "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/224413-kapitalism/",
         "spacedock": "https://spacedock.info/mod/3587/Kapitalism",
         "repository": "https://github.com/Bit-Studios/Kapitalism",
         "bugtracker": "https://github.com/Bit-Studios/Kapitalism/issues",
