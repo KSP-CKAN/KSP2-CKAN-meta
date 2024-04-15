@@ -1,0 +1,50 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "Kapitalism",
+    "name": "Kapitalism",
+    "abstract": "Kerbals were never Kommunist ",
+    "author": "ShadowDev",
+    "version": "0.0.1.1",
+    "ksp_version": "0.2.1",
+    "license": "open-source",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/224413-kapitalism/",
+        "spacedock": "https://spacedock.info/mod/3587/Kapitalism",
+        "repository": "https://github.com/Bit-Studios/Kapitalism",
+        "bugtracker": "https://github.com/Bit-Studios/Kapitalism/issues",
+        "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Kapitalism/Kapitalism-1712828965.png"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "ShadowUtilityLIB"
+        }
+    ],
+    "install": [
+        {
+            "find": "Kapitalsim",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3587/Kapitalism/download/0.0.1.1",
+    "download_size": 78035,
+    "download_hash": {
+        "sha1": "CAE0D4F9FE4E368A3AA01DA4BDC902FF10CCE4B0",
+        "sha256": "8E073CB1B56542C54A0416957CB10B50DCC1E1C3188587CA8EED27849BA399A6"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 130806,
+    "release_date": "2024-04-14T20:56:36.986543+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
