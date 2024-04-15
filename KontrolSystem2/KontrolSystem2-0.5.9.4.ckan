@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KontrolSystem2",
+    "name": "Kontrol System 2",
+    "abstract": "Scripting framework for autopilots",
+    "author": "untoldwind",
+    "version": "0.5.9.4",
+    "ksp_version_min": "0",
+    "ksp_version_max": "1",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214543-*",
+        "spacedock": "https://spacedock.info/mod/3316/Kontrol%20System%202",
+        "repository": "https://github.com/untoldwind/KontrolSystem2",
+        "bugtracker": "https://github.com/untoldwind/KontrolSystem2/issues",
+        "manual": "https://kontrolsystem2.readthedocs.io/",
+        "x_screenshot": "https://spacedock.info/content/untoldwind_105473/Kontrol_System_2/Kontrol_System_2-1678437398.png"
+    },
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "KontrolSystem2",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3316/Kontrol%20System%202/download/0.5.9.4",
+    "download_size": 2898562,
+    "download_hash": {
+        "sha1": "CF9E3C46588B01D1E9316F33243022549315B558",
+        "sha256": "00B604501973EEF90ABF069BA3F9F839C27396DC688CA225A1E05272B4297BF9"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 5241773,
+    "release_date": "2024-04-15T16:05:12.561062+00:00",
+    "x_generated_by": "netkan"
+}
