@@ -31,9 +31,12 @@
     ],
     "install": [
         {
-            "find": "Kapitalsim",
-            "install_to": "BepInEx/plugins",
-            "filter_regexp": "\\.pdb$"
+            "find": "BepInEx",
+            "install_to": "GameRoot",
+            "include_only": [
+                "patchers",
+                "plugins"
+            ]
         }
     ],
     "download": "https://spacedock.info/mod/3587/Kapitalism/download/0.0.1.2",
@@ -43,7 +46,7 @@
         "sha256": "8130458A33027601BD7BFF672EA98834F493DAE5FBD6416903374BDD17AC8546"
     },
     "download_content_type": "application/zip",
-    "install_size": 130806,
+    "install_size": 168930,
     "release_date": "2024-04-16T10:18:07.160102+00:00",
     "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
