@@ -10,8 +10,6 @@
     "resources": {
         "homepage": "https://github.com/Bit-Studios/konfig/releases/tag/SkyboxBlackSky64x",
         "spacedock": "https://spacedock.info/mod/3502/Black%20sky%20skybox",
-        "repository": "https://github.com/Bit-Studios/konfig",
-        "bugtracker": "https://github.com/Bit-Studios/konfig/issues",
         "x_screenshot": "https://spacedock.info/content/ShadowDev_103785/Black_sky_skybox/Black_sky_skybox-1699779131.png"
     },
     "tags": [
@@ -28,10 +26,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": [
-        "https://github.com/Bit-Studios/konfig/releases/download/SkyboxBlackSky64x/BlackSky.zip",
-        "https://spacedock.info/mod/3502/Black%20sky%20skybox/download/1.0.0"
-    ],
+    "download": "https://spacedock.info/mod/3502/Black%20sky%20skybox/download/1.0.0",
     "download_size": 1628,
     "download_hash": {
         "sha1": "EAC162EB94B5500DB7B077E736EC16E7D88B0C1E",
