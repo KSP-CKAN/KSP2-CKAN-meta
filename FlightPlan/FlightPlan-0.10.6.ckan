@@ -2,19 +2,15 @@
     "spec_version": "v1.34",
     "identifier": "FlightPlan",
     "name": "Flight Plan",
-    "abstract": "Plan your (Space) Flight, Fly Your Plan! Handy tools to help you set up maneuver nodes to get you where you want to be. Making spaceflight planning easier for KSP2 one mission at a time.",
-    "author": "Schlosrat",
+    "abstract": "Plan your (space) Flight! Fly your Plan! Set up maneuver nodes to get you where you want to be",
+    "author": "schlosrat",
     "version": "0.10.6",
     "ksp_version_min": "0.2.0",
-    "ksp_version_max": "0.2.1",
     "license": "GPL-3.0",
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216393-flight-plan/",
-        "spacedock": "https://spacedock.info/mod/3359/Flight%20Plan",
         "repository": "https://github.com/schlosrat/FlightPlan",
         "bugtracker": "https://github.com/schlosrat/FlightPlan/issues",
-        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/plugin_template/swinfo.json",
-        "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Flight_Plan/Flight_Plan-1706474824.png"
+        "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/plugin_template/swinfo.json"
     },
     "tags": [
         "plugin",
@@ -39,10 +35,7 @@
             "filter_regexp": "\\.pdb$"
         }
     ],
-    "download": [
-        "https://github.com/schlosrat/FlightPlan/releases/download/0.10.6/flight_plan-0.10.6.zip",
-        "https://spacedock.info/mod/3359/Flight%20Plan/download/0.10.6"
-    ],
+    "download": "https://github.com/schlosrat/FlightPlan/releases/download/0.10.6/flight_plan-0.10.6.zip",
     "download_size": 48034325,
     "download_hash": {
         "sha1": "52D367BA9E469FD0387E0D0DB030A8E8C706A168",
@@ -50,6 +43,6 @@
     },
     "download_content_type": "application/zip",
     "install_size": 49843219,
-    "release_date": "2024-04-03T03:14:28.66236+00:00",
+    "release_date": "2024-04-03T03:12:31Z",
     "x_generated_by": "netkan"
 }
