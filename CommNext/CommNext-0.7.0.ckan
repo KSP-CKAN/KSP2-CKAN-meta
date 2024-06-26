@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3560/CommNext",
         "repository": "https://github.com/Kerbalight/CommNext",
         "bugtracker": "https://github.com/Kerbalight/CommNext/issues",
+        "discussions": "https://github.com/Kerbalight/CommNext/discussions",
         "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/CommNext/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/CommNext/CommNext-1708181738.png"
     },
