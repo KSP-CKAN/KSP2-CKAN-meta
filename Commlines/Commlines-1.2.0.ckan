@@ -5,7 +5,8 @@
     "abstract": "Add the CommNet lines like in KSP 1 to KSP 2",
     "author": "gamendegamer",
     "version": "1.2.0",
-    "ksp_version": "0.2.1",
+    "ksp_version_min": "0.2.1",
+    "ksp_version_max": "0.2.2",
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3433/Commlines",
