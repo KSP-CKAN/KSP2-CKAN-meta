@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.32",
+    "spec_version": "v1.10",
     "identifier": "NodeManager",
     "name": "Node Manager",
     "abstract": "Provides services for other mods needing to create, delete, and manage maneuver nodes.",
