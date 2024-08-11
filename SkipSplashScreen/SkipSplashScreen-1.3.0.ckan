@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "SkipSplashScreen",
     "name": "Skip Splash Screen",
     "abstract": "Skips the splash screen and health warning. Gives the fastest possible load times. To be used only for developing mods (faster iteration).",
