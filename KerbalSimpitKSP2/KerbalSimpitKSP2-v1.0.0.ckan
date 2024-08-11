@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.27",
+    "spec_version": "v1.4",
     "identifier": "KerbalSimpitKSP2",
     "name": "KerbalSimpit KSP2",
     "abstract": "SimPit provides a serial connection interface for custom controllers for Kerbal Space Program 2.",
