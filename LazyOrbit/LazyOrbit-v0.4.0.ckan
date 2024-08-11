@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LazyOrbit",
     "name": "Lazy Orbit",
     "abstract": "Set a vessel's orbit, rendezvous and land using a simple menu opened with ALT+H.",
