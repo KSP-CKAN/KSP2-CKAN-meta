@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LazyOrbitBoosted",
     "name": "Lazy Orbit Boosted",
     "abstract": "A GUI for teleporting to orbit, keybind is ALT+H.",
