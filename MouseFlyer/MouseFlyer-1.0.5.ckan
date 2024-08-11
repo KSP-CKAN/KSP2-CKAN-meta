@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "MouseFlyer",
     "name": "MouseFlyer",
     "abstract": "A customisable mod that lets you fly using mouse controls instead of the WASD keys",
