@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "HeadUpDisplay",
     "name": "HUD : Head Up Display",
     "abstract": "A virtual navball : now you can define and check the direction while still keeping watch on your vessel!",
