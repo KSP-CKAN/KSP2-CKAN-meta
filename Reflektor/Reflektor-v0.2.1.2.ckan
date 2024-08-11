@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.24",
+    "spec_version": "v1.4",
     "identifier": "Reflektor",
     "name": "Reflektor",
     "abstract": "A quicker, lighter weight alternative to Unity Explorer for KSP 2",
