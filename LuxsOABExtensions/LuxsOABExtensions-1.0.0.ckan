@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "LuxsOABExtensions",
     "name": "Lux's OAB Extensions (LOABE)",
     "abstract": "QoL changes to the OAB",
