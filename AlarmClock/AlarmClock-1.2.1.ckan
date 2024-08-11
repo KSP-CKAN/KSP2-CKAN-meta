@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "AlarmClock",
     "name": "Alarm Clock",
     "abstract": "Create alarms that will interrupt time warp, making multitasking much easier. Never miss a transfer window again!",
