@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.10",
     "identifier": "MapViewFocusTargeting",
     "name": "MapView Focus and Targeting",
     "abstract": "Use keyboard shortcuts to focus and target celestial bodies in KSP2",
