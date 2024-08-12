@@ -1,5 +1,5 @@
 {
-    "spec_version": "v1.18",
+    "spec_version": "v1.4",
     "identifier": "PartsManagerHotkey",
     "name": "Parts Manager Hotkey",
     "abstract": "Prevents accidentally opening Parts Manager by requiring a hotkey to be held when clicking.",
