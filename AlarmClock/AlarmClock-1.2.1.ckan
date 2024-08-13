@@ -12,6 +12,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222369-alarm-clock-mod-100/#comment-4354825",
         "spacedock": "https://spacedock.info/mod/3533/Alarm%20Clock",
         "repository": "https://github.com/meckryl/AlarmClockForKSP2",
+        "bugtracker": "https://github.com/meckryl/AlarmClockForKSP2/issues",
         "x_screenshot": "https://spacedock.info/content/meckryl_127716/Alarm_Clock/Alarm_Clock-1703978465.jpg"
     },
     "tags": [
