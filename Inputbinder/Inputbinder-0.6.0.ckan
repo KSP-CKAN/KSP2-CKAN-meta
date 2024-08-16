@@ -5,7 +5,7 @@
     "abstract": "Control rebinding tool",
     "author": "StopFrag",
     "version": "0.6.0",
-    "ksp_version": "0.2.1",
+    "ksp_version": "0.2.2",
     "license": "MIT",
     "resources": {
         "homepage": "https://github.com/Codenade/ksp2-inputbinder/blob/master/README.md",
