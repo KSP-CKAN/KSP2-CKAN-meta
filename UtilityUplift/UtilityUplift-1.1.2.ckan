@@ -7,7 +7,7 @@
     "version": "1.1.2",
     "ksp_version_min": "0.1.0",
     "ksp_version_max": "0.1.4",
-    "license": "CC-BY-SA-4.0",
+    "license": "CC-BY-SA",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216378-utility-uplift-102/",
         "spacedock": "https://spacedock.info/mod/3351/Utility%20Uplift",
