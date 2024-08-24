@@ -8,7 +8,6 @@
     "ksp_version_min": "0.2.0",
     "license": "BSD-2-clause",
     "resources": {
-        "homepage": "https://github.com/Simpit-team/KerbalSimpit-KSP2",
         "repository": "https://github.com/Simpit-team/KerbalSimpit-KSP2",
         "bugtracker": "https://github.com/Simpit-team/KerbalSimpit-KSP2/issues",
         "manual": "https://kerbalsimpitrevamped-arduino.readthedocs.io/en/latest",
