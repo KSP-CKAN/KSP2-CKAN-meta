@@ -1,0 +1,46 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "KSP2PAPI",
+    "name": "KSP2 PAPI",
+    "abstract": "This mod adds PAPI approach lights to KSP2's Runways",
+    "author": "StopFrag",
+    "version": "0.1.0.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Codenade/ksp2-papi/blob/master/README.md",
+        "spacedock": "https://spacedock.info/mod/3371/KSP2%20PAPI",
+        "repository": "https://github.com/Codenade/ksp2-papi",
+        "bugtracker": "https://github.com/Codenade/ksp2-papi/issues",
+        "x_screenshot": "https://spacedock.info/content/StopFrag_111500/Runway_PAPI_Lights/Runway_PAPI_Lights-1683135284.png"
+    },
+    "tags": [
+        "plugin",
+        "information",
+        "buildings"
+    ],
+    "depends": [
+        {
+            "name": "BepInEx"
+        }
+    ],
+    "install": [
+        {
+            "find": "ksp2-papi",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": [
+        "https://github.com/Codenade/ksp2-papi/releases/download/0.1.0.0/ksp2-papi-0.1.0.0.zip",
+        "https://spacedock.info/mod/3371/KSP2%20PAPI/download/0.1.0.0"
+    ],
+    "download_size": 174606,
+    "download_hash": {
+        "sha1": "827DDED146DFDADCE2373B31A219FF56EBE3B8E3",
+        "sha256": "141723678FFD96A67A4C85BF6A7ABB522C6971185EFB97FD9A6E0E8A67EC0C65"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 1481506,
+    "release_date": "2024-08-24T15:31:48.530885+00:00",
+    "x_generated_by": "netkan"
+}
