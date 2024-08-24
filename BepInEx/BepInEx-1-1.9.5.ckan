@@ -10,7 +10,7 @@
     ],
     "version": "1:1.9.5",
     "ksp_version": "0.2.1",
-    "license": "LGPL-3.0",
+    "license": "MIT",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218490-space-warp-v140-for-ksp2-013/",
         "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx",
