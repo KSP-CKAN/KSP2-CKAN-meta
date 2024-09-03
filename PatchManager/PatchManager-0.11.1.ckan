@@ -4,9 +4,9 @@
     "name": "Patch Manager",
     "abstract": "A mod for your generic JSON patching needs",
     "author": [
-        "cheese3660",
         "munix",
-        "KSP2Community"
+        "KSP2Community",
+        "cheese3660"
     ],
     "version": "0.11.1",
     "ksp_version_min": "0.2.0",
