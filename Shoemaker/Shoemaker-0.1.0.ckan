@@ -4,8 +4,8 @@
     "name": "Shoemaker",
     "abstract": "A planet modding tool for KSP2",
     "author": [
-        "cheese3660",
-        "munix"
+        "munix",
+        "cheese3660"
     ],
     "version": "0.1.0",
     "ksp_version_min": "0.2.0",
