@@ -4,8 +4,8 @@
     "name": "Community Fixes",
     "abstract": "Community project that aims to bring together bug fixes for KSP 2",
     "author": [
-        "munix",
-        "ShadowDev"
+        "ShadowDev",
+        "munix"
     ],
     "version": "0.14.0",
     "ksp_version": "0.2.2",
