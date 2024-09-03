@@ -4,9 +4,9 @@
     "name": "SpaceWarp",
     "abstract": "A C# modding api on top of BepInEx for KSP2",
     "author": [
-        "cheese3660",
         "munix",
-        "KSP2Community"
+        "KSP2Community",
+        "cheese3660"
     ],
     "version": "1.9.5",
     "ksp_version": "0.2.1",
