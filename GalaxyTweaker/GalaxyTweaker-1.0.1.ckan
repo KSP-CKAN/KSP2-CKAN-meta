@@ -4,9 +4,9 @@
     "name": "Galaxy Tweaker",
     "abstract": "Edit and create planets, solar systems, and galaxies!",
     "author": [
-        "Hyperion_21",
         "munix",
-        "JohnsterSpaceProgram"
+        "JohnsterSpaceProgram",
+        "Hyperion_21"
     ],
     "version": "1.0.1",
     "ksp_version_min": "0.1.1",
