@@ -4,9 +4,9 @@
     "name": "Unity Explorer for KSP2",
     "abstract": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",
     "author": [
+        "Falki-git",
         "sinai-dev",
-        "Safarte",
-        "Falki-git"
+        "Safarte"
     ],
     "version": "4.9.1",
     "ksp_version_min": "0.1.0",
