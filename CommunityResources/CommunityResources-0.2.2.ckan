@@ -4,11 +4,11 @@
     "name": "Community Resources",
     "abstract": "Common custom resource definitions for mods to use",
     "author": [
-        "Falki",
         "munix",
         "cheese3660",
         "Safarte",
-        "KSP2Community"
+        "KSP2Community",
+        "Falki"
     ],
     "version": "0.2.2",
     "ksp_version_min": "0.2.0",
