@@ -4,9 +4,9 @@
     "name": "Text Asset Dumper",
     "abstract": "Dumps all text assets from addressables and all localizations.",
     "author": [
+        "jan-bures",
         "Falki-git",
-        "Safarte",
-        "jan-bures"
+        "Safarte"
     ],
     "version": "v2.0.0",
     "ksp_version_min": "0.2.0",
