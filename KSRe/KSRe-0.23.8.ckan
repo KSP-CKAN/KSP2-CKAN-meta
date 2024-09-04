@@ -1,0 +1,55 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "KSRe",
+    "name": "KSRe",
+    "abstract": "Emergent gameplay overhaul",
+    "author": "sunnypunny",
+    "version": "0.23.8",
+    "ksp_version_min": "0.2.0",
+    "license": "unknown",
+    "resources": {
+        "homepage": "https://sourceforge.net/projects/ksre/",
+        "repository": "https://sourceforge.net/p/ksre/code/",
+        "bugtracker": "https://sourceforge.net/p/ksre/bugs/"
+    },
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PremonitionForSpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        },
+        {
+            "name": "PatchManager",
+            "version": "0.9.1"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "CommNext"
+        }
+    ],
+    "install": [
+        {
+            "find": "KSRe",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://master.dl.sourceforge.net/project/ksre/KSRe_0_23_8.zip?viasf=1",
+    "download_size": 2546139,
+    "download_hash": {
+        "sha1": "1FF58A7935632EDA5BC8B0E04D9D559D6748400A",
+        "sha256": "243C5872F27149CB314480E7662530D1910A29003B446A71B6313A3240DA9A13"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3020597,
+    "release_date": "2024-09-02T18:44:34+00:00",
+    "x_generated_by": "netkan"
+}
