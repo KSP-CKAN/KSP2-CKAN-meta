@@ -42,7 +42,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://netactuate.dl.sourceforge.net/project/ksre/KSRe_0_23_9.zip?viasf=1",
+    "download": "https://cfhcable.dl.sourceforge.net/project/ksre/KSRe_0_23_9.zip?viasf=1",
     "download_size": 2552911,
     "download_hash": {
         "sha1": "2BDB859C83FB56E905378A546A4D3DB8BAF2DFF1",
