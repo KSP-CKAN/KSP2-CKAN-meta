@@ -21,6 +21,9 @@
     "depends": [
         {
             "name": "BepInEx"
+        },
+        {
+            "name": "SpaceWarp"
         }
     ],
     "install": [
