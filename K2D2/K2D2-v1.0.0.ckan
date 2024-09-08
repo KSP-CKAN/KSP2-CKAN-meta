@@ -22,6 +22,9 @@
     "depends": [
         {
             "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "install": [
