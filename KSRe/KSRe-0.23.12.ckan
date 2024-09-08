@@ -42,7 +42,7 @@
             "install_to": "BepInEx/plugins"
         }
     ],
-    "download": "https://master.dl.sourceforge.net/project/ksre/KSRe_0_23_12.zip?viasf=1",
+    "download": "https://psychz.dl.sourceforge.net/project/ksre/KSRe_0_23_12.zip?viasf=1",
     "download_size": 2844308,
     "download_hash": {
         "sha1": "CF41F580C18BC1B37B96BB133F718B775E7F9AA5",
