@@ -23,6 +23,9 @@
         },
         {
             "name": "PatchManager"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "install": [
