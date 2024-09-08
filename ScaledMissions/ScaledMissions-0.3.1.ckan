@@ -24,6 +24,9 @@
         },
         {
             "name": "PatchManager"
+        },
+        {
+            "name": "25xKerbolarSystem"
         }
     ],
     "install": [
