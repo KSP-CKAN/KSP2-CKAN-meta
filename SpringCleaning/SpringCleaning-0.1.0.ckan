@@ -25,6 +25,9 @@
         },
         {
             "name": "PremonitionForSpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
         }
     ],
     "install": [
