@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "BetterIcons",
+    "name": "Better Icons",
+    "abstract": "Replaces the icons from the Part Picker with new ones",
+    "author": "PoloKornel",
+    "version": "0.1.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3718/Better%20Icons",
+        "repository": "https://github.com/pasalvetti/BetterIcons",
+        "bugtracker": "https://github.com/pasalvetti/BetterIcons/issues",
+        "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Better_Icons/Better_Icons-1727041019.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx/plugins/BetterIcons",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3718/Better%20Icons/download/0.1.0",
+    "download_size": 40554,
+    "download_hash": {
+        "sha1": "71A0B37474D710D6884EEA8AC28B9E7790656D9B",
+        "sha256": "7A1DE5184F4AC35212F0A79CB389169C50563605C5D7372DF4B2FA770E2A10DA"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 129903,
+    "release_date": "2024-09-22T21:26:18.755663+00:00",
+    "x_generated_by": "netkan"
+}
