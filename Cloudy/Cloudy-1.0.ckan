@@ -1,0 +1,48 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "Cloudy",
+    "name": "Cloudy",
+    "abstract": "Cloud Layers",
+    "author": [
+        "dandoesstuff",
+        "IanMealworm"
+    ],
+    "version": "1.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3741/Cloudy",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Cloudy/Cloudy-1729960680.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "Shoemaker"
+        }
+    ],
+    "install": [
+        {
+            "find": "Cloudy",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3741/Cloudy/download/1.0",
+    "download_size": 3016,
+    "download_hash": {
+        "sha1": "E576EE558ED9BBA406AD4659220C2138E0EF1629",
+        "sha256": "75C91B5A9052DAFEDBF8E783B4036C7A3CBA1AF80A659BF0F9BD0E066E06EB90"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 17644,
+    "release_date": "2024-10-26T16:37:13.160749+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
