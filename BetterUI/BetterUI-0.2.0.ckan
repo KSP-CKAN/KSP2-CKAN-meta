@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "BetterUI",
+    "name": "BetterUI",
+    "abstract": "UI, but done right",
+    "author": "dandoesstuff",
+    "version": "0.2.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3715/BetterUI",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/BetterUI/BetterUI-1726517718.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx/plugins/BetterUI",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3715/BetterUI/download/0.2.0",
+    "download_size": 117694,
+    "download_hash": {
+        "sha1": "D9DC559D61D28824A5ACB19962476CD54001758C",
+        "sha256": "3564AC97BC8F70710D4137A31FA07AFBE22EC9005E1C2CED3F1832BE8A582634"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 184269,
+    "release_date": "2024-09-16T20:07:36.244521+00:00",
+    "x_generated_by": "netkan"
+}
