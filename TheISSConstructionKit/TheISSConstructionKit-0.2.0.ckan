@@ -1,0 +1,44 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "TheISSConstructionKit",
+    "name": "The ISS Construction Kit",
+    "abstract": "An ISS parts mod for Kerbal Space Program 2",
+    "author": "PoloKornel",
+    "version": "0.2.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3709/The%20ISS%20Construction%20Kit",
+        "repository": "https://github.com/pasalvetti/iss",
+        "bugtracker": "https://github.com/pasalvetti/iss/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/pasalvetti/iss/main/Unity/ISS/Assets/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/The_ISS_Construction_Kit/The_ISS_Construction_Kit-1725200868.png"
+    },
+    "tags": [
+        "parts"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx/plugins/ISS",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3709/The%20ISS%20Construction%20Kit/download/0.2.0",
+    "download_size": 87926796,
+    "download_hash": {
+        "sha1": "3AB6645F1914615FA459ACB40E49F0DF58305CCE",
+        "sha256": "17FC45EAAB04371BDE6E0CA0D15F2452CAF0D1554ECC9ADEED6D01D4A40B9563"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 97265109,
+    "release_date": "2024-11-02T16:08:00.611041+00:00",
+    "x_generated_by": "netkan"
+}
