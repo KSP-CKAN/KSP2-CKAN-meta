@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "OohShiny",
+    "name": "Ooh Shiny!",
+    "abstract": "Reflections in KSP2.",
+    "author": "dandoesstuff",
+    "version": "1.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3787/Ooh%20Shiny!",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Ooh_Shiny/Ooh_Shiny-1734645196.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "install": [
+        {
+            "find": "OohShiny",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3787/Ooh%20Shiny!/download/1.0",
+    "download_size": 14774,
+    "download_hash": {
+        "sha1": "107AB705D24B4A2BCC4D43FE1C66805E1E5C794D",
+        "sha256": "936715E237B267D4DCB779D68D21131AE4A30D58EF42B44D704CE7BC2F9A26D4"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 9216,
+    "release_date": "2024-12-19T21:45:38.572518+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
