@@ -17,9 +17,17 @@
     "tags": [
         "plugin"
     ],
+    "provides": [
+        "LazyOrbit"
+    ],
     "depends": [
         {
             "name": "SpaceWarp"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "LazyOrbit"
         }
     ],
     "install": [
