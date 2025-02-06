@@ -12,7 +12,6 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219825-hue-utility-for-mimicking-authentic-natural-skin-humans/",
         "spacedock": "https://spacedock.info/mod/3477/H.U.M.A.N.S.",
         "repository": "https://github.com/Falki-git/HUMANS",
-        "bugtracker": "https://github.com/Falki-git/HUMANS/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/HUMANS/master/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Falki_104269/H.U.M.A.N.S/H.U.M.A.N.S-1696720878.png"
     },
