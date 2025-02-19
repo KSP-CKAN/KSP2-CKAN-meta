@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.10",
+    "identifier": "Krispy",
+    "name": "Krispy",
+    "abstract": "Enhanced Reentry Effects",
+    "author": "dandoesstuff",
+    "version": "0.7",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3792/Krispy",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Krispy/Krispy-1734984428.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "install": [
+        {
+            "find": "ColoredReentry",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3792/Krispy/download/0.7",
+    "download_size": 15638,
+    "download_hash": {
+        "sha1": "3F90BD7013CA1DEEC00BE844DE42E44B471AB90D",
+        "sha256": "CECBB0F1BE2DD4EE25F66D1A0AC0219E73595F9A54021CAA8AF25A6D67E1DAC7"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 11237,
+    "release_date": "2025-02-17T13:44:32.646246+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
