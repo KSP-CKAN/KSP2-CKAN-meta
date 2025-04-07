@@ -1,0 +1,42 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "MissionTreeExpanded",
+    "name": "Mission Tree Expanded",
+    "abstract": "A mod for Kerbal Space Program 2 adding two dozen new missions.",
+    "author": "PoloKornel",
+    "version": "0.1.0",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227017-mission-tree-expanded-010-for-ksp2-0220/",
+        "spacedock": "https://spacedock.info/mod/3831/Mission%20Tree%20Expanded",
+        "repository": "https://github.com/pasalvetti/MissionTreeExpanded",
+        "bugtracker": "https://github.com/pasalvetti/MissionTreeExpanded/issues",
+        "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Mission_Tree_Expanded/Mission_Tree_Expanded-1740857566.png"
+    },
+    "tags": [
+        "config"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "download": [
+        "https://github.com/pasalvetti/MissionTreeExpanded/releases/download/v0.1.0/MissionTreeExpanded_v0.1.zip",
+        "https://spacedock.info/mod/3831/Mission%20Tree%20Expanded/download/0.1.0"
+    ],
+    "download_size": 23816,
+    "download_hash": {
+        "sha1": "D2127F831DC27A392BD1F84CA491CF6E4EA83E7D",
+        "sha256": "8D27D615D9FB60F9538A8D50AD3BE8A87C165D3B9D8F083159DFADC971AF0C72"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 185994,
+    "release_date": "2025-03-01T19:31:38.913771+00:00",
+    "x_via": "Automated SpaceDock CKAN submission",
+    "x_generated_by": "netkan"
+}
