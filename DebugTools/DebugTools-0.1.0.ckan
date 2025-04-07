@@ -1,0 +1,39 @@
+{
+    "spec_version": 1,
+    "identifier": "DebugTools",
+    "name": "Debug Tools",
+    "abstract": "Various debug tools and helpers. (Press Alt+F12)",
+    "author": "Safarte",
+    "version": "0.1.0",
+    "ksp_version_min": "0.2.0",
+    "ksp_version_max": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3812/Debug%20Tools",
+        "repository": "https://github.com/Safarte/DebugTools",
+        "bugtracker": "https://github.com/Safarte/DebugTools/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/Safarte/DebugTools/main/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/Safarte_106659/Debug_Tools/Debug_Tools-1738449229.png"
+    },
+    "tags": [
+        "plugin"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "UITKforKSP2"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3812/Debug%20Tools/download/0.1.0",
+    "download_size": 21060,
+    "download_hash": {
+        "sha1": "9B12537EB11C4435C6622E6CDA13C426C9FD5DA3",
+        "sha256": "C81AAC0DBE4B0212EF74B23AED164AEA26036C639484A9D8E0D8923BBEA0E183"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 34446,
+    "release_date": "2025-02-01T22:20:02.525144+00:00",
+    "x_generated_by": "netkan"
+}
