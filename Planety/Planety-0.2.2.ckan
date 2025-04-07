@@ -1,0 +1,49 @@
+{
+    "spec_version": "v1.24",
+    "identifier": "Planety",
+    "name": "Planety",
+    "abstract": "Create new planets! (And stars)",
+    "author": "StellatedCUBE",
+    "version": "0.2.2",
+    "ksp_version": "0.2.2",
+    "license": "GPL-3.0",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3781/Planety",
+        "repository": "https://github.com/StellatedCUBE/Planety",
+        "bugtracker": "https://github.com/StellatedCUBE/Planety/issues",
+        "x_screenshot": "https://spacedock.info/content/StellatedCUBE_144285/Planety/Planety-1735152832.png"
+    },
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        }
+    ],
+    "install": [
+        {
+            "find": "BepInEx",
+            "include_only": [
+                "plugins",
+                "patchers"
+            ],
+            "install_to": "GameRoot"
+        },
+        {
+            "find": "KSP2_x64_Data",
+            "install_to": "GameRoot"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3781/Planety/download/0.2.2",
+    "download_size": 1896173,
+    "download_hash": {
+        "sha1": "4783C48667327F69984C23851E558D88EB021553",
+        "sha256": "FA4093E0D4CF3A88D34B4EBC636D5E77E834F52CDD0755FAF7B9AF532C1DF694"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 3348223,
+    "release_date": "2024-12-20T18:13:52.516859+00:00",
+    "x_generated_by": "netkan"
+}
