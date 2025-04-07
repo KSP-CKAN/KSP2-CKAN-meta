@@ -1,0 +1,51 @@
+{
+    "spec_version": "v1.34",
+    "identifier": "Meltdown",
+    "name": "Meltdown",
+    "abstract": "A part heating mod for Kerbal Space Program 2",
+    "author": "PoloKornel",
+    "version": "0.1.1",
+    "ksp_version": "0.2.2",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://discord.com/channels/1078696971088433153/1325942279260868728",
+        "spacedock": "https://spacedock.info/mod/3822/Meltdown",
+        "repository": "https://github.com/pasalvetti/meltdown",
+        "bugtracker": "https://github.com/pasalvetti/meltdown/issues",
+        "remote-swinfo": "https://raw.githubusercontent.com/pasalvetti/meltdown/refs/heads/main/Code/plugin_template/swinfo.json",
+        "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Meltdown/Meltdown-1739641885.png"
+    },
+    "tags": [
+        "plugin",
+        "parts",
+        "physics"
+    ],
+    "depends": [
+        {
+            "name": "SpaceWarp"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "install": [
+        {
+            "find": "Meltdown",
+            "install_to": "BepInEx/plugins",
+            "filter_regexp": "\\.pdb$"
+        }
+    ],
+    "download": [
+        "https://github.com/pasalvetti/meltdown/releases/download/v0.1.1/Meltdown_v0.1.1.zip",
+        "https://spacedock.info/mod/3822/Meltdown/download/0.1.1"
+    ],
+    "download_size": 24759992,
+    "download_hash": {
+        "sha1": "700A388D791DDE991A9E6BA2A4390AC2C13F04D8",
+        "sha256": "F43A995ADD6F050A7DC9A2B5AA1E7FE1C2864B6F9270AA5AEC150712A2B6D38E"
+    },
+    "download_content_type": "application/zip",
+    "install_size": 27840213,
+    "release_date": "2025-02-15T17:49:08.381175+00:00",
+    "x_generated_by": "netkan"
+}
