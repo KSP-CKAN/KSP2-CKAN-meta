@@ -25,6 +25,12 @@
             "name": "PatchManager"
         }
     ],
+    "install": [
+        {
+            "find": "MissionTreeExpanded",
+            "install_to": "BepInEx/plugins"
+        }
+    ],
     "download": [
         "https://github.com/pasalvetti/MissionTreeExpanded/releases/download/v0.1.0/MissionTreeExpanded_v0.1.zip",
         "https://spacedock.info/mod/3831/Mission%20Tree%20Expanded/download/0.1.0"
@@ -37,6 +43,5 @@
     "download_content_type": "application/zip",
     "install_size": 185994,
     "release_date": "2025-03-01T19:31:38.913771+00:00",
-    "x_via": "Automated SpaceDock CKAN submission",
     "x_generated_by": "netkan"
 }
