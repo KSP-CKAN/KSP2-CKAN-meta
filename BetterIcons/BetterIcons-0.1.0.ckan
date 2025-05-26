@@ -9,8 +9,7 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3718/Better%20Icons",
-        "repository": "https://github.com/pasalvetti/BetterIcons",
-        "bugtracker": "https://github.com/pasalvetti/BetterIcons/issues",
+        "repository": "https://github.com/pasalvetti/BetterIcons/",
         "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Better_Icons/Better_Icons-1727041019.png"
     },
     "tags": [
