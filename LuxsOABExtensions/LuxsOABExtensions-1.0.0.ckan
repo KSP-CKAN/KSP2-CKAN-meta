@@ -11,7 +11,6 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/216276-luxs-oab-extensions-010-more-symmetry-options-custom-size-labels-mk2-mk3-are-back/",
         "spacedock": "https://spacedock.info/mod/3354/Lux's%20OAB%20Extensions%20(LOABE)",
         "repository": "https://github.com/LuxStice/LuxsOABExtensions",
-        "bugtracker": "https://github.com/LuxStice/LuxsOABExtensions/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/LuxStice/LuxsOABExtensions/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Kemorno_20611/Luxs_OAB_Extensions/Luxs_OAB_Extensions-1680834446.png"
     },
