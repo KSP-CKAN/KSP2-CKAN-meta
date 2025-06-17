@@ -10,6 +10,7 @@
     "resources": {
         "spacedock": "https://spacedock.info/mod/3542/Trim%20Controller",
         "repository": "https://github.com/stevn999/trimController",
+        "bugtracker": "https://github.com/stevn999/trimController/issues",
         "x_screenshot": "https://spacedock.info/content/vaanultra_128170/Trim_Controller/Trim_Controller-1704972170.jpg"
     },
     "tags": [
