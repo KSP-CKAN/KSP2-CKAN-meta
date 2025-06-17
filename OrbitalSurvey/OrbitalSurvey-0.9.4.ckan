@@ -12,6 +12,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/221133-orbital-survey/",
         "spacedock": "https://spacedock.info/mod/3519/Orbital%20Survey",
         "repository": "https://github.com/Falki-git/OrbitalSurvey",
+        "bugtracker": "https://github.com/Falki-git/OrbitalSurvey/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/OrbitalSurvey/master/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Falki_104269/Orbital_Survey/Orbital_Survey-1701964774.png"
     },
