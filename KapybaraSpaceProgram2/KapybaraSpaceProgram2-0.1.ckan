@@ -15,6 +15,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/221176-kapybara-space-program-2/",
         "spacedock": "https://spacedock.info/mod/3522/Kapybara%20Space%20Program%202",
         "repository": "https://github.com/cheese3660/KapybaraSpaceProgram",
+        "bugtracker": "https://github.com/cheese3660/KapybaraSpaceProgram/issues",
         "x_screenshot": "https://spacedock.info/content/abelinoss_127001/Kapybara_Space_Program_2/Kapybara_Space_Program_2-1702299435.png"
     },
     "tags": [
