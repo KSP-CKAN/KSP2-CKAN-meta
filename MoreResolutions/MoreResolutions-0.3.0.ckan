@@ -11,8 +11,7 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/215043-more-resolutions-030/",
         "spacedock": "https://spacedock.info/mod/3320/More%20Resolutions",
-        "repository": "https://github.com/arthomnix/MoreResolutions",
-        "bugtracker": "https://github.com/arthomnix/MoreResolutions/issues",
+        "repository": "https://github.com/arthomnix/MoreResolutions/",
         "x_screenshot": "https://spacedock.info/content/arthomnix_105803/More_Resolutions/More_Resolutions-1678710105.png"
     },
     "tags": [
