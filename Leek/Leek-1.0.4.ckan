@@ -12,6 +12,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/219055-v100-leek/",
         "spacedock": "https://spacedock.info/mod/3450/Leek",
         "repository": "https://github.com/Safarte/Leek",
+        "bugtracker": "https://github.com/Safarte/Leek/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Safarte/Leek/main/BepInEx/plugins/Leek/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Safarte_106659/Leek/Leek-1693342135.png"
     },
