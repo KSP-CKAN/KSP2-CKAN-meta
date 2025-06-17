@@ -11,6 +11,7 @@
     "resources": {
         "spacedock": "https://spacedock.info/mod/3433/Commlines",
         "repository": "https://github.com/gamendegamer321/Commlines",
+        "bugtracker": "https://github.com/gamendegamer321/Commlines/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/gamendegamer321/Commlines/main/commlines/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/gamendegamer_118546/Commlines/Commlines-1690204648.png"
     },
