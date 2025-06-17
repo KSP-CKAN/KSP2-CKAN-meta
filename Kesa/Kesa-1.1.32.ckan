@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/218564-112-kesa-kesa-space-agency-parts-mod/",
         "spacedock": "https://spacedock.info/mod/3409/Kesa",
         "repository": "https://github.com/JiMKesa/kesa",
+        "bugtracker": "https://github.com/JiMKesa/kesa/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/JiMKesa/kesa/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/jimkesa_115625/Kesa/Kesa-1696584225.jpg"
     },
