@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223889-kuriosity-science-v010-for-ksp2-v021/",
         "spacedock": "https://spacedock.info/mod/3572/Kuriosity%20Science",
         "repository": "https://github.com/Cadestronaut/KuriosityScience",
+        "bugtracker": "https://github.com/Cadestronaut/KuriosityScience/issues",
         "remote-swinfo": "https://github.com/Cadestronaut/KuriosityScience/tree/master/plugin_template/swinfo.json"
     },
     "tags": [
