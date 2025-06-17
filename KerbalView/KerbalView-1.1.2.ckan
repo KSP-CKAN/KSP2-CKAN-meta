@@ -11,6 +11,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214326-kerbalview/",
         "spacedock": "https://spacedock.info/mod/3286/KerbalView",
         "repository": "https://github.com/EloxZ/KerbalView",
+        "bugtracker": "https://github.com/EloxZ/KerbalView/issues",
         "x_screenshot": "https://spacedock.info/content/EloxZ_104235/KerbalView/KerbalView-1677693479.jpeg"
     },
     "tags": [
