@@ -10,7 +10,6 @@
     "resources": {
         "spacedock": "https://spacedock.info/mod/3709/The%20ISS%20Construction%20Kit",
         "repository": "https://github.com/pasalvetti/iss",
-        "bugtracker": "https://github.com/pasalvetti/iss/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/pasalvetti/iss/main/Unity/ISS/Assets/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/The_ISS_Construction_Kit/The_ISS_Construction_Kit-1730563928.png"
     },
