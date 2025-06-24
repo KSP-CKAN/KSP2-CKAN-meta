@@ -37,7 +37,6 @@
             "find": "BepInEx",
             "install_to": "GameRoot",
             "include_only": [
-                "patchers",
                 "plugins"
             ]
         }
