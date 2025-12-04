@@ -9,6 +9,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3787/Ooh%20Shiny!",
+        "repository": "https://github.com/dandoesgithub/Ooh-Shiny-",
+        "bugtracker": "https://github.com/dandoesgithub/Ooh-Shiny-/issues",
         "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Ooh_Shiny/Ooh_Shiny-1734645196.png"
     },
     "tags": [
