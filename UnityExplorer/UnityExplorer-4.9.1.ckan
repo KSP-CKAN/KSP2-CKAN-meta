@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "resources": {
         "repository": "https://github.com/KSP2Community/UnityExplorer",
-        "remote-swinfo": "https://raw.githubusercontent.com/Falki-git/UnityExplorer/master/swinfo.json"
+        "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/UnityExplorer/master/swinfo.json"
     },
     "tags": [
         "plugin"
