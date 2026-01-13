@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3340/Speedy%20Startup",
         "repository": "https://github.com/arthomnix/SpeedyStartup",
         "bugtracker": "https://github.com/arthomnix/SpeedyStartup/issues",
+        "manual": "https://github.com/arthomnix/SpeedyStartup/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/arthomnix/SpeedyStartup/master/SpeedyStartup/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/arthomnix_105803/Speedy_Startup/Speedy_Startup-1679595632.png"
     },
