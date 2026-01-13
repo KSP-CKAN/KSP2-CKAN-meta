@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3546/Probably%20Askew",
         "repository": "https://github.com/ksp-train-wreck/probably-askew",
         "bugtracker": "https://github.com/ksp-train-wreck/probably-askew/issues",
+        "manual": "https://github.com/ksp-train-wreck/probably-askew/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/ksp-train-wreck/probably-askew/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/tomservo291_128004/Probably_Askew/Probably_Askew-1705326220.jpg"
     },
