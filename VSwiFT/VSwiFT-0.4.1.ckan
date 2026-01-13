@@ -17,6 +17,7 @@
         "spacedock": "https://spacedock.info/mod/3562/V-SwiFT",
         "repository": "https://github.com/KSP2Community/V-SwiFT",
         "bugtracker": "https://github.com/KSP2Community/V-SwiFT/issues",
+        "manual": "https://github.com/KSP2Community/V-SwiFT/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/V-SwiFT/main/plugin_template/swinfo.json"
     },
     "tags": [
