@@ -16,6 +16,7 @@
         "spacedock": "https://spacedock.info/mod/3277/Space%20Warp%20+%20BepInEx",
         "repository": "https://github.com/SpaceWarpDev/SpaceWarp",
         "bugtracker": "https://github.com/SpaceWarpDev/SpaceWarp/issues",
+        "manual": "https://github.com/SpaceWarpDev/SpaceWarp/wiki",
         "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Space_Warp__BepInEx/Space_Warp__BepInEx-1678544917.png"
     },
     "tags": [
