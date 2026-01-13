@@ -17,6 +17,7 @@
         "spacedock": "https://spacedock.info/mod/3482/Patch%20Manager",
         "repository": "https://github.com/KSP2Community/PatchManager",
         "bugtracker": "https://github.com/KSP2Community/PatchManager/issues",
+        "manual": "https://github.com/KSP2Community/PatchManager/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/PatchManager/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/cheese3660_103715/Patch_Manager/Patch_Manager-1703507804.png"
     },
