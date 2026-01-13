@@ -19,6 +19,7 @@
         "spacedock": "https://spacedock.info/mod/3484/Community%20Resources",
         "repository": "https://github.com/KSP2Community/CommunityResources",
         "bugtracker": "https://github.com/KSP2Community/CommunityResources/issues",
+        "manual": "https://github.com/KSP2Community/CommunityResources/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/CommunityResources/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Falki_104269/Community_Resources/Community_Resources-1704048781.png"
     },
