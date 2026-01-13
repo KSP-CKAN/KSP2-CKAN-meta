@@ -12,6 +12,7 @@
         "spacedock": "https://spacedock.info/mod/3362/Till%20Dusk",
         "repository": "https://github.com/Rexicon226/TillDusk",
         "bugtracker": "https://github.com/Rexicon226/TillDusk/issues",
+        "manual": "https://github.com/Rexicon226/TillDusk/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/Rexicon226/TillDusk/main/till_dusk/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Sinon_109075/Till_Dusk/Till_Dusk-1681577579.png"
     },
