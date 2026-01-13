@@ -16,6 +16,7 @@
         "spacedock": "https://spacedock.info/mod/3535/Shoemaker",
         "repository": "https://github.com/KSP2Community/Shoemaker",
         "bugtracker": "https://github.com/KSP2Community/Shoemaker/issues",
+        "manual": "https://github.com/KSP2Community/Shoemaker/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/KSP2Community/Shoemaker/main/plugin_template/swinfo.json"
     },
     "tags": [
