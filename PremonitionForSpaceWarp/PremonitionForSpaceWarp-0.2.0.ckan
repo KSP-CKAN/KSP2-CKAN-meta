@@ -12,6 +12,7 @@
         "spacedock": "https://spacedock.info/mod/3548/Premonition%20For%20SpaceWarp",
         "repository": "https://github.com/cheese3660/Premonition",
         "bugtracker": "https://github.com/cheese3660/Premonition/issues",
+        "manual": "https://github.com/cheese3660/Premonition/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/Premonition/main/plugin_template/swinfo.json"
     },
     "tags": [
