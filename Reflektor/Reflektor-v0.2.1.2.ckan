@@ -9,8 +9,7 @@
     "license": "MIT",
     "resources": {
         "repository": "https://github.com/coldrifting/Reflektor",
-        "bugtracker": "https://github.com/coldrifting/Reflektor/issues",
-        "manual": "https://github.com/coldrifting/Reflektor/wiki"
+        "bugtracker": "https://github.com/coldrifting/Reflektor/issues"
     },
     "tags": [
         "plugin"
