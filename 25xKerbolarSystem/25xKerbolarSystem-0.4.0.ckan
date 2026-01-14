@@ -13,7 +13,6 @@
         "spacedock": "https://spacedock.info/mod/3536/2.5x%20Kerbolar%20System",
         "repository": "https://github.com/cheese3660/2.5x-Kerbolar-System",
         "bugtracker": "https://github.com/cheese3660/2.5x-Kerbolar-System/issues",
-        "manual": "https://github.com/cheese3660/2.5x-Kerbolar-System/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/cheese3660/2.5x-Kerbolar-System/main/swinfo.json"
     },
     "tags": [
