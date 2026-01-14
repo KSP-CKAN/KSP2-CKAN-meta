@@ -13,7 +13,6 @@
         "spacedock": "https://spacedock.info/mod/3485/Kerbal%20Life-Support%20System",
         "repository": "https://github.com/Safarte/KerbalLifeSupportSystem",
         "bugtracker": "https://github.com/Safarte/KerbalLifeSupportSystem/issues",
-        "manual": "https://github.com/Safarte/KerbalLifeSupportSystem/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/Safarte/KerbalLifeSupportSystem/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Safarte_106659/Kerbal_Life-Support_System/Kerbal_Life-Support_System-1698527919.png"
     },
