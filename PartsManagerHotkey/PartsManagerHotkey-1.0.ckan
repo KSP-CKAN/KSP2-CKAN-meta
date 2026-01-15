@@ -11,8 +11,7 @@
         "homepage": "https://github.com/shdwp/ksp2PartsManagerHotkey/issues",
         "spacedock": "https://spacedock.info/mod/3314/Parts%20Manager%20Hotkey",
         "repository": "https://github.com/shdwp/ksp2PartsManagerHotkey",
-        "bugtracker": "https://github.com/shdwp/ksp2PartsManagerHotkey/issues",
-        "manual": "https://github.com/shdwp/ksp2PartsManagerHotkey/wiki"
+        "bugtracker": "https://github.com/shdwp/ksp2PartsManagerHotkey/issues"
     },
     "tags": [
         "plugin",
