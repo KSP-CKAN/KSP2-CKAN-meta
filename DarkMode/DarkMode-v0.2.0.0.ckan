@@ -9,7 +9,8 @@
     "license": "MIT",
     "resources": {
         "repository": "https://github.com/coldrifting/DarkModeForKSP2",
-        "bugtracker": "https://github.com/coldrifting/DarkModeForKSP2/issues"
+        "bugtracker": "https://github.com/coldrifting/DarkModeForKSP2/issues",
+        "manual": "https://github.com/coldrifting/DarkModeForKSP2/wiki"
     },
     "tags": [
         "plugin"
