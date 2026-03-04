@@ -15,6 +15,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/224209-zoomer-v020-ksp1-style-zoom-and-pan/",
         "spacedock": "https://spacedock.info/mod/3570/Zoomer",
         "repository": "https://github.com/Halbann/Zoomer",
+        "bugtracker": "https://github.com/Halbann/Zoomer/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Halbann/Zoomer/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Zoomer/Zoomer-1708816157.png"
     },
