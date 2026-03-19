@@ -11,6 +11,7 @@
     "resources": {
         "spacedock": "https://spacedock.info/mod/3812/Debug%20Tools",
         "repository": "https://github.com/Safarte/DebugTools",
+        "bugtracker": "https://github.com/Safarte/DebugTools/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Safarte/DebugTools/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Safarte_106659/Debug_Tools/Debug_Tools-1738449229.png"
     },
