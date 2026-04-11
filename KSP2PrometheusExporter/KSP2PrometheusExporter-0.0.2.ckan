@@ -11,8 +11,7 @@
         "homepage": "https://github.com/Goddchen/KSP2PrometheusExporter",
         "spacedock": "https://spacedock.info/mod/3370/KSP2%20Prometheus%20Exporter",
         "repository": "https://github.com/Goddchen/KSP2PrometheusExporter",
-        "bugtracker": "https://github.com/Goddchen/KSP2PrometheusExporter/issues",
-        "manual": "https://github.com/Goddchen/KSP2PrometheusExporter/wiki"
+        "bugtracker": "https://github.com/Goddchen/KSP2PrometheusExporter/issues"
     },
     "tags": [
         "plugin",
