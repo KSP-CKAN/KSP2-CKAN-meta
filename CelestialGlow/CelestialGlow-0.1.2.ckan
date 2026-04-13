@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3553/Celestial%20Glow",
         "repository": "https://github.com/WiS3/Celestial-Glow",
         "bugtracker": "https://github.com/WiS3/Celestial-Glow/issues",
+        "manual": "https://github.com/WiS3/Celestial-Glow/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/WiS3/Celestial-Glow/master/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/WiS3_127996/Celestial_Glow/Celestial_Glow-1706879922.png"
     },
