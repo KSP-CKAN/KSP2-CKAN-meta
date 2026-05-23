@@ -10,8 +10,8 @@
     "license": "MIT",
     "resources": {
         "spacedock": "https://spacedock.info/mod/3549/MouseFlyer",
-        "repository": "https://github.com/Loki-Lokster/MouseFlyer",
-        "bugtracker": "https://github.com/Loki-Lokster/MouseFlyer/issues",
+        "repository": "https://github.com/Loki-Lokster/MouseFlyer_ksp2",
+        "bugtracker": "https://github.com/Loki-Lokster/MouseFlyer_ksp2/issues",
         "remote-swinfo": "https://raw.githubusercontent.com/Loki-Lokster/MouseFlyer/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/loki_lokster_128319/MouseFlyer/MouseFlyer-1707795866.png"
     },
