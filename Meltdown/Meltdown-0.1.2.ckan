@@ -12,7 +12,6 @@
         "spacedock": "https://spacedock.info/mod/3822/Meltdown",
         "repository": "https://github.com/pasalvetti/meltdown",
         "bugtracker": "https://github.com/pasalvetti/meltdown/issues",
-        "manual": "https://github.com/pasalvetti/meltdown/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/pasalvetti/meltdown/refs/heads/main/Code/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/PoloKornel_124031/Meltdown/Meltdown-1739641885.png"
     },
