@@ -12,7 +12,6 @@
         "spacedock": "https://spacedock.info/mod/3538/SASed%20Warp",
         "repository": "https://github.com/SunSerega/KSP2-SASed-Warp",
         "bugtracker": "https://github.com/SunSerega/KSP2-SASed-Warp/issues",
-        "manual": "https://github.com/SunSerega/KSP2-SASed-Warp/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/SunSerega/KSP2-SASed-Warp/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Sun_Serega_127954/SASed_Warp/SASed_Warp-1704554722.png"
     },
