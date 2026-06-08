@@ -13,7 +13,6 @@
         "spacedock": "https://spacedock.info/mod/3470/SPARK%20Technologies",
         "repository": "https://github.com/schlosrat/SPARK",
         "bugtracker": "https://github.com/schlosrat/SPARK/issues",
-        "manual": "https://github.com/schlosrat/SPARK/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/SPARK/main/SPARK/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/SPARK_Technologies/SPARK_Technologies-1695428632.png"
     },
