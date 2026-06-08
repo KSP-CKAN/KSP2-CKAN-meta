@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3541/Science%20Arkive",
         "repository": "https://github.com/Kerbalight/ScienceArkive",
         "bugtracker": "https://github.com/Kerbalight/ScienceArkive/issues",
+        "manual": "https://github.com/Kerbalight/ScienceArkive/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/ScienceArkive/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/Science_Arkive/Science_Arkive-1704662862.png"
     },
