@@ -12,7 +12,8 @@
         "homepage": "https://forum.kerbalspaceprogram.com/topic/222176-wheres-my-crew-capsule-v003-for-ksp2-v0200/",
         "spacedock": "https://spacedock.info/mod/3531/Where's%20My%20Crew%20Capsule",
         "repository": "https://github.com/cheese3660/WheresMyCrewCapsule",
-        "bugtracker": "https://github.com/cheese3660/WheresMyCrewCapsule/issues"
+        "bugtracker": "https://github.com/cheese3660/WheresMyCrewCapsule/issues",
+        "manual": "https://github.com/cheese3660/WheresMyCrewCapsule/wiki"
     },
     "tags": [
         "config",
