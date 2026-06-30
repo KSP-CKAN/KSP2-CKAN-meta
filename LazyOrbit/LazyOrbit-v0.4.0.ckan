@@ -12,6 +12,7 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214571-lazy-orbit-v040-set-a-vessels-orbit-via-a-simple-menu/#comment-4253292",
         "spacedock": "https://spacedock.info/mod/3258/Lazy%20Orbit",
         "repository": "https://github.com/Halbann/LazyOrbit",
+        "bugtracker": "https://github.com/Halbann/LazyOrbit/issues",
         "x_screenshot": "https://spacedock.info/content/Halban_103632/Lazy_Orbit/Lazy_Orbit-1677636936.png"
     },
     "tags": [
