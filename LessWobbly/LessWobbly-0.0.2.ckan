@@ -11,7 +11,8 @@
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/213302-010-less-wobbly-making-rockets-less-wobbly-maybe/",
         "spacedock": "https://spacedock.info/mod/3267/Less%20Wobbly",
         "repository": "https://github.com/linuxgurugamer/KSP2-LessWobbly",
-        "bugtracker": "https://github.com/linuxgurugamer/KSP2-LessWobbly/issues"
+        "bugtracker": "https://github.com/linuxgurugamer/KSP2-LessWobbly/issues",
+        "manual": "https://github.com/linuxgurugamer/KSP2-LessWobbly/wiki"
     },
     "tags": [
         "plugin",
