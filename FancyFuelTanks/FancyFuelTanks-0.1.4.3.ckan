@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3431/Fancy%20Fuel%20Tanks",
         "repository": "https://github.com/cvusmo/FFT",
         "bugtracker": "https://github.com/cvusmo/FFT/issues",
+        "manual": "https://github.com/cvusmo/FFT/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/cvusmo/FFT/Master/FFT/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/cvusmo_111779/Fancy_Fuel_Tanks/Fancy_Fuel_Tanks-1691741623.png"
     },
