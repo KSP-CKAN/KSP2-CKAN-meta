@@ -12,6 +12,7 @@
         "spacedock": "https://spacedock.info/mod/3554/Wayfarer's%20Wings%20(Rank%20Ribbons)",
         "repository": "https://github.com/Kerbalight/WayfarersWings",
         "bugtracker": "https://github.com/Kerbalight/WayfarersWings/issues",
+        "manual": "https://github.com/Kerbalight/WayfarersWings/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/Kerbalight/WayfarersWings/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/leonardfactory_75455/Wayfarers_Wings_Rank_Ribbons/Wayfarers_Wings_Rank_Ribbons-1706920789.png"
     },
