@@ -9,7 +9,8 @@
     "license": "MIT",
     "resources": {
         "repository": "https://github.com/Oscilloscopy/KSP2-IVA",
-        "bugtracker": "https://github.com/Oscilloscopy/KSP2-IVA/issues"
+        "bugtracker": "https://github.com/Oscilloscopy/KSP2-IVA/issues",
+        "manual": "https://github.com/Oscilloscopy/KSP2-IVA/wiki"
     },
     "tags": [
         "plugin"
