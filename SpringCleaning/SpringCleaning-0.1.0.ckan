@@ -13,6 +13,7 @@
         "spacedock": "https://spacedock.info/mod/3566/Spring%20Cleaning",
         "repository": "https://github.com/Safarte/SpringCleaning",
         "bugtracker": "https://github.com/Safarte/SpringCleaning/issues",
+        "manual": "https://github.com/Safarte/SpringCleaning/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/Safarte/SpringCleaning/main/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Safarte_106659/Spring_Cleaning/Spring_Cleaning-1708463769.png"
     },
