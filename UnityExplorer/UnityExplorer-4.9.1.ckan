@@ -4,6 +4,7 @@
     "name": "Unity Explorer for KSP2",
     "abstract": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",
     "author": [
+        "sinai-dev",
         "Falki-git",
         "Safarte"
     ],
