@@ -11,7 +11,6 @@
         "spacedock": "https://spacedock.info/mod/3262/Custom%20Flags",
         "repository": "https://github.com/adamsong/custom-flags",
         "bugtracker": "https://github.com/adamsong/custom-flags/issues",
-        "manual": "https://github.com/adamsong/custom-flags/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/adamsong/custom-flags/master/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/adamsogm_103749/Custom_Flags/Custom_Flags-1678926977.png"
     },
