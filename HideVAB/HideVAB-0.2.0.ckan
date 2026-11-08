@@ -12,6 +12,7 @@
         "spacedock": "https://spacedock.info/mod/3547/HideVAB",
         "repository": "https://github.com/JakeInABoat/HideVAB",
         "bugtracker": "https://github.com/JakeInABoat/HideVAB/issues",
+        "manual": "https://github.com/JakeInABoat/HideVAB/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/JakeInABoat/HideVAB/master/plugin_template/swinfo.json"
     },
     "tags": [
