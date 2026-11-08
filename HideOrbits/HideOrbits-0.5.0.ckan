@@ -10,8 +10,7 @@
     "resources": {
         "spacedock": "https://spacedock.info/mod/3324/Hide%20Orbits",
         "repository": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits",
-        "bugtracker": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits/issues",
-        "manual": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits/wiki"
+        "bugtracker": "https://github.com/ColinZeidler/KSP2-HideDistantOrbits/issues"
     },
     "tags": [
         "plugin"
