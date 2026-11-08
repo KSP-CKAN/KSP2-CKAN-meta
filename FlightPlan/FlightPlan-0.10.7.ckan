@@ -12,7 +12,6 @@
         "spacedock": "https://spacedock.info/mod/3359/Flight%20Plan",
         "repository": "https://github.com/schlosrat/FlightPlan",
         "bugtracker": "https://github.com/schlosrat/FlightPlan/issues",
-        "manual": "https://github.com/schlosrat/FlightPlan/wiki",
         "remote-swinfo": "https://raw.githubusercontent.com/schlosrat/FlightPlan/master/plugin_template/swinfo.json",
         "x_screenshot": "https://spacedock.info/content/Schlosrat_104385/Flight_Plan/Flight_Plan-1706474824.png"
     },
