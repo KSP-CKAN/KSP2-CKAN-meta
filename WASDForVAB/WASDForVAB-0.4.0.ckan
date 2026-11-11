@@ -14,7 +14,8 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/topic/223551-wasd-for-ksp/",
         "spacedock": "https://spacedock.info/mod/3276/WASD%20For%20VAB",
-        "repository": "https://github.com/linuxgurugamer/WASDForVAB"
+        "repository": "https://github.com/linuxgurugamer/WASDForVAB",
+        "bugtracker": "https://github.com/linuxgurugamer/WASDForVAB/issues"
     },
     "tags": [
         "plugin",
